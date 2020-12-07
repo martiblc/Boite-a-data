@@ -1,2 +1,3 @@
-# datapratique
-Données souvent utilisées
+# Data pratique
+
+Jeux de données souvent utilisés.

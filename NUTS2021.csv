@@ -1,0 +1,2125 @@
+Code 2021,Country,NUTS level 1,NUTS level 2,NUTS level 3,NUTS level,Country order,Region order,...9,...10,...11,...12,...13,...14
+BE,Belgique/België,NA,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+BE1,NA,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,NA,NA,1,1,2,NA,NA,NA,NA,NA,NA
+BE10,NA,NA,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,NA,2,1,3,NA,NA,NA,NA,NA,NA
+BE100,NA,NA,NA,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,3,1,4,NA,NA,NA,NA,NA,NA
+BE2,NA,Vlaams Gewest,NA,NA,1,1,5,NA,NA,NA,NA,NA,NA
+BE21,NA,NA,Prov. Antwerpen,NA,2,1,6,NA,NA,NA,NA,NA,NA
+BE211,NA,NA,NA,Arr. Antwerpen,3,1,7,NA,NA,NA,NA,NA,NA
+BE212,NA,NA,NA,Arr. Mechelen,3,1,8,NA,NA,NA,NA,NA,NA
+BE213,NA,NA,NA,Arr. Turnhout,3,1,9,NA,NA,NA,NA,NA,NA
+BE22,NA,NA,Prov. Limburg (BE),NA,2,1,10,NA,NA,NA,NA,NA,NA
+BE223,NA,NA,NA,Arr. Tongeren,3,1,11,NA,NA,NA,NA,NA,NA
+BE224,NA,NA,NA,Arr. Hasselt,3,1,12,NA,NA,NA,NA,NA,NA
+BE225,NA,NA,NA,Arr. Maaseik,3,1,13,NA,NA,NA,NA,NA,NA
+BE23,NA,NA,Prov. Oost-Vlaanderen,NA,2,1,14,NA,NA,NA,NA,NA,NA
+BE231,NA,NA,NA,Arr. Aalst,3,1,15,NA,NA,NA,NA,NA,NA
+BE232,NA,NA,NA,Arr. Dendermonde,3,1,16,NA,NA,NA,NA,NA,NA
+BE233,NA,NA,NA,Arr. Eeklo,3,1,17,NA,NA,NA,NA,NA,NA
+BE234,NA,NA,NA,Arr. Gent,3,1,18,NA,NA,NA,NA,NA,NA
+BE235,NA,NA,NA,Arr. Oudenaarde,3,1,19,NA,NA,NA,NA,NA,NA
+BE236,NA,NA,NA,Arr. Sint-Niklaas,3,1,20,NA,NA,NA,NA,NA,NA
+BE24,NA,NA,Prov. Vlaams-Brabant,NA,2,1,21,NA,NA,NA,NA,NA,NA
+BE241,NA,NA,NA,Arr. Halle-Vilvoorde,3,1,22,NA,NA,NA,NA,NA,NA
+BE242,NA,NA,NA,Arr. Leuven,3,1,23,NA,NA,NA,NA,NA,NA
+BE25,NA,NA,Prov. West-Vlaanderen,NA,2,1,24,NA,NA,NA,NA,NA,NA
+BE251,NA,NA,NA,Arr. Brugge,3,1,25,NA,NA,NA,NA,NA,NA
+BE252,NA,NA,NA,Arr. Diksmuide,3,1,26,NA,NA,NA,NA,NA,NA
+BE253,NA,NA,NA,Arr. Ieper,3,1,27,NA,NA,NA,NA,NA,NA
+BE254,NA,NA,NA,Arr. Kortrijk,3,1,28,NA,NA,NA,NA,NA,NA
+BE255,NA,NA,NA,Arr. Oostende,3,1,29,NA,NA,NA,NA,NA,NA
+BE256,NA,NA,NA,Arr. Roeselare,3,1,30,NA,NA,NA,NA,NA,NA
+BE257,NA,NA,NA,Arr. Tielt,3,1,31,NA,NA,NA,NA,NA,NA
+BE258,NA,NA,NA,Arr. Veurne,3,1,32,NA,NA,NA,NA,NA,NA
+BE3,NA,Région wallonne,NA,NA,1,1,33,NA,NA,NA,NA,NA,NA
+BE31,NA,NA,Prov. Brabant Wallon,NA,2,1,34,NA,NA,NA,NA,NA,NA
+BE310,NA,NA,NA,Arr. Nivelles,3,1,35,NA,NA,NA,NA,NA,NA
+BE32,NA,NA,Prov. Hainaut,NA,2,1,36,NA,NA,NA,NA,NA,NA
+BE323,NA,NA,NA,Arr. Mons,3,1,37,NA,NA,NA,NA,NA,NA
+BE328,NA,NA,NA,Arr. Tournai-Mouscron,3,1,38,NA,NA,NA,NA,NA,NA
+BE329,NA,NA,NA,Arr. La Louvière,3,1,39,NA,NA,NA,NA,NA,NA
+BE32A,NA,NA,NA,Arr. Ath,3,1,40,NA,NA,NA,NA,NA,NA
+BE32B,NA,NA,NA,Arr. Charleroi,3,1,41,NA,NA,NA,NA,NA,NA
+BE32C,NA,NA,NA,Arr. Soignies,3,1,42,NA,NA,NA,NA,NA,NA
+BE32D,NA,NA,NA,Arr. Thuin,3,1,43,NA,NA,NA,NA,NA,NA
+BE33,NA,NA,Prov. Liège,NA,2,1,44,NA,NA,NA,NA,NA,NA
+BE331,NA,NA,NA,Arr. Huy,3,1,45,NA,NA,NA,NA,NA,NA
+BE332,NA,NA,NA,Arr. Liège,3,1,46,NA,NA,NA,NA,NA,NA
+BE334,NA,NA,NA,Arr. Waremme,3,1,47,NA,NA,NA,NA,NA,NA
+BE335,NA,NA,NA,Arr. Verviers — communes francophones,3,1,48,NA,NA,NA,NA,NA,NA
+BE336,NA,NA,NA,Bezirk Verviers — Deutschsprachige Gemeinschaft,3,1,49,NA,NA,NA,NA,NA,NA
+BE34,NA,NA,Prov. Luxembourg (BE),NA,2,1,50,NA,NA,NA,NA,NA,NA
+BE341,NA,NA,NA,Arr. Arlon,3,1,51,NA,NA,NA,NA,NA,NA
+BE342,NA,NA,NA,Arr. Bastogne,3,1,52,NA,NA,NA,NA,NA,NA
+BE343,NA,NA,NA,Arr. Marche-en-Famenne,3,1,53,NA,NA,NA,NA,NA,NA
+BE344,NA,NA,NA,Arr. Neufchâteau,3,1,54,NA,NA,NA,NA,NA,NA
+BE345,NA,NA,NA,Arr. Virton,3,1,55,NA,NA,NA,NA,NA,NA
+BE35,NA,NA,Prov. Namur,NA,2,1,56,NA,NA,NA,NA,NA,NA
+BE351,NA,NA,NA,Arr. Dinant,3,1,57,NA,NA,NA,NA,NA,NA
+BE352,NA,NA,NA,Arr. Namur,3,1,58,NA,NA,NA,NA,NA,NA
+BE353,NA,NA,NA,Arr. Philippeville,3,1,59,NA,NA,NA,NA,NA,NA
+BEZ,NA,Extra-Regio NUTS 1,NA,NA,1,1,60,NA,NA,NA,NA,NA,NA
+BEZZ,NA,NA,Extra-Regio NUTS 2,NA,2,1,61,NA,NA,NA,NA,NA,NA
+BEZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,1,62,NA,NA,NA,NA,NA,NA
+BG,България ,NA,NA,NA,0,2,63,NA,BG,Bulgaria,NA,NA,NA
+BG3,NA,Северна и Югоизточна България,NA,NA,1,2,64,NA,BG3,Severna i Yugoiztochna Bulgaria,NA,NA,NA
+BG31,NA,NA,Северозападен,NA,2,2,65,NA,BG31,NA,Severozapaden,NA,NA
+BG311,NA,NA,NA,Видин,3,2,66,NA,BG311,NA,NA,Vidin,NA
+BG312,NA,NA,NA,Монтана,3,2,67,NA,BG312,NA,NA,Montana,NA
+BG313,NA,NA,NA,Враца,3,2,68,NA,BG313,NA,NA,Vratsa,NA
+BG314,NA,NA,NA,Плевен,3,2,69,NA,BG314,NA,NA,Pleven,NA
+BG315,NA,NA,NA,Ловеч,3,2,70,NA,BG315,NA,NA,Lovech,NA
+BG32,NA,NA,Северен централен,NA,2,2,71,NA,BG32,NA,Severen tsentralen,NA,NA
+BG321,NA,NA,NA,Велико Търново,3,2,72,NA,BG321,NA,NA,Veliko Tarnovo,NA
+BG322,NA,NA,NA,Габрово,3,2,73,NA,BG322,NA,NA,Gabrovo,NA
+BG323,NA,NA,NA,Русе,3,2,74,NA,BG323,NA,NA,Ruse,NA
+BG324,NA,NA,NA,Разград,3,2,75,NA,BG324,NA,NA,Razgrad,NA
+BG325,NA,NA,NA,Силистра,3,2,76,NA,BG325,NA,NA,Silistra,NA
+BG33,NA,NA,Североизточен,NA,2,2,77,NA,BG33,NA,Severoiztochen,NA,NA
+BG331,NA,NA,NA,Варна,3,2,78,NA,BG331,NA,NA,Varna,NA
+BG332,NA,NA,NA,Добрич,3,2,79,NA,BG332,NA,NA,Dobrich,NA
+BG333,NA,NA,NA,Шумен,3,2,80,NA,BG333,NA,NA,Shumen,NA
+BG334,NA,NA,NA,Търговище,3,2,81,NA,BG334,NA,NA,Targovishte,NA
+BG34,NA,NA,Югоизточен,NA,2,2,82,NA,BG34,NA,Yugoiztochen,NA,NA
+BG341,NA,NA,NA,Бургас,3,2,83,NA,BG341,NA,NA,Burgas,NA
+BG342,NA,NA,NA,Сливен,3,2,84,NA,BG342,NA,NA,Sliven,NA
+BG343,NA,NA,NA,Ямбол,3,2,85,NA,BG343,NA,NA,Yambol,NA
+BG344,NA,NA,NA,Стара Загора,3,2,86,NA,BG344,NA,NA,Stara Zagora,NA
+BG4,NA,Югозападна и Южна централна България,NA,NA,1,2,87,NA,BG4,Yugozapadna i Yuzhna tsentralna Bulgaria,NA,NA,NA
+BG41,NA,NA,Югозападен,NA,2,2,88,NA,BG41,NA,Yugozapaden,NA,NA
+BG411,NA,NA,NA,София (столица),3,2,89,NA,BG411,NA,NA,Sofia (stolitsa),NA
+BG412,NA,NA,NA,София,3,2,90,NA,BG412,NA,NA,Sofia,NA
+BG413,NA,NA,NA,Благоевград,3,2,91,NA,BG413,NA,NA,Blagoevgrad,NA
+BG414,NA,NA,NA,Перник,3,2,92,NA,BG414,NA,NA,Pernik,NA
+BG415,NA,NA,NA,Кюстендил,3,2,93,NA,BG415,NA,NA,Kyustendil,NA
+BG42,NA,NA,Южен централен,NA,2,2,94,NA,BG42,NA,Yuzhen tsentralen,NA,NA
+BG421,NA,NA,NA,Пловдив,3,2,95,NA,BG421,NA,NA,Plovdiv,NA
+BG422,NA,NA,NA,Хасково,3,2,96,NA,BG422,NA,NA,Haskovo,NA
+BG423,NA,NA,NA,Пазарджик,3,2,97,NA,BG423,NA,NA,Pazardzhik,NA
+BG424,NA,NA,NA,Смолян,3,2,98,NA,BG424,NA,NA,Smolyan,NA
+BG425,NA,NA,NA,Кърджали,3,2,99,NA,BG425,NA,NA,Kardzhali,NA
+BGZ,NA,Extra-Regio NUTS 1,NA,NA,1,2,100,NA,BGZ,Extra-Regio NUTS 1,NA,NA,NA
+BGZZ,NA,NA,Extra-Regio NUTS 2,NA,2,2,101,NA,BGZZ,NA,Extra-Regio NUTS 2,NA,NA
+BGZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,2,102,NA,BGZZZ,NA,NA,Extra-Regio NUTS 3,NA
+CZ,Česko,NA,NA,NA,0,3,103,NA,NA,NA,NA,NA,NA
+CZ0,NA,Česko,NA,NA,1,3,104,NA,The version in Latin characters is not official. It is included here only for the sake of comprehension.,NA,NA,NA,NA
+CZ01,NA,NA,Praha,NA,2,3,105,NA,NA,NA,NA,NA,NA
+CZ010,NA,NA,NA,Hlavní město Praha,3,3,106,NA,NA,NA,NA,NA,NA
+CZ02,NA,NA,Střední Čechy,NA,2,3,107,NA,NA,NA,NA,NA,NA
+CZ020,NA,NA,NA,Středočeský kraj,3,3,108,NA,NA,NA,NA,NA,NA
+CZ03,NA,NA,Jihozápad,NA,2,3,109,NA,NA,NA,NA,NA,NA
+CZ031,NA,NA,NA,Jihočeský kraj,3,3,110,NA,NA,NA,NA,NA,NA
+CZ032,NA,NA,NA,Plzeňský kraj,3,3,111,NA,NA,NA,NA,NA,NA
+CZ04,NA,NA,Severozápad,NA,2,3,112,NA,NA,NA,NA,NA,NA
+CZ041,NA,NA,NA,Karlovarský kraj,3,3,113,NA,NA,NA,NA,NA,NA
+CZ042,NA,NA,NA,Ústecký kraj,3,3,114,NA,NA,NA,NA,NA,NA
+CZ05,NA,NA,Severovýchod,NA,2,3,115,NA,NA,NA,NA,NA,NA
+CZ051,NA,NA,NA,Liberecký kraj,3,3,116,NA,NA,NA,NA,NA,NA
+CZ052,NA,NA,NA,Královéhradecký kraj,3,3,117,NA,NA,NA,NA,NA,NA
+CZ053,NA,NA,NA,Pardubický kraj,3,3,118,NA,NA,NA,NA,NA,NA
+CZ06,NA,NA,Jihovýchod,NA,2,3,119,NA,NA,NA,NA,NA,NA
+CZ063,NA,NA,NA,Kraj Vysočina,3,3,120,NA,NA,NA,NA,NA,NA
+CZ064,NA,NA,NA,Jihomoravský kraj,3,3,121,NA,NA,NA,NA,NA,NA
+CZ07,NA,NA,Střední Morava,NA,2,3,122,NA,NA,NA,NA,NA,NA
+CZ071,NA,NA,NA,Olomoucký kraj,3,3,123,NA,NA,NA,NA,NA,NA
+CZ072,NA,NA,NA,Zlínský kraj,3,3,124,NA,NA,NA,NA,NA,NA
+CZ08,NA,NA,Moravskoslezsko,NA,2,3,125,NA,NA,NA,NA,NA,NA
+CZ080,NA,NA,NA,Moravskoslezský kraj,3,3,126,NA,NA,NA,NA,NA,NA
+CZZ,NA,Extra-Regio NUTS 1,NA,NA,1,3,127,NA,NA,NA,NA,NA,NA
+CZZZ,NA,NA,Extra-Regio NUTS 2,NA,2,3,128,NA,NA,NA,NA,NA,NA
+CZZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,3,129,NA,NA,NA,NA,NA,NA
+DK,Danmark,NA,NA,NA,0,4,130,NA,NA,NA,NA,NA,NA
+DK0,NA,Danmark,NA,NA,1,4,131,NA,NA,NA,NA,NA,NA
+DK01,NA,NA,Hovedstaden,NA,2,4,132,NA,NA,NA,NA,NA,NA
+DK011,NA,NA,NA,Byen København,3,4,133,NA,NA,NA,NA,NA,NA
+DK012,NA,NA,NA,Københavns omegn,3,4,134,NA,NA,NA,NA,NA,NA
+DK013,NA,NA,NA,Nordsjælland,3,4,135,NA,NA,NA,NA,NA,NA
+DK014,NA,NA,NA,Bornholm,3,4,136,NA,NA,NA,NA,NA,NA
+DK02,NA,NA,Sjælland,NA,2,4,137,NA,NA,NA,NA,NA,NA
+DK021,NA,NA,NA,Østsjælland,3,4,138,NA,NA,NA,NA,NA,NA
+DK022,NA,NA,NA,Vest- og Sydsjælland,3,4,139,NA,NA,NA,NA,NA,NA
+DK03,NA,NA,Syddanmark,NA,2,4,140,NA,NA,NA,NA,NA,NA
+DK031,NA,NA,NA,Fyn,3,4,141,NA,NA,NA,NA,NA,NA
+DK032,NA,NA,NA,Sydjylland,3,4,142,NA,NA,NA,NA,NA,NA
+DK04,NA,NA,Midtjylland,NA,2,4,143,NA,NA,NA,NA,NA,NA
+DK041,NA,NA,NA,Vestjylland,3,4,144,NA,NA,NA,NA,NA,NA
+DK042,NA,NA,NA,Østjylland,3,4,145,NA,NA,NA,NA,NA,NA
+DK05,NA,NA,Nordjylland,NA,2,4,146,NA,NA,NA,NA,NA,NA
+DK050,NA,NA,NA,Nordjylland,3,4,147,NA,NA,NA,NA,NA,NA
+DKZ,NA,Extra-Regio NUTS 1,NA,NA,1,4,148,NA,NA,NA,NA,NA,NA
+DKZZ,NA,NA,Extra-Regio NUTS 2,NA,2,4,149,NA,NA,NA,NA,NA,NA
+DKZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,4,150,NA,NA,NA,NA,NA,NA
+DE,Deutschland,NA,NA,NA,0,5,151,NA,NA,NA,NA,NA,NA
+DE1,NA,Baden-Württemberg,NA,NA,1,5,152,NA,NA,NA,NA,NA,NA
+DE11,NA,NA,Stuttgart,NA,2,5,153,NA,NA,NA,NA,NA,NA
+DE111,NA,NA,NA,"Stuttgart, Stadtkreis",3,5,154,NA,NA,NA,NA,NA,NA
+DE112,NA,NA,NA,Böblingen,3,5,155,NA,NA,NA,NA,NA,NA
+DE113,NA,NA,NA,Esslingen,3,5,156,NA,NA,NA,NA,NA,NA
+DE114,NA,NA,NA,Göppingen,3,5,157,NA,NA,NA,NA,NA,NA
+DE115,NA,NA,NA,Ludwigsburg,3,5,158,NA,NA,NA,NA,NA,NA
+DE116,NA,NA,NA,Rems-Murr-Kreis,3,5,159,NA,NA,NA,NA,NA,NA
+DE117,NA,NA,NA,"Heilbronn, Stadtkreis",3,5,160,NA,NA,NA,NA,NA,NA
+DE118,NA,NA,NA,"Heilbronn, Landkreis",3,5,161,NA,NA,NA,NA,NA,NA
+DE119,NA,NA,NA,Hohenlohekreis,3,5,162,NA,NA,NA,NA,NA,NA
+DE11A,NA,NA,NA,Schwäbisch Hall,3,5,163,NA,NA,NA,NA,NA,NA
+DE11B,NA,NA,NA,Main-Tauber-Kreis,3,5,164,NA,NA,NA,NA,NA,NA
+DE11C,NA,NA,NA,Heidenheim,3,5,165,NA,NA,NA,NA,NA,NA
+DE11D,NA,NA,NA,Ostalbkreis,3,5,166,NA,NA,NA,NA,NA,NA
+DE12,NA,NA,Karlsruhe,NA,2,5,167,NA,NA,NA,NA,NA,NA
+DE121,NA,NA,NA,"Baden-Baden, Stadtkreis",3,5,168,NA,NA,NA,NA,NA,NA
+DE122,NA,NA,NA,"Karlsruhe, Stadtkreis",3,5,169,NA,NA,NA,NA,NA,NA
+DE123,NA,NA,NA,"Karlsruhe, Landkreis",3,5,170,NA,NA,NA,NA,NA,NA
+DE124,NA,NA,NA,Rastatt,3,5,171,NA,NA,NA,NA,NA,NA
+DE125,NA,NA,NA,"Heidelberg, Stadtkreis",3,5,172,NA,NA,NA,NA,NA,NA
+DE126,NA,NA,NA,"Mannheim, Stadtkreis",3,5,173,NA,NA,NA,NA,NA,NA
+DE127,NA,NA,NA,Neckar-Odenwald-Kreis,3,5,174,NA,NA,NA,NA,NA,NA
+DE128,NA,NA,NA,Rhein-Neckar-Kreis,3,5,175,NA,NA,NA,NA,NA,NA
+DE129,NA,NA,NA,"Pforzheim, Stadtkreis",3,5,176,NA,NA,NA,NA,NA,NA
+DE12A,NA,NA,NA,Calw,3,5,177,NA,NA,NA,NA,NA,NA
+DE12B,NA,NA,NA,Enzkreis,3,5,178,NA,NA,NA,NA,NA,NA
+DE12C,NA,NA,NA,Freudenstadt,3,5,179,NA,NA,NA,NA,NA,NA
+DE13,NA,NA,Freiburg,NA,2,5,180,NA,NA,NA,NA,NA,NA
+DE131,NA,NA,NA,"Freiburg im Breisgau, Stadtkreis",3,5,181,NA,NA,NA,NA,NA,NA
+DE132,NA,NA,NA,Breisgau-Hochschwarzwald,3,5,182,NA,NA,NA,NA,NA,NA
+DE133,NA,NA,NA,Emmendingen,3,5,183,NA,NA,NA,NA,NA,NA
+DE134,NA,NA,NA,Ortenaukreis,3,5,184,NA,NA,NA,NA,NA,NA
+DE135,NA,NA,NA,Rottweil,3,5,185,NA,NA,NA,NA,NA,NA
+DE136,NA,NA,NA,Schwarzwald-Baar-Kreis,3,5,186,NA,NA,NA,NA,NA,NA
+DE137,NA,NA,NA,Tuttlingen,3,5,187,NA,NA,NA,NA,NA,NA
+DE138,NA,NA,NA,Konstanz,3,5,188,NA,NA,NA,NA,NA,NA
+DE139,NA,NA,NA,Lörrach,3,5,189,NA,NA,NA,NA,NA,NA
+DE13A,NA,NA,NA,Waldshut,3,5,190,NA,NA,NA,NA,NA,NA
+DE14,NA,NA,Tübingen,NA,2,5,191,NA,NA,NA,NA,NA,NA
+DE141,NA,NA,NA,Reutlingen,3,5,192,NA,NA,NA,NA,NA,NA
+DE142,NA,NA,NA,"Tübingen, Landkreis",3,5,193,NA,NA,NA,NA,NA,NA
+DE143,NA,NA,NA,Zollernalbkreis,3,5,194,NA,NA,NA,NA,NA,NA
+DE144,NA,NA,NA,"Ulm, Stadtkreis",3,5,195,NA,NA,NA,NA,NA,NA
+DE145,NA,NA,NA,Alb-Donau-Kreis,3,5,196,NA,NA,NA,NA,NA,NA
+DE146,NA,NA,NA,Biberach,3,5,197,NA,NA,NA,NA,NA,NA
+DE147,NA,NA,NA,Bodenseekreis,3,5,198,NA,NA,NA,NA,NA,NA
+DE148,NA,NA,NA,Ravensburg,3,5,199,NA,NA,NA,NA,NA,NA
+DE149,NA,NA,NA,Sigmaringen,3,5,200,NA,NA,NA,NA,NA,NA
+DE2,NA,Bayern,NA,NA,1,5,201,NA,NA,NA,NA,NA,NA
+DE21,NA,NA,Oberbayern,NA,2,5,202,NA,NA,NA,NA,NA,NA
+DE211,NA,NA,NA,"Ingolstadt, Kreisfreie Stadt",3,5,203,NA,NA,NA,NA,NA,NA
+DE212,NA,NA,NA,"München, Kreisfreie Stadt",3,5,204,NA,NA,NA,NA,NA,NA
+DE213,NA,NA,NA,"Rosenheim, Kreisfreie Stadt",3,5,205,NA,NA,NA,NA,NA,NA
+DE214,NA,NA,NA,Altötting,3,5,206,NA,NA,NA,NA,NA,NA
+DE215,NA,NA,NA,Berchtesgadener Land,3,5,207,NA,NA,NA,NA,NA,NA
+DE216,NA,NA,NA,Bad Tölz-Wolfratshausen,3,5,208,NA,NA,NA,NA,NA,NA
+DE217,NA,NA,NA,Dachau,3,5,209,NA,NA,NA,NA,NA,NA
+DE218,NA,NA,NA,Ebersberg,3,5,210,NA,NA,NA,NA,NA,NA
+DE219,NA,NA,NA,Eichstätt,3,5,211,NA,NA,NA,NA,NA,NA
+DE21A,NA,NA,NA,Erding,3,5,212,NA,NA,NA,NA,NA,NA
+DE21B,NA,NA,NA,Freising,3,5,213,NA,NA,NA,NA,NA,NA
+DE21C,NA,NA,NA,Fürstenfeldbruck,3,5,214,NA,NA,NA,NA,NA,NA
+DE21D,NA,NA,NA,Garmisch-Partenkirchen,3,5,215,NA,NA,NA,NA,NA,NA
+DE21E,NA,NA,NA,Landsberg am Lech,3,5,216,NA,NA,NA,NA,NA,NA
+DE21F,NA,NA,NA,Miesbach,3,5,217,NA,NA,NA,NA,NA,NA
+DE21G,NA,NA,NA,Mühldorf a. Inn,3,5,218,NA,NA,NA,NA,NA,NA
+DE21H,NA,NA,NA,"München, Landkreis",3,5,219,NA,NA,NA,NA,NA,NA
+DE21I,NA,NA,NA,Neuburg-Schrobenhausen,3,5,220,NA,NA,NA,NA,NA,NA
+DE21J,NA,NA,NA,Pfaffenhofen a. d. Ilm,3,5,221,NA,NA,NA,NA,NA,NA
+DE21K,NA,NA,NA,"Rosenheim, Landkreis",3,5,222,NA,NA,NA,NA,NA,NA
+DE21L,NA,NA,NA,Starnberg,3,5,223,NA,NA,NA,NA,NA,NA
+DE21M,NA,NA,NA,Traunstein,3,5,224,NA,NA,NA,NA,NA,NA
+DE21N,NA,NA,NA,Weilheim-Schongau,3,5,225,NA,NA,NA,NA,NA,NA
+DE22,NA,NA,Niederbayern,NA,2,5,226,NA,NA,NA,NA,NA,NA
+DE221,NA,NA,NA,"Landshut, Kreisfreie Stadt",3,5,227,NA,NA,NA,NA,NA,NA
+DE222,NA,NA,NA,"Passau, Kreisfreie Stadt",3,5,228,NA,NA,NA,NA,NA,NA
+DE223,NA,NA,NA,"Straubing, Kreisfreie Stadt",3,5,229,NA,NA,NA,NA,NA,NA
+DE224,NA,NA,NA,Deggendorf,3,5,230,NA,NA,NA,NA,NA,NA
+DE225,NA,NA,NA,Freyung-Grafenau,3,5,231,NA,NA,NA,NA,NA,NA
+DE226,NA,NA,NA,Kelheim,3,5,232,NA,NA,NA,NA,NA,NA
+DE227,NA,NA,NA,"Landshut, Landkreis",3,5,233,NA,NA,NA,NA,NA,NA
+DE228,NA,NA,NA,"Passau, Landkreis",3,5,234,NA,NA,NA,NA,NA,NA
+DE229,NA,NA,NA,Regen,3,5,235,NA,NA,NA,NA,NA,NA
+DE22A,NA,NA,NA,Rottal-Inn,3,5,236,NA,NA,NA,NA,NA,NA
+DE22B,NA,NA,NA,Straubing-Bogen,3,5,237,NA,NA,NA,NA,NA,NA
+DE22C,NA,NA,NA,Dingolfing-Landau,3,5,238,NA,NA,NA,NA,NA,NA
+DE23,NA,NA,Oberpfalz,NA,2,5,239,NA,NA,NA,NA,NA,NA
+DE231,NA,NA,NA,"Amberg, Kreisfreie Stadt",3,5,240,NA,NA,NA,NA,NA,NA
+DE232,NA,NA,NA,"Regensburg, Kreisfreie Stadt",3,5,241,NA,NA,NA,NA,NA,NA
+DE233,NA,NA,NA,"Weiden i. d. Opf, Kreisfreie Stadt",3,5,242,NA,NA,NA,NA,NA,NA
+DE234,NA,NA,NA,Amberg-Sulzbach,3,5,243,NA,NA,NA,NA,NA,NA
+DE235,NA,NA,NA,Cham,3,5,244,NA,NA,NA,NA,NA,NA
+DE236,NA,NA,NA,Neumarkt i. d. OPf.,3,5,245,NA,NA,NA,NA,NA,NA
+DE237,NA,NA,NA,Neustadt a. d. Waldnaab,3,5,246,NA,NA,NA,NA,NA,NA
+DE238,NA,NA,NA,"Regensburg, Landkreis",3,5,247,NA,NA,NA,NA,NA,NA
+DE239,NA,NA,NA,Schwandorf,3,5,248,NA,NA,NA,NA,NA,NA
+DE23A,NA,NA,NA,Tirschenreuth,3,5,249,NA,NA,NA,NA,NA,NA
+DE24,NA,NA,Oberfranken,NA,2,5,250,NA,NA,NA,NA,NA,NA
+DE241,NA,NA,NA,"Bamberg, Kreisfreie Stadt",3,5,251,NA,NA,NA,NA,NA,NA
+DE242,NA,NA,NA,"Bayreuth, Kreisfreie Stadt",3,5,252,NA,NA,NA,NA,NA,NA
+DE243,NA,NA,NA,"Coburg, Kreisfreie Stadt",3,5,253,NA,NA,NA,NA,NA,NA
+DE244,NA,NA,NA,"Hof, Kreisfreie Stadt",3,5,254,NA,NA,NA,NA,NA,NA
+DE245,NA,NA,NA,"Bamberg, Landkreis",3,5,255,NA,NA,NA,NA,NA,NA
+DE246,NA,NA,NA,"Bayreuth, Landkreis",3,5,256,NA,NA,NA,NA,NA,NA
+DE247,NA,NA,NA,"Coburg, Landkreis",3,5,257,NA,NA,NA,NA,NA,NA
+DE248,NA,NA,NA,Forchheim,3,5,258,NA,NA,NA,NA,NA,NA
+DE249,NA,NA,NA,"Hof, Landkreis",3,5,259,NA,NA,NA,NA,NA,NA
+DE24A,NA,NA,NA,Kronach,3,5,260,NA,NA,NA,NA,NA,NA
+DE24B,NA,NA,NA,Kulmbach,3,5,261,NA,NA,NA,NA,NA,NA
+DE24C,NA,NA,NA,Lichtenfels,3,5,262,NA,NA,NA,NA,NA,NA
+DE24D,NA,NA,NA,Wunsiedel i. Fichtelgebirge,3,5,263,NA,NA,NA,NA,NA,NA
+DE25,NA,NA,Mittelfranken,NA,2,5,264,NA,NA,NA,NA,NA,NA
+DE251,NA,NA,NA,"Ansbach, Kreisfreie Stadt",3,5,265,NA,NA,NA,NA,NA,NA
+DE252,NA,NA,NA,"Erlangen, Kreisfreie Stadt",3,5,266,NA,NA,NA,NA,NA,NA
+DE253,NA,NA,NA,"Fürth, Kreisfreie Stadt",3,5,267,NA,NA,NA,NA,NA,NA
+DE254,NA,NA,NA,"Nürnberg, Kreisfreie Stadt",3,5,268,NA,NA,NA,NA,NA,NA
+DE255,NA,NA,NA,"Schwabach, Kreisfreie Stadt",3,5,269,NA,NA,NA,NA,NA,NA
+DE256,NA,NA,NA,"Ansbach, Landkreis",3,5,270,NA,NA,NA,NA,NA,NA
+DE257,NA,NA,NA,Erlangen-Höchstadt,3,5,271,NA,NA,NA,NA,NA,NA
+DE258,NA,NA,NA,"Fürth, Landkreis",3,5,272,NA,NA,NA,NA,NA,NA
+DE259,NA,NA,NA,Nürnberger Land,3,5,273,NA,NA,NA,NA,NA,NA
+DE25A,NA,NA,NA,Neustadt a. d. Aisch-Bad Windsheim,3,5,274,NA,NA,NA,NA,NA,NA
+DE25B,NA,NA,NA,Roth,3,5,275,NA,NA,NA,NA,NA,NA
+DE25C,NA,NA,NA,Weißenburg-Gunzenhausen,3,5,276,NA,NA,NA,NA,NA,NA
+DE26,NA,NA,Unterfranken,NA,2,5,277,NA,NA,NA,NA,NA,NA
+DE261,NA,NA,NA,"Aschaffenburg, Kreisfreie Stadt",3,5,278,NA,NA,NA,NA,NA,NA
+DE262,NA,NA,NA,"Schweinfurt, Kreisfreie Stadt",3,5,279,NA,NA,NA,NA,NA,NA
+DE263,NA,NA,NA,"Würzburg, Kreisfreie Stadt",3,5,280,NA,NA,NA,NA,NA,NA
+DE264,NA,NA,NA,"Aschaffenburg, Landkreis",3,5,281,NA,NA,NA,NA,NA,NA
+DE265,NA,NA,NA,Bad Kissingen,3,5,282,NA,NA,NA,NA,NA,NA
+DE266,NA,NA,NA,Rhön-Grabfeld,3,5,283,NA,NA,NA,NA,NA,NA
+DE267,NA,NA,NA,Haßberge,3,5,284,NA,NA,NA,NA,NA,NA
+DE268,NA,NA,NA,Kitzingen,3,5,285,NA,NA,NA,NA,NA,NA
+DE269,NA,NA,NA,Miltenberg,3,5,286,NA,NA,NA,NA,NA,NA
+DE26A,NA,NA,NA,Main-Spessart,3,5,287,NA,NA,NA,NA,NA,NA
+DE26B,NA,NA,NA,"Schweinfurt, Landkreis",3,5,288,NA,NA,NA,NA,NA,NA
+DE26C,NA,NA,NA,"Würzburg, Landkreis",3,5,289,NA,NA,NA,NA,NA,NA
+DE27,NA,NA,Schwaben,NA,2,5,290,NA,NA,NA,NA,NA,NA
+DE271,NA,NA,NA,"Augsburg, Kreisfreie Stadt",3,5,291,NA,NA,NA,NA,NA,NA
+DE272,NA,NA,NA,"Kaufbeuren, Kreisfreie Stadt",3,5,292,NA,NA,NA,NA,NA,NA
+DE273,NA,NA,NA,"Kempten (Allgäu), Kreisfreie Stadt",3,5,293,NA,NA,NA,NA,NA,NA
+DE274,NA,NA,NA,"Memmingen, Kreisfreie Stadt",3,5,294,NA,NA,NA,NA,NA,NA
+DE275,NA,NA,NA,Aichach-Friedberg,3,5,295,NA,NA,NA,NA,NA,NA
+DE276,NA,NA,NA,"Augsburg, Landkreis",3,5,296,NA,NA,NA,NA,NA,NA
+DE277,NA,NA,NA,Dillingen a.d. Donau,3,5,297,NA,NA,NA,NA,NA,NA
+DE278,NA,NA,NA,Günzburg,3,5,298,NA,NA,NA,NA,NA,NA
+DE279,NA,NA,NA,Neu-Ulm,3,5,299,NA,NA,NA,NA,NA,NA
+DE27A,NA,NA,NA,Lindau (Bodensee),3,5,300,NA,NA,NA,NA,NA,NA
+DE27B,NA,NA,NA,Ostallgäu,3,5,301,NA,NA,NA,NA,NA,NA
+DE27C,NA,NA,NA,Unterallgäu,3,5,302,NA,NA,NA,NA,NA,NA
+DE27D,NA,NA,NA,Donau-Ries,3,5,303,NA,NA,NA,NA,NA,NA
+DE27E,NA,NA,NA,Oberallgäu,3,5,304,NA,NA,NA,NA,NA,NA
+DE3,NA,Berlin,NA,NA,1,5,305,NA,NA,NA,NA,NA,NA
+DE30,NA,NA,Berlin,NA,2,5,306,NA,NA,NA,NA,NA,NA
+DE300,NA,NA,NA,Berlin,3,5,307,NA,NA,NA,NA,NA,NA
+DE4,NA,Brandenburg,NA,NA,1,5,308,NA,NA,NA,NA,NA,NA
+DE40,NA,NA,Brandenburg,NA,2,5,309,NA,NA,NA,NA,NA,NA
+DE401,NA,NA,NA,"Brandenburg an der Havel, Kreisfreie Stadt",3,5,310,NA,NA,NA,NA,NA,NA
+DE402,NA,NA,NA,"Cottbus, Kreisfreie Stadt",3,5,311,NA,NA,NA,NA,NA,NA
+DE403,NA,NA,NA,"Frankfurt (Oder), Kreisfreie Stadt",3,5,312,NA,NA,NA,NA,NA,NA
+DE404,NA,NA,NA,"Potsdam, Kreisfreie Stadt",3,5,313,NA,NA,NA,NA,NA,NA
+DE405,NA,NA,NA,Barnim,3,5,314,NA,NA,NA,NA,NA,NA
+DE406,NA,NA,NA,Dahme-Spreewald,3,5,315,NA,NA,NA,NA,NA,NA
+DE407,NA,NA,NA,Elbe-Elster,3,5,316,NA,NA,NA,NA,NA,NA
+DE408,NA,NA,NA,Havelland,3,5,317,NA,NA,NA,NA,NA,NA
+DE409,NA,NA,NA,Märkisch-Oderland,3,5,318,NA,NA,NA,NA,NA,NA
+DE40A,NA,NA,NA,Oberhavel,3,5,319,NA,NA,NA,NA,NA,NA
+DE40B,NA,NA,NA,Oberspreewald-Lausitz,3,5,320,NA,NA,NA,NA,NA,NA
+DE40C,NA,NA,NA,Oder-Spree,3,5,321,NA,NA,NA,NA,NA,NA
+DE40D,NA,NA,NA,Ostprignitz-Ruppin,3,5,322,NA,NA,NA,NA,NA,NA
+DE40E,NA,NA,NA,Potsdam-Mittelmark,3,5,323,NA,NA,NA,NA,NA,NA
+DE40F,NA,NA,NA,Prignitz,3,5,324,NA,NA,NA,NA,NA,NA
+DE40G,NA,NA,NA,Spree-Neiße,3,5,325,NA,NA,NA,NA,NA,NA
+DE40H,NA,NA,NA,Teltow-Fläming,3,5,326,NA,NA,NA,NA,NA,NA
+DE40I,NA,NA,NA,Uckermark,3,5,327,NA,NA,NA,NA,NA,NA
+DE5,NA,Bremen,NA,NA,1,5,328,NA,NA,NA,NA,NA,NA
+DE50,NA,NA,Bremen,NA,2,5,329,NA,NA,NA,NA,NA,NA
+DE501,NA,NA,NA,"Bremen, Kreisfreie Stadt",3,5,330,NA,NA,NA,NA,NA,NA
+DE502,NA,NA,NA,"Bremerhaven, Kreisfreie Stadt",3,5,331,NA,NA,NA,NA,NA,NA
+DE6,NA,Hamburg,NA,NA,1,5,332,NA,NA,NA,NA,NA,NA
+DE60,NA,NA,Hamburg,NA,2,5,333,NA,NA,NA,NA,NA,NA
+DE600,NA,NA,NA,Hamburg,3,5,334,NA,NA,NA,NA,NA,NA
+DE7,NA,Hessen,NA,NA,1,5,335,NA,NA,NA,NA,NA,NA
+DE71,NA,NA,Darmstadt,NA,2,5,336,NA,NA,NA,NA,NA,NA
+DE711,NA,NA,NA,"Darmstadt, Kreisfreie Stadt",3,5,337,NA,NA,NA,NA,NA,NA
+DE712,NA,NA,NA,"Frankfurt am Main, Kreisfreie Stadt",3,5,338,NA,NA,NA,NA,NA,NA
+DE713,NA,NA,NA,"Offenbach am Main, Kreisfreie Stadt",3,5,339,NA,NA,NA,NA,NA,NA
+DE714,NA,NA,NA,"Wiesbaden, Kreisfreie Stadt",3,5,340,NA,NA,NA,NA,NA,NA
+DE715,NA,NA,NA,Bergstraße,3,5,341,NA,NA,NA,NA,NA,NA
+DE716,NA,NA,NA,Darmstadt-Dieburg,3,5,342,NA,NA,NA,NA,NA,NA
+DE717,NA,NA,NA,Groß-Gerau,3,5,343,NA,NA,NA,NA,NA,NA
+DE718,NA,NA,NA,Hochtaunuskreis,3,5,344,NA,NA,NA,NA,NA,NA
+DE719,NA,NA,NA,Main-Kinzig-Kreis,3,5,345,NA,NA,NA,NA,NA,NA
+DE71A,NA,NA,NA,Main-Taunus-Kreis,3,5,346,NA,NA,NA,NA,NA,NA
+DE71B,NA,NA,NA,Odenwaldkreis,3,5,347,NA,NA,NA,NA,NA,NA
+DE71C,NA,NA,NA,"Offenbach, Landkreis",3,5,348,NA,NA,NA,NA,NA,NA
+DE71D,NA,NA,NA,Rheingau-Taunus-Kreis,3,5,349,NA,NA,NA,NA,NA,NA
+DE71E,NA,NA,NA,Wetteraukreis,3,5,350,NA,NA,NA,NA,NA,NA
+DE72,NA,NA,Gießen,NA,2,5,351,NA,NA,NA,NA,NA,NA
+DE721,NA,NA,NA,"Gießen, Landkreis",3,5,352,NA,NA,NA,NA,NA,NA
+DE722,NA,NA,NA,Lahn-Dill-Kreis,3,5,353,NA,NA,NA,NA,NA,NA
+DE723,NA,NA,NA,Limburg-Weilburg,3,5,354,NA,NA,NA,NA,NA,NA
+DE724,NA,NA,NA,Marburg-Biedenkopf,3,5,355,NA,NA,NA,NA,NA,NA
+DE725,NA,NA,NA,Vogelsbergkreis,3,5,356,NA,NA,NA,NA,NA,NA
+DE73,NA,NA,Kassel,NA,2,5,357,NA,NA,NA,NA,NA,NA
+DE731,NA,NA,NA,"Kassel, Kreisfreie Stadt",3,5,358,NA,NA,NA,NA,NA,NA
+DE732,NA,NA,NA,Fulda,3,5,359,NA,NA,NA,NA,NA,NA
+DE733,NA,NA,NA,Hersfeld-Rotenburg,3,5,360,NA,NA,NA,NA,NA,NA
+DE734,NA,NA,NA,"Kassel, Landkreis",3,5,361,NA,NA,NA,NA,NA,NA
+DE735,NA,NA,NA,Schwalm-Eder-Kreis,3,5,362,NA,NA,NA,NA,NA,NA
+DE736,NA,NA,NA,Waldeck-Frankenberg,3,5,363,NA,NA,NA,NA,NA,NA
+DE737,NA,NA,NA,Werra-Meißner-Kreis,3,5,364,NA,NA,NA,NA,NA,NA
+DE8,NA,Mecklenburg-Vorpommern,NA,NA,1,5,365,NA,NA,NA,NA,NA,NA
+DE80,NA,NA,Mecklenburg-Vorpommern,NA,2,5,366,NA,NA,NA,NA,NA,NA
+DE803,NA,NA,NA,"Rostock, Kreisfreie Stadt",3,5,367,NA,NA,NA,NA,NA,NA
+DE804,NA,NA,NA,"Schwerin, Kreisfreie Stadt",3,5,368,NA,NA,NA,NA,NA,NA
+DE80J,NA,NA,NA,Mecklenburgische Seenplatte,3,5,369,NA,NA,NA,NA,NA,NA
+DE80K,NA,NA,NA,Landkreis Rostock,3,5,370,NA,NA,NA,NA,NA,NA
+DE80L,NA,NA,NA,Vorpommern-Rügen,3,5,371,NA,NA,NA,NA,NA,NA
+DE80M,NA,NA,NA,Nordwestmecklenburg,3,5,372,NA,NA,NA,NA,NA,NA
+DE80N,NA,NA,NA,Vorpommern-Greifswald,3,5,373,NA,NA,NA,NA,NA,NA
+DE80O,NA,NA,NA,Ludwigslust-Parchim,3,5,374,NA,NA,NA,NA,NA,NA
+DE9,NA,Niedersachsen,NA,NA,1,5,375,NA,NA,NA,NA,NA,NA
+DE91,NA,NA,Braunschweig,NA,2,5,376,NA,NA,NA,NA,NA,NA
+DE911,NA,NA,NA,"Braunschweig, Kreisfreie Stadt",3,5,377,NA,NA,NA,NA,NA,NA
+DE912,NA,NA,NA,"Salzgitter, Kreisfreie Stadt",3,5,378,NA,NA,NA,NA,NA,NA
+DE913,NA,NA,NA,"Wolfsburg, Kreisfreie Stadt",3,5,379,NA,NA,NA,NA,NA,NA
+DE914,NA,NA,NA,Gifhorn,3,5,380,NA,NA,NA,NA,NA,NA
+DE916,NA,NA,NA,Goslar,3,5,381,NA,NA,NA,NA,NA,NA
+DE917,NA,NA,NA,Helmstedt,3,5,382,NA,NA,NA,NA,NA,NA
+DE918,NA,NA,NA,Northeim,3,5,383,NA,NA,NA,NA,NA,NA
+DE91A,NA,NA,NA,Peine,3,5,384,NA,NA,NA,NA,NA,NA
+DE91B,NA,NA,NA,Wolfenbüttel,3,5,385,NA,NA,NA,NA,NA,NA
+DE91C,NA,NA,NA,Göttingen,3,5,386,NA,NA,NA,NA,NA,NA
+DE92,NA,NA,Hannover,NA,2,5,387,NA,NA,NA,NA,NA,NA
+DE922,NA,NA,NA,Diepholz,3,5,388,NA,NA,NA,NA,NA,NA
+DE923,NA,NA,NA,Hameln-Pyrmont,3,5,389,NA,NA,NA,NA,NA,NA
+DE925,NA,NA,NA,Hildesheim,3,5,390,NA,NA,NA,NA,NA,NA
+DE926,NA,NA,NA,Holzminden,3,5,391,NA,NA,NA,NA,NA,NA
+DE927,NA,NA,NA,Nienburg (Weser),3,5,392,NA,NA,NA,NA,NA,NA
+DE928,NA,NA,NA,Schaumburg,3,5,393,NA,NA,NA,NA,NA,NA
+DE929,NA,NA,NA,Region Hannover,3,5,394,NA,NA,NA,NA,NA,NA
+DE93,NA,NA,Lüneburg,NA,2,5,395,NA,NA,NA,NA,NA,NA
+DE931,NA,NA,NA,Celle,3,5,396,NA,NA,NA,NA,NA,NA
+DE932,NA,NA,NA,Cuxhaven,3,5,397,NA,NA,NA,NA,NA,NA
+DE933,NA,NA,NA,Harburg,3,5,398,NA,NA,NA,NA,NA,NA
+DE934,NA,NA,NA,Lüchow-Dannenberg,3,5,399,NA,NA,NA,NA,NA,NA
+DE935,NA,NA,NA,"Lüneburg, Landkreis",3,5,400,NA,NA,NA,NA,NA,NA
+DE936,NA,NA,NA,Osterholz,3,5,401,NA,NA,NA,NA,NA,NA
+DE937,NA,NA,NA,Rotenburg (Wümme),3,5,402,NA,NA,NA,NA,NA,NA
+DE938,NA,NA,NA,Heidekreis,3,5,403,NA,NA,NA,NA,NA,NA
+DE939,NA,NA,NA,Stade,3,5,404,NA,NA,NA,NA,NA,NA
+DE93A,NA,NA,NA,Uelzen,3,5,405,NA,NA,NA,NA,NA,NA
+DE93B,NA,NA,NA,Verden,3,5,406,NA,NA,NA,NA,NA,NA
+DE94,NA,NA,Weser-Ems,NA,2,5,407,NA,NA,NA,NA,NA,NA
+DE941,NA,NA,NA,"Delmenhorst, Kreisfreie Stadt",3,5,408,NA,NA,NA,NA,NA,NA
+DE942,NA,NA,NA,"Emden, Kreisfreie Stadt",3,5,409,NA,NA,NA,NA,NA,NA
+DE943,NA,NA,NA,"Oldenburg (Oldenburg), Kreisfreie Stadt",3,5,410,NA,NA,NA,NA,NA,NA
+DE944,NA,NA,NA,"Osnabrück, Kreisfreie Stadt",3,5,411,NA,NA,NA,NA,NA,NA
+DE945,NA,NA,NA,"Wilhelmshaven, Kreisfreie Stadt",3,5,412,NA,NA,NA,NA,NA,NA
+DE946,NA,NA,NA,Ammerland,3,5,413,NA,NA,NA,NA,NA,NA
+DE947,NA,NA,NA,Aurich,3,5,414,NA,NA,NA,NA,NA,NA
+DE948,NA,NA,NA,Cloppenburg,3,5,415,NA,NA,NA,NA,NA,NA
+DE949,NA,NA,NA,Emsland,3,5,416,NA,NA,NA,NA,NA,NA
+DE94A,NA,NA,NA,Friesland (DE),3,5,417,NA,NA,NA,NA,NA,NA
+DE94B,NA,NA,NA,Grafschaft Bentheim,3,5,418,NA,NA,NA,NA,NA,NA
+DE94C,NA,NA,NA,Leer,3,5,419,NA,NA,NA,NA,NA,NA
+DE94D,NA,NA,NA,"Oldenburg, Landkreis",3,5,420,NA,NA,NA,NA,NA,NA
+DE94E,NA,NA,NA,"Osnabrück, Landkreis",3,5,421,NA,NA,NA,NA,NA,NA
+DE94F,NA,NA,NA,Vechta,3,5,422,NA,NA,NA,NA,NA,NA
+DE94G,NA,NA,NA,Wesermarsch,3,5,423,NA,NA,NA,NA,NA,NA
+DE94H,NA,NA,NA,Wittmund,3,5,424,NA,NA,NA,NA,NA,NA
+DEA,NA,Nordrhein-Westfalen,NA,NA,1,5,425,NA,NA,NA,NA,NA,NA
+DEA1,NA,NA,Düsseldorf,NA,2,5,426,NA,NA,NA,NA,NA,NA
+DEA11,NA,NA,NA,"Düsseldorf, Kreisfreie Stadt",3,5,427,NA,NA,NA,NA,NA,NA
+DEA12,NA,NA,NA,"Duisburg, Kreisfreie Stadt",3,5,428,NA,NA,NA,NA,NA,NA
+DEA13,NA,NA,NA,"Essen, Kreisfreie Stadt",3,5,429,NA,NA,NA,NA,NA,NA
+DEA14,NA,NA,NA,"Krefeld, Kreisfreie Stadt",3,5,430,NA,NA,NA,NA,NA,NA
+DEA15,NA,NA,NA,"Mönchengladbach, Kreisfreie Stadt",3,5,431,NA,NA,NA,NA,NA,NA
+DEA16,NA,NA,NA,"Mülheim an der Ruhr, Kreisfreie Stadt",3,5,432,NA,NA,NA,NA,NA,NA
+DEA17,NA,NA,NA,"Oberhausen, Kreisfreie Stadt",3,5,433,NA,NA,NA,NA,NA,NA
+DEA18,NA,NA,NA,"Remscheid, Kreisfreie Stadt",3,5,434,NA,NA,NA,NA,NA,NA
+DEA19,NA,NA,NA,"Solingen, Kreisfreie Stadt",3,5,435,NA,NA,NA,NA,NA,NA
+DEA1A,NA,NA,NA,"Wuppertal, Kreisfreie Stadt",3,5,436,NA,NA,NA,NA,NA,NA
+DEA1B,NA,NA,NA,Kleve,3,5,437,NA,NA,NA,NA,NA,NA
+DEA1C,NA,NA,NA,Mettmann,3,5,438,NA,NA,NA,NA,NA,NA
+DEA1D,NA,NA,NA,Rhein-Kreis Neuss,3,5,439,NA,NA,NA,NA,NA,NA
+DEA1E,NA,NA,NA,Viersen,3,5,440,NA,NA,NA,NA,NA,NA
+DEA1F,NA,NA,NA,Wesel,3,5,441,NA,NA,NA,NA,NA,NA
+DEA2,NA,NA,Köln,NA,2,5,442,NA,NA,NA,NA,NA,NA
+DEA22,NA,NA,NA,"Bonn, Kreisfreie Stadt",3,5,443,NA,NA,NA,NA,NA,NA
+DEA23,NA,NA,NA,"Köln, Kreisfreie Stadt",3,5,444,NA,NA,NA,NA,NA,NA
+DEA24,NA,NA,NA,"Leverkusen, Kreisfreie Stadt",3,5,445,NA,NA,NA,NA,NA,NA
+DEA26,NA,NA,NA,Düren,3,5,446,NA,NA,NA,NA,NA,NA
+DEA27,NA,NA,NA,Rhein-Erft-Kreis,3,5,447,NA,NA,NA,NA,NA,NA
+DEA28,NA,NA,NA,Euskirchen,3,5,448,NA,NA,NA,NA,NA,NA
+DEA29,NA,NA,NA,Heinsberg,3,5,449,NA,NA,NA,NA,NA,NA
+DEA2A,NA,NA,NA,Oberbergischer Kreis,3,5,450,NA,NA,NA,NA,NA,NA
+DEA2B,NA,NA,NA,Rheinisch-Bergischer Kreis,3,5,451,NA,NA,NA,NA,NA,NA
+DEA2C,NA,NA,NA,Rhein-Sieg-Kreis,3,5,452,NA,NA,NA,NA,NA,NA
+DEA2D,NA,NA,NA,Städteregion Aachen,3,5,453,NA,NA,NA,NA,NA,NA
+DEA3,NA,NA,Münster,NA,2,5,454,NA,NA,NA,NA,NA,NA
+DEA31,NA,NA,NA,"Bottrop, Kreisfreie Stadt",3,5,455,NA,NA,NA,NA,NA,NA
+DEA32,NA,NA,NA,"Gelsenkirchen, Kreisfreie Stadt",3,5,456,NA,NA,NA,NA,NA,NA
+DEA33,NA,NA,NA,"Münster, Kreisfreie Stadt",3,5,457,NA,NA,NA,NA,NA,NA
+DEA34,NA,NA,NA,Borken,3,5,458,NA,NA,NA,NA,NA,NA
+DEA35,NA,NA,NA,Coesfeld,3,5,459,NA,NA,NA,NA,NA,NA
+DEA36,NA,NA,NA,Recklinghausen,3,5,460,NA,NA,NA,NA,NA,NA
+DEA37,NA,NA,NA,Steinfurt,3,5,461,NA,NA,NA,NA,NA,NA
+DEA38,NA,NA,NA,Warendorf,3,5,462,NA,NA,NA,NA,NA,NA
+DEA4,NA,NA,Detmold,NA,2,5,463,NA,NA,NA,NA,NA,NA
+DEA41,NA,NA,NA,"Bielefeld, Kreisfreie Stadt",3,5,464,NA,NA,NA,NA,NA,NA
+DEA42,NA,NA,NA,Gütersloh,3,5,465,NA,NA,NA,NA,NA,NA
+DEA43,NA,NA,NA,Herford,3,5,466,NA,NA,NA,NA,NA,NA
+DEA44,NA,NA,NA,Höxter,3,5,467,NA,NA,NA,NA,NA,NA
+DEA45,NA,NA,NA,Lippe,3,5,468,NA,NA,NA,NA,NA,NA
+DEA46,NA,NA,NA,Minden-Lübbecke,3,5,469,NA,NA,NA,NA,NA,NA
+DEA47,NA,NA,NA,Paderborn,3,5,470,NA,NA,NA,NA,NA,NA
+DEA5,NA,NA,Arnsberg,NA,2,5,471,NA,NA,NA,NA,NA,NA
+DEA51,NA,NA,NA,"Bochum, Kreisfreie Stadt",3,5,472,NA,NA,NA,NA,NA,NA
+DEA52,NA,NA,NA,"Dortmund, Kreisfreie Stadt",3,5,473,NA,NA,NA,NA,NA,NA
+DEA53,NA,NA,NA,"Hagen, Kreisfreie Stadt",3,5,474,NA,NA,NA,NA,NA,NA
+DEA54,NA,NA,NA,"Hamm, Kreisfreie Stadt",3,5,475,NA,NA,NA,NA,NA,NA
+DEA55,NA,NA,NA,"Herne, Kreisfreie Stadt",3,5,476,NA,NA,NA,NA,NA,NA
+DEA56,NA,NA,NA,Ennepe-Ruhr-Kreis,3,5,477,NA,NA,NA,NA,NA,NA
+DEA57,NA,NA,NA,Hochsauerlandkreis,3,5,478,NA,NA,NA,NA,NA,NA
+DEA58,NA,NA,NA,Märkischer Kreis,3,5,479,NA,NA,NA,NA,NA,NA
+DEA59,NA,NA,NA,Olpe,3,5,480,NA,NA,NA,NA,NA,NA
+DEA5A,NA,NA,NA,Siegen-Wittgenstein,3,5,481,NA,NA,NA,NA,NA,NA
+DEA5B,NA,NA,NA,Soest,3,5,482,NA,NA,NA,NA,NA,NA
+DEA5C,NA,NA,NA,Unna,3,5,483,NA,NA,NA,NA,NA,NA
+DEB,NA,Rheinland-Pfalz,NA,NA,1,5,484,NA,NA,NA,NA,NA,NA
+DEB1,NA,NA,Koblenz,NA,2,5,485,NA,NA,NA,NA,NA,NA
+DEB11,NA,NA,NA,"Koblenz, Kreisfreie Stadt",3,5,486,NA,NA,NA,NA,NA,NA
+DEB12,NA,NA,NA,Ahrweiler,3,5,487,NA,NA,NA,NA,NA,NA
+DEB13,NA,NA,NA,Altenkirchen (Westerwald),3,5,488,NA,NA,NA,NA,NA,NA
+DEB14,NA,NA,NA,Bad Kreuznach,3,5,489,NA,NA,NA,NA,NA,NA
+DEB15,NA,NA,NA,Birkenfeld,3,5,490,NA,NA,NA,NA,NA,NA
+DEB17,NA,NA,NA,Mayen-Koblenz,3,5,491,NA,NA,NA,NA,NA,NA
+DEB18,NA,NA,NA,Neuwied,3,5,492,NA,NA,NA,NA,NA,NA
+DEB1A,NA,NA,NA,Rhein-Lahn-Kreis,3,5,493,NA,NA,NA,NA,NA,NA
+DEB1B,NA,NA,NA,Westerwaldkreis,3,5,494,NA,NA,NA,NA,NA,NA
+DEB1C,NA,NA,NA,Cochem-Zell,3,5,495,NA,NA,NA,NA,NA,NA
+DEB1D,NA,NA,NA,Rhein-Hunsrück-Kreis,3,5,496,NA,NA,NA,NA,NA,NA
+DEB2,NA,NA,Trier,NA,2,5,497,NA,NA,NA,NA,NA,NA
+DEB21,NA,NA,NA,"Trier, Kreisfreie Stadt",3,5,498,NA,NA,NA,NA,NA,NA
+DEB22,NA,NA,NA,Bernkastel-Wittlich,3,5,499,NA,NA,NA,NA,NA,NA
+DEB23,NA,NA,NA,Eifelkreis Bitburg-Prüm,3,5,500,NA,NA,NA,NA,NA,NA
+DEB24,NA,NA,NA,Vulkaneifel,3,5,501,NA,NA,NA,NA,NA,NA
+DEB25,NA,NA,NA,Trier-Saarburg,3,5,502,NA,NA,NA,NA,NA,NA
+DEB3,NA,NA,Rheinhessen-Pfalz,NA,2,5,503,NA,NA,NA,NA,NA,NA
+DEB31,NA,NA,NA,"Frankenthal (Pfalz), Kreisfreie Stadt",3,5,504,NA,NA,NA,NA,NA,NA
+DEB32,NA,NA,NA,"Kaiserslautern, Kreisfreie Stadt",3,5,505,NA,NA,NA,NA,NA,NA
+DEB33,NA,NA,NA,"Landau in der Pfalz, Kreisfreie Stadt",3,5,506,NA,NA,NA,NA,NA,NA
+DEB34,NA,NA,NA,"Ludwigshafen am Rhein, Kreisfreie Stadt",3,5,507,NA,NA,NA,NA,NA,NA
+DEB35,NA,NA,NA,"Mainz, Kreisfreie Stadt",3,5,508,NA,NA,NA,NA,NA,NA
+DEB36,NA,NA,NA,"Neustadt an der Weinstraße, Kreisfreie Stadt",3,5,509,NA,NA,NA,NA,NA,NA
+DEB37,NA,NA,NA,"Pirmasens, Kreisfreie Stadt",3,5,510,NA,NA,NA,NA,NA,NA
+DEB38,NA,NA,NA,"Speyer, Kreisfreie Stadt",3,5,511,NA,NA,NA,NA,NA,NA
+DEB39,NA,NA,NA,"Worms, Kreisfreie Stadt",3,5,512,NA,NA,NA,NA,NA,NA
+DEB3A,NA,NA,NA,"Zweibrücken, Kreisfreie Stadt",3,5,513,NA,NA,NA,NA,NA,NA
+DEB3B,NA,NA,NA,Alzey-Worms,3,5,514,NA,NA,NA,NA,NA,NA
+DEB3C,NA,NA,NA,Bad Dürkheim,3,5,515,NA,NA,NA,NA,NA,NA
+DEB3D,NA,NA,NA,Donnersbergkreis,3,5,516,NA,NA,NA,NA,NA,NA
+DEB3E,NA,NA,NA,Germersheim,3,5,517,NA,NA,NA,NA,NA,NA
+DEB3F,NA,NA,NA,"Kaiserslautern, Landkreis",3,5,518,NA,NA,NA,NA,NA,NA
+DEB3G,NA,NA,NA,Kusel,3,5,519,NA,NA,NA,NA,NA,NA
+DEB3H,NA,NA,NA,Südliche Weinstraße,3,5,520,NA,NA,NA,NA,NA,NA
+DEB3I,NA,NA,NA,Rhein-Pfalz-Kreis,3,5,521,NA,NA,NA,NA,NA,NA
+DEB3J,NA,NA,NA,Mainz-Bingen,3,5,522,NA,NA,NA,NA,NA,NA
+DEB3K,NA,NA,NA,Südwestpfalz,3,5,523,NA,NA,NA,NA,NA,NA
+DEC,NA,Saarland,NA,NA,1,5,524,NA,NA,NA,NA,NA,NA
+DEC0,NA,NA,Saarland,NA,2,5,525,NA,NA,NA,NA,NA,NA
+DEC01,NA,NA,NA,Regionalverband Saarbrücken,3,5,526,NA,NA,NA,NA,NA,NA
+DEC02,NA,NA,NA,Merzig-Wadern,3,5,527,NA,NA,NA,NA,NA,NA
+DEC03,NA,NA,NA,Neunkirchen,3,5,528,NA,NA,NA,NA,NA,NA
+DEC04,NA,NA,NA,Saarlouis,3,5,529,NA,NA,NA,NA,NA,NA
+DEC05,NA,NA,NA,Saarpfalz-Kreis,3,5,530,NA,NA,NA,NA,NA,NA
+DEC06,NA,NA,NA,St. Wendel,3,5,531,NA,NA,NA,NA,NA,NA
+DED,NA,Sachsen,NA,NA,1,5,532,NA,NA,NA,NA,NA,NA
+DED2,NA,NA,Dresden,NA,2,5,533,NA,NA,NA,NA,NA,NA
+DED21,NA,NA,NA,"Dresden, Kreisfreie Stadt",3,5,534,NA,NA,NA,NA,NA,NA
+DED2C,NA,NA,NA,Bautzen,3,5,535,NA,NA,NA,NA,NA,NA
+DED2D,NA,NA,NA,Görlitz,3,5,536,NA,NA,NA,NA,NA,NA
+DED2E,NA,NA,NA,Meißen,3,5,537,NA,NA,NA,NA,NA,NA
+DED2F,NA,NA,NA,Sächsische Schweiz-Osterzgebirge,3,5,538,NA,NA,NA,NA,NA,NA
+DED4,NA,NA,Chemnitz,NA,2,5,539,NA,NA,NA,NA,NA,NA
+DED41,NA,NA,NA,"Chemnitz, Kreisfreie Stadt",3,5,540,NA,NA,NA,NA,NA,NA
+DED42,NA,NA,NA,Erzgebirgskreis,3,5,541,NA,NA,NA,NA,NA,NA
+DED43,NA,NA,NA,Mittelsachsen,3,5,542,NA,NA,NA,NA,NA,NA
+DED44,NA,NA,NA,Vogtlandkreis,3,5,543,NA,NA,NA,NA,NA,NA
+DED45,NA,NA,NA,Zwickau,3,5,544,NA,NA,NA,NA,NA,NA
+DED5,NA,NA,Leipzig,NA,2,5,545,NA,NA,NA,NA,NA,NA
+DED51,NA,NA,NA,"Leipzig, Kreisfreie Stadt",3,5,546,NA,NA,NA,NA,NA,NA
+DED52,NA,NA,NA,Leipzig,3,5,547,NA,NA,NA,NA,NA,NA
+DED53,NA,NA,NA,Nordsachsen,3,5,548,NA,NA,NA,NA,NA,NA
+DEE,NA,Sachsen-Anhalt,NA,NA,1,5,549,NA,NA,NA,NA,NA,NA
+DEE0,NA,NA,Sachsen-Anhalt,NA,2,5,550,NA,NA,NA,NA,NA,NA
+DEE01,NA,NA,NA,"Dessau-Roßlau, Kreisfreie Stadt",3,5,551,NA,NA,NA,NA,NA,NA
+DEE02,NA,NA,NA,"Halle (Saale), Kreisfreie Stadt",3,5,552,NA,NA,NA,NA,NA,NA
+DEE03,NA,NA,NA,"Magdeburg, Kreisfreie Stadt",3,5,553,NA,NA,NA,NA,NA,NA
+DEE04,NA,NA,NA,Altmarkkreis Salzwedel,3,5,554,NA,NA,NA,NA,NA,NA
+DEE05,NA,NA,NA,Anhalt-Bitterfeld,3,5,555,NA,NA,NA,NA,NA,NA
+DEE06,NA,NA,NA,Jerichower Land,3,5,556,NA,NA,NA,NA,NA,NA
+DEE07,NA,NA,NA,Börde,3,5,557,NA,NA,NA,NA,NA,NA
+DEE08,NA,NA,NA,Burgenlandkreis,3,5,558,NA,NA,NA,NA,NA,NA
+DEE09,NA,NA,NA,Harz,3,5,559,NA,NA,NA,NA,NA,NA
+DEE0A,NA,NA,NA,Mansfeld-Südharz,3,5,560,NA,NA,NA,NA,NA,NA
+DEE0B,NA,NA,NA,Saalekreis,3,5,561,NA,NA,NA,NA,NA,NA
+DEE0C,NA,NA,NA,Salzlandkreis,3,5,562,NA,NA,NA,NA,NA,NA
+DEE0D,NA,NA,NA,Stendal,3,5,563,NA,NA,NA,NA,NA,NA
+DEE0E,NA,NA,NA,Wittenberg,3,5,564,NA,NA,NA,NA,NA,NA
+DEF,NA,Schleswig-Holstein,NA,NA,1,5,565,NA,NA,NA,NA,NA,NA
+DEF0,NA,NA,Schleswig-Holstein,NA,2,5,566,NA,NA,NA,NA,NA,NA
+DEF01,NA,NA,NA,"Flensburg, Kreisfreie Stadt",3,5,567,NA,NA,NA,NA,NA,NA
+DEF02,NA,NA,NA,"Kiel, Kreisfreie Stadt",3,5,568,NA,NA,NA,NA,NA,NA
+DEF03,NA,NA,NA,"Lübeck, Kreisfreie Stadt",3,5,569,NA,NA,NA,NA,NA,NA
+DEF04,NA,NA,NA,"Neumünster, Kreisfreie Stadt",3,5,570,NA,NA,NA,NA,NA,NA
+DEF05,NA,NA,NA,Dithmarschen,3,5,571,NA,NA,NA,NA,NA,NA
+DEF06,NA,NA,NA,Herzogtum Lauenburg,3,5,572,NA,NA,NA,NA,NA,NA
+DEF07,NA,NA,NA,Nordfriesland,3,5,573,NA,NA,NA,NA,NA,NA
+DEF08,NA,NA,NA,Ostholstein,3,5,574,NA,NA,NA,NA,NA,NA
+DEF09,NA,NA,NA,Pinneberg,3,5,575,NA,NA,NA,NA,NA,NA
+DEF0A,NA,NA,NA,Plön,3,5,576,NA,NA,NA,NA,NA,NA
+DEF0B,NA,NA,NA,Rendsburg-Eckernförde,3,5,577,NA,NA,NA,NA,NA,NA
+DEF0C,NA,NA,NA,Schleswig-Flensburg,3,5,578,NA,NA,NA,NA,NA,NA
+DEF0D,NA,NA,NA,Segeberg,3,5,579,NA,NA,NA,NA,NA,NA
+DEF0E,NA,NA,NA,Steinburg,3,5,580,NA,NA,NA,NA,NA,NA
+DEF0F,NA,NA,NA,Stormarn,3,5,581,NA,NA,NA,NA,NA,NA
+DEG,NA,Thüringen,NA,NA,1,5,582,NA,NA,NA,NA,NA,NA
+DEG0,NA,NA,Thüringen,NA,2,5,583,NA,NA,NA,NA,NA,NA
+DEG01,NA,NA,NA,"Erfurt, Kreisfreie Stadt",3,5,584,NA,NA,NA,NA,NA,NA
+DEG02,NA,NA,NA,"Gera, Kreisfreie Stadt",3,5,585,NA,NA,NA,NA,NA,NA
+DEG03,NA,NA,NA,"Jena, Kreisfreie Stadt",3,5,586,NA,NA,NA,NA,NA,NA
+DEG04,NA,NA,NA,"Suhl, Kreisfreie Stadt",3,5,587,NA,NA,NA,NA,NA,NA
+DEG05,NA,NA,NA,"Weimar, Kreisfreie Stadt",3,5,588,NA,NA,NA,NA,NA,NA
+DEG06,NA,NA,NA,Eichsfeld,3,5,589,NA,NA,NA,NA,NA,NA
+DEG07,NA,NA,NA,Nordhausen,3,5,590,NA,NA,NA,NA,NA,NA
+DEG09,NA,NA,NA,Unstrut-Hainich-Kreis,3,5,591,NA,NA,NA,NA,NA,NA
+DEG0A,NA,NA,NA,Kyffhäuserkreis,3,5,592,NA,NA,NA,NA,NA,NA
+DEG0B,NA,NA,NA,Schmalkalden-Meiningen,3,5,593,NA,NA,NA,NA,NA,NA
+DEG0C,NA,NA,NA,Gotha,3,5,594,NA,NA,NA,NA,NA,NA
+DEG0D,NA,NA,NA,Sömmerda,3,5,595,NA,NA,NA,NA,NA,NA
+DEG0E,NA,NA,NA,Hildburghausen,3,5,596,NA,NA,NA,NA,NA,NA
+DEG0F,NA,NA,NA,Ilm-Kreis,3,5,597,NA,NA,NA,NA,NA,NA
+DEG0G,NA,NA,NA,Weimarer Land,3,5,598,NA,NA,NA,NA,NA,NA
+DEG0H,NA,NA,NA,Sonneberg,3,5,599,NA,NA,NA,NA,NA,NA
+DEG0I,NA,NA,NA,Saalfeld-Rudolstadt,3,5,600,NA,NA,NA,NA,NA,NA
+DEG0J,NA,NA,NA,Saale-Holzland-Kreis,3,5,601,NA,NA,NA,NA,NA,NA
+DEG0K,NA,NA,NA,Saale-Orla-Kreis,3,5,602,NA,NA,NA,NA,NA,NA
+DEG0L,NA,NA,NA,Greiz,3,5,603,NA,NA,NA,NA,NA,NA
+DEG0M,NA,NA,NA,Altenburger Land,3,5,604,NA,NA,NA,NA,NA,NA
+DEG0N,NA,NA,NA,"Eisenach, Kreisfreie Stadt",3,5,605,NA,NA,NA,NA,NA,NA
+DEG0P,NA,NA,NA,Wartburgkreis,3,5,606,NA,NA,NA,NA,NA,NA
+DEZ,NA,Extra-Regio NUTS 1,NA,NA,1,5,607,NA,NA,NA,NA,NA,NA
+DEZZ,NA,NA,Extra-Regio NUTS 2,NA,2,5,608,NA,NA,NA,NA,NA,NA
+DEZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,5,609,NA,NA,NA,NA,NA,NA
+EE,Eesti,NA,NA,NA,0,6,610,NA,NA,NA,NA,NA,NA
+EE0,NA,Eesti,NA,NA,1,6,611,NA,NA,NA,NA,NA,NA
+EE00,NA,NA,Eesti,NA,2,6,612,NA,NA,NA,NA,NA,NA
+EE001,NA,NA,NA,Põhja-Eesti,3,6,613,NA,NA,NA,NA,NA,NA
+EE004,NA,NA,NA,Lääne-Eesti,3,6,614,NA,NA,NA,NA,NA,NA
+EE008,NA,NA,NA,Lõuna-Eesti,3,6,615,NA,NA,NA,NA,NA,NA
+EE009,NA,NA,NA,Kesk-Eesti,3,6,616,NA,NA,NA,NA,NA,NA
+EE00A,NA,NA,NA,Kirde-Eesti,3,6,617,NA,NA,NA,NA,NA,NA
+EEZ,NA,Extra-Regio NUTS 1,NA,NA,1,6,618,NA,NA,NA,NA,NA,NA
+EEZZ,NA,NA,Extra-Regio NUTS 2,NA,2,6,619,NA,NA,NA,NA,NA,NA
+EEZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,6,620,NA,NA,NA,NA,NA,NA
+IE,Éire/Ireland,NA,NA,NA,0,7,621,NA,NA,NA,NA,NA,NA
+IE0,NA,Ireland,NA,NA,1,7,622,NA,NA,NA,NA,NA,NA
+IE04,NA,NA,Northern and Western,NA,2,7,623,NA,NA,NA,NA,NA,NA
+IE041,NA,NA,NA,Border,3,7,624,NA,NA,NA,NA,NA,NA
+IE042,NA,NA,NA,West,3,7,625,NA,NA,NA,NA,NA,NA
+IE05,NA,NA,Southern,NA,2,7,626,NA,NA,NA,NA,NA,NA
+IE051,NA,NA,NA,Mid-West,3,7,627,NA,NA,NA,NA,NA,NA
+IE052,NA,NA,NA,South-East,3,7,628,NA,NA,NA,NA,NA,NA
+IE053,NA,NA,NA,South-West,3,7,629,NA,NA,NA,NA,NA,NA
+IE06,NA,NA,Eastern and Midland,NA,2,7,630,NA,NA,NA,NA,NA,NA
+IE061,NA,NA,NA,Dublin,3,7,631,NA,NA,NA,NA,NA,NA
+IE062,NA,NA,NA,Mid-East,3,7,632,NA,NA,NA,NA,NA,NA
+IE063,NA,NA,NA,Midland,3,7,633,NA,NA,NA,NA,NA,NA
+IEZ,NA,Extra-Regio NUTS 1,NA,NA,1,7,634,NA,NA,NA,NA,NA,NA
+IEZZ,NA,NA,Extra-Regio NUTS 2,NA,2,7,635,NA,NA,NA,NA,NA,NA
+IEZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,7,636,NA,NA,NA,NA,NA,NA
+EL,Ελλάδα ,NA,NA,NA,0,8,637,NA,EL,Elláda,NA,NA,NA
+EL3,NA,Αττική,NA,NA,1,8,638,NA,EL3,Attiki,NA,NA,NA
+EL30,NA,NA,Aττική,NA,2,8,639,NA,EL30,NA,Attiki,NA,NA
+EL301,NA,NA,NA,Βόρειος Τομέας Αθηνών,3,8,640,NA,EL301,NA,NA,Voreios Tomeas Athinon,NA
+EL302,NA,NA,NA,Δυτικός Τομέας Αθηνών,3,8,641,NA,EL302,NA,NA,Dytikos Tomeas Athinon,NA
+EL303,NA,NA,NA,Κεντρικός Τομέας Αθηνών,3,8,642,NA,EL303,NA,NA,Kentrikos Tomeas Athinon,NA
+EL304,NA,NA,NA,Νότιος Τομέας Αθηνών,3,8,643,NA,EL304,NA,NA,Notios Tomeas Athinon,NA
+EL305,NA,NA,NA,Ανατολική Αττική,3,8,644,NA,EL305,NA,NA,Anatoliki Attiki,NA
+EL306,NA,NA,NA,Δυτική Αττική,3,8,645,NA,EL306,NA,NA,Dytiki Attiki,NA
+EL307,NA,NA,NA,"Πειραιάς, Νήσοι",3,8,646,NA,EL307,NA,NA,"Peiraias, Nisoi",NA
+EL4,NA,"Νησιά Αιγαίου, Κρήτη",NA,NA,1,8,647,NA,EL4,"Nisia Aigaiou, Kriti",NA,NA,NA
+EL41,NA,NA,Βόρειο Αιγαίο,NA,2,8,648,NA,EL41,NA,Voreio Aigaio,NA,NA
+EL411,NA,NA,NA,"Λέσβος, Λήμνος",3,8,649,NA,EL411,NA,NA,"Lesvos, Limnos",NA
+EL412,NA,NA,NA,"Ικαρία, Σάμος",3,8,650,NA,EL412,NA,NA,"Ikaria, Samos",NA
+EL413,NA,NA,NA,Χίος,3,8,651,NA,EL413,NA,NA,Chios,NA
+EL42,NA,NA,Νότιο Αιγαίο,NA,2,8,652,NA,EL42,NA,Notio Aigaio,NA,NA
+EL421,NA,NA,NA,"Κάλυμνος, Κάρπαθος – Ηρωική Νήσος Κάσος, Κως, Ρόδος",3,8,653,NA,EL421,NA,NA,"Kalymnos, Karpathos, Kasos, Kos, Rodos",NA
+EL422,NA,NA,NA,"Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος",3,8,654,NA,EL422,NA,NA,"Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos",NA
+EL43,NA,NA,Κρήτη,NA,2,8,655,NA,EL43,NA,Kriti,NA,NA
+EL431,NA,NA,NA,Ηράκλειο,3,8,656,NA,EL431,NA,NA,Irakleio,NA
+EL432,NA,NA,NA,Λασίθι,3,8,657,NA,EL432,NA,NA,Lasithi,NA
+EL433,NA,NA,NA,Ρέθυμνο,3,8,658,NA,EL433,NA,NA,Rethymni,NA
+EL434,NA,NA,NA,Χανιά,3,8,659,NA,EL434,NA,NA,Chania,NA
+EL5,NA,Βόρεια Ελλάδα,NA,NA,1,8,660,NA,EL5,Voreia Elláda,NA,NA,NA
+EL51,NA,NA,"Aνατολική Μακεδονία, Θράκη",NA,2,8,661,NA,EL51,NA,"Anatoliki Makedonia, Thraki",NA,NA
+EL511,NA,NA,NA,Έβρος,3,8,662,NA,EL511,NA,NA,Evros,NA
+EL512,NA,NA,NA,Ξάνθη,3,8,663,NA,EL512,NA,NA,Xanthi,NA
+EL513,NA,NA,NA,Ροδόπη,3,8,664,NA,EL513,NA,NA,Rodopi,NA
+EL514,NA,NA,NA,Δράμα,3,8,665,NA,EL514,NA,NA,Drama,NA
+EL515,NA,NA,NA,"Θάσος, Καβάλα",3,8,666,NA,EL515,NA,NA,"Thasos, Kavala",NA
+EL52,NA,NA,Κεντρική Μακεδονία,NA,2,8,667,NA,EL52,NA,Kentriki Makedonia,NA,NA
+EL521,NA,NA,NA,Ημαθία,3,8,668,NA,EL521,NA,NA,Imathia,NA
+EL522,NA,NA,NA,Θεσσαλονίκη,3,8,669,NA,EL522,NA,NA,Thessaloniki,NA
+EL523,NA,NA,NA,Κιλκίς,3,8,670,NA,EL523,NA,NA,Kilkis,NA
+EL524,NA,NA,NA,Πέλλα,3,8,671,NA,EL524,NA,NA,Pella,NA
+EL525,NA,NA,NA,Πιερία,3,8,672,NA,EL525,NA,NA,Pieria,NA
+EL526,NA,NA,NA,Σέρρες,3,8,673,NA,EL526,NA,NA,Serres,NA
+EL527,NA,NA,NA,Χαλκιδική,3,8,674,NA,EL527,NA,NA,Chalkidiki,NA
+EL53,NA,NA,Δυτική Μακεδονία,NA,2,8,675,NA,EL53,NA,Dytiki Makedonia,NA,NA
+EL531,NA,NA,NA,"Γρεβενά, Κοζάνη",3,8,676,NA,EL531,NA,NA,"Grevena, Kozani",NA
+EL532,NA,NA,NA,Καστοριά,3,8,677,NA,EL532,NA,NA,Kastoria,NA
+EL533,NA,NA,NA,Φλώρινα,3,8,678,NA,EL533,NA,NA,Florina,NA
+EL54,NA,NA,Ήπειρος,NA,2,8,679,NA,EL54,NA,Ipeiros,NA,NA
+EL541,NA,NA,NA,"Άρτα, Πρέβεζα",3,8,680,NA,EL541,NA,NA,"Arta, Preveza",NA
+EL542,NA,NA,NA,Θεσπρωτία,3,8,681,NA,EL542,NA,NA,Thesprotia,NA
+EL543,NA,NA,NA,Ιωάννινα,3,8,682,NA,EL543,NA,NA,Ioannina,NA
+EL6,NA,Κεντρική Ελλάδα,NA,NA,1,8,683,NA,EL6,Kentriki Elláda,NA,NA,NA
+EL61,NA,NA,Θεσσαλία,NA,2,8,684,NA,EL61,NA,Thessalia,NA,NA
+EL611,NA,NA,NA,"Καρδίτσα, Τρίκαλα",3,8,685,NA,EL611,NA,NA,"Karditsa, Trikala",NA
+EL612,NA,NA,NA,Λάρισα,3,8,686,NA,EL612,NA,NA,Larisa,NA
+EL613,NA,NA,NA,"Μαγνησία, Σποράδες",3,8,687,NA,EL613,NA,NA,"Magnisia, Sporades",NA
+EL62,NA,NA,Ιόνια Νησιά,NA,2,8,688,NA,EL62,NA,Ionia Nisia,NA,NA
+EL621,NA,NA,NA,Ζάκυνθος,3,8,689,NA,EL621,NA,NA,Zakynthos,NA
+EL622,NA,NA,NA,Κέρκυρα,3,8,690,NA,EL622,NA,NA,Kerkyra,NA
+EL623,NA,NA,NA,"Ιθάκη, Κεφαλληνία",3,8,691,NA,EL623,NA,NA,"Ithaki, Kefallinia",NA
+EL624,NA,NA,NA,Λευκάδα,3,8,692,NA,EL624,NA,NA,Lefkada,NA
+EL63,NA,NA,Δυτική Ελλάδα,NA,2,8,693,NA,EL63,NA,Dytiki Elláda,NA,NA
+EL631,NA,NA,NA,Αιτωλοακαρνανία,3,8,694,NA,EL631,NA,NA,Aitoloakarnania,NA
+EL632,NA,NA,NA,Αχαΐα,3,8,695,NA,EL632,NA,NA,Achaia,NA
+EL633,NA,NA,NA,Ηλεία,3,8,696,NA,EL633,NA,NA,Ileia,NA
+EL64,NA,NA,Στερεά Ελλάδα,NA,2,8,697,NA,EL64,NA,Sterea Elláda,NA,NA
+EL641,NA,NA,NA,Βοιωτία,3,8,698,NA,EL641,NA,NA,Voiotia,NA
+EL642,NA,NA,NA,Εύβοια,3,8,699,NA,EL642,NA,NA,Evvoia,NA
+EL643,NA,NA,NA,Ευρυτανία,3,8,700,NA,EL643,NA,NA,Evrytania,NA
+EL644,NA,NA,NA,Φθιώτιδα,3,8,701,NA,EL644,NA,NA,Fthiotida,NA
+EL645,NA,NA,NA,Φωκίδα,3,8,702,NA,EL645,NA,NA,Fokida,NA
+EL65,NA,NA,Πελοπόννησος,NA,2,8,703,NA,EL65,NA,Peloponnisos,NA,NA
+EL651,NA,NA,NA,"Αργολίδα, Αρκαδία",3,8,704,NA,EL651,NA,NA,"Argolida, Arkadia",NA
+EL652,NA,NA,NA,Κορινθία,3,8,705,NA,EL652,NA,NA,Korinthia,NA
+EL653,NA,NA,NA,"Λακωνία, Μεσσηνία",3,8,706,NA,EL653,NA,NA,"Lakonia, Messinia",NA
+ELZ,NA,Extra-Regio NUTS 1,NA,NA,1,8,707,NA,ELZ,Extra-Regio NUTS 1,NA,NA,NA
+ELZZ,NA,NA,Extra-Regio NUTS 2,NA,2,8,708,NA,ELZZ,NA,Extra-Regio NUTS 2,NA,NA
+ELZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,8,709,NA,ELZZZ,NA,NA,Extra-Regio NUTS 3,NA
+ES,España,NA,NA,NA,0,9,710,NA,NA,NA,NA,NA,NA
+ES1,NA,Noroeste,NA,NA,1,9,711,NA,The version in Latin characters is not official. It is included here only for the sake of comprehension.,NA,NA,NA,NA
+ES11,NA,NA,Galicia,NA,2,9,712,NA,NA,NA,NA,NA,NA
+ES111,NA,NA,NA,A Coruña,3,9,713,NA,NA,NA,NA,NA,NA
+ES112,NA,NA,NA,Lugo,3,9,714,NA,NA,NA,NA,NA,NA
+ES113,NA,NA,NA,Ourense,3,9,715,NA,NA,NA,NA,NA,NA
+ES114,NA,NA,NA,Pontevedra,3,9,716,NA,NA,NA,NA,NA,NA
+ES12,NA,NA,Principado de Asturias,NA,2,9,717,NA,NA,NA,NA,NA,NA
+ES120,NA,NA,NA,Asturias,3,9,718,NA,NA,NA,NA,NA,NA
+ES13,NA,NA,Cantabria,NA,2,9,719,NA,NA,NA,NA,NA,NA
+ES130,NA,NA,NA,Cantabria,3,9,720,NA,NA,NA,NA,NA,NA
+ES2,NA,Noreste,NA,NA,1,9,721,NA,NA,NA,NA,NA,NA
+ES21,NA,NA,País Vasco,NA,2,9,722,NA,NA,NA,NA,NA,NA
+ES211,NA,NA,NA,Araba/Álava,3,9,723,NA,NA,NA,NA,NA,NA
+ES212,NA,NA,NA,Gipuzkoa,3,9,724,NA,NA,NA,NA,NA,NA
+ES213,NA,NA,NA,Bizkaia,3,9,725,NA,NA,NA,NA,NA,NA
+ES22,NA,NA,Comunidad Foral de Navarra,NA,2,9,726,NA,NA,NA,NA,NA,NA
+ES220,NA,NA,NA,Navarra,3,9,727,NA,NA,NA,NA,NA,NA
+ES23,NA,NA,La Rioja,NA,2,9,728,NA,NA,NA,NA,NA,NA
+ES230,NA,NA,NA,La Rioja,3,9,729,NA,NA,NA,NA,NA,NA
+ES24,NA,NA,Aragón,NA,2,9,730,NA,NA,NA,NA,NA,NA
+ES241,NA,NA,NA,Huesca,3,9,731,NA,NA,NA,NA,NA,NA
+ES242,NA,NA,NA,Teruel,3,9,732,NA,NA,NA,NA,NA,NA
+ES243,NA,NA,NA,Zaragoza,3,9,733,NA,NA,NA,NA,NA,NA
+ES3,NA,Comunidad de Madrid,NA,NA,1,9,734,NA,NA,NA,NA,NA,NA
+ES30,NA,NA,Comunidad de Madrid,NA,2,9,735,NA,NA,NA,NA,NA,NA
+ES300,NA,NA,NA,Madrid,3,9,736,NA,NA,NA,NA,NA,NA
+ES4,NA,Centro (ES),NA,NA,1,9,737,NA,NA,NA,NA,NA,NA
+ES41,NA,NA,Castilla y León,NA,2,9,738,NA,NA,NA,NA,NA,NA
+ES411,NA,NA,NA,Ávila,3,9,739,NA,NA,NA,NA,NA,NA
+ES412,NA,NA,NA,Burgos,3,9,740,NA,NA,NA,NA,NA,NA
+ES413,NA,NA,NA,León,3,9,741,NA,NA,NA,NA,NA,NA
+ES414,NA,NA,NA,Palencia,3,9,742,NA,NA,NA,NA,NA,NA
+ES415,NA,NA,NA,Salamanca,3,9,743,NA,NA,NA,NA,NA,NA
+ES416,NA,NA,NA,Segovia,3,9,744,NA,NA,NA,NA,NA,NA
+ES417,NA,NA,NA,Soria,3,9,745,NA,NA,NA,NA,NA,NA
+ES418,NA,NA,NA,Valladolid,3,9,746,NA,NA,NA,NA,NA,NA
+ES419,NA,NA,NA,Zamora,3,9,747,NA,NA,NA,NA,NA,NA
+ES42,NA,NA,Castilla-La Mancha,NA,2,9,748,NA,NA,NA,NA,NA,NA
+ES421,NA,NA,NA,Albacete,3,9,749,NA,NA,NA,NA,NA,NA
+ES422,NA,NA,NA,Ciudad Real,3,9,750,NA,NA,NA,NA,NA,NA
+ES423,NA,NA,NA,Cuenca,3,9,751,NA,NA,NA,NA,NA,NA
+ES424,NA,NA,NA,Guadalajara,3,9,752,NA,NA,NA,NA,NA,NA
+ES425,NA,NA,NA,Toledo,3,9,753,NA,NA,NA,NA,NA,NA
+ES43,NA,NA,Extremadura,NA,2,9,754,NA,NA,NA,NA,NA,NA
+ES431,NA,NA,NA,Badajoz,3,9,755,NA,NA,NA,NA,NA,NA
+ES432,NA,NA,NA,Cáceres,3,9,756,NA,NA,NA,NA,NA,NA
+ES5,NA,Este,NA,NA,1,9,757,NA,NA,NA,NA,NA,NA
+ES51,NA,NA,Cataluña,NA,2,9,758,NA,NA,NA,NA,NA,NA
+ES511,NA,NA,NA,Barcelona,3,9,759,NA,NA,NA,NA,NA,NA
+ES512,NA,NA,NA,Girona,3,9,760,NA,NA,NA,NA,NA,NA
+ES513,NA,NA,NA,Lleida,3,9,761,NA,NA,NA,NA,NA,NA
+ES514,NA,NA,NA,Tarragona,3,9,762,NA,NA,NA,NA,NA,NA
+ES52,NA,NA,Comunitat Valenciana,NA,2,9,763,NA,NA,NA,NA,NA,NA
+ES521,NA,NA,NA,Alicante/Alacant,3,9,764,NA,NA,NA,NA,NA,NA
+ES522,NA,NA,NA,Castellón/Castelló,3,9,765,NA,NA,NA,NA,NA,NA
+ES523,NA,NA,NA,Valencia/València,3,9,766,NA,NA,NA,NA,NA,NA
+ES53,NA,NA,Illes Balears,NA,2,9,767,NA,NA,NA,NA,NA,NA
+ES531,NA,NA,NA,Eivissa y Formentera,3,9,768,NA,NA,NA,NA,NA,NA
+ES532,NA,NA,NA,Mallorca,3,9,769,NA,NA,NA,NA,NA,NA
+ES533,NA,NA,NA,Menorca,3,9,770,NA,NA,NA,NA,NA,NA
+ES6,NA,Sur,NA,NA,1,9,771,NA,NA,NA,NA,NA,NA
+ES61,NA,NA,Andalucía,NA,2,9,772,NA,NA,NA,NA,NA,NA
+ES611,NA,NA,NA,Almería,3,9,773,NA,NA,NA,NA,NA,NA
+ES612,NA,NA,NA,Cádiz,3,9,774,NA,NA,NA,NA,NA,NA
+ES613,NA,NA,NA,Córdoba,3,9,775,NA,NA,NA,NA,NA,NA
+ES614,NA,NA,NA,Granada,3,9,776,NA,NA,NA,NA,NA,NA
+ES615,NA,NA,NA,Huelva,3,9,777,NA,NA,NA,NA,NA,NA
+ES616,NA,NA,NA,Jaén,3,9,778,NA,NA,NA,NA,NA,NA
+ES617,NA,NA,NA,Málaga,3,9,779,NA,NA,NA,NA,NA,NA
+ES618,NA,NA,NA,Sevilla,3,9,780,NA,NA,NA,NA,NA,NA
+ES62,NA,NA,Región de Murcia,NA,2,9,781,NA,NA,NA,NA,NA,NA
+ES620,NA,NA,NA,Murcia,3,9,782,NA,NA,NA,NA,NA,NA
+ES63,NA,NA,Ciudad de Ceuta,NA,2,9,783,NA,NA,NA,NA,NA,NA
+ES630,NA,NA,NA,Ceuta,3,9,784,NA,NA,NA,NA,NA,NA
+ES64,NA,NA,Ciudad de Melilla,NA,2,9,785,NA,NA,NA,NA,NA,NA
+ES640,NA,NA,NA,Melilla,3,9,786,NA,NA,NA,NA,NA,NA
+ES7,NA,Canarias,NA,NA,1,9,787,NA,NA,NA,NA,NA,NA
+ES70,NA,NA,Canarias,NA,2,9,788,NA,NA,NA,NA,NA,NA
+ES703,NA,NA,NA,El Hierro,3,9,789,NA,NA,NA,NA,NA,NA
+ES704,NA,NA,NA,Fuerteventura,3,9,790,NA,NA,NA,NA,NA,NA
+ES705,NA,NA,NA,Gran Canaria,3,9,791,NA,NA,NA,NA,NA,NA
+ES706,NA,NA,NA,La Gomera,3,9,792,NA,NA,NA,NA,NA,NA
+ES707,NA,NA,NA,La Palma,3,9,793,NA,NA,NA,NA,NA,NA
+ES708,NA,NA,NA,Lanzarote,3,9,794,NA,NA,NA,NA,NA,NA
+ES709,NA,NA,NA,Tenerife,3,9,795,NA,NA,NA,NA,NA,NA
+ESZ,NA,Extra-Regio NUTS 1,NA,NA,1,9,796,NA,NA,NA,NA,NA,NA
+ESZZ,NA,NA,Extra-Regio NUTS 2,NA,2,9,797,NA,NA,NA,NA,NA,NA
+ESZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,9,798,NA,NA,NA,NA,NA,NA
+FR,France,NA,NA,NA,0,10,799,NA,NA,NA,NA,NA,NA
+FR1,NA,Ile-de-France,NA,NA,1,10,800,NA,NA,NA,NA,NA,NA
+FR10,NA,NA,Ile-de-France,NA,2,10,801,NA,NA,NA,NA,NA,NA
+FR101,NA,NA,NA,Paris,3,10,802,NA,NA,NA,NA,NA,NA
+FR102,NA,NA,NA,Seine-et-Marne,3,10,803,NA,NA,NA,NA,NA,NA
+FR103,NA,NA,NA,Yvelines,3,10,804,NA,NA,NA,NA,NA,NA
+FR104,NA,NA,NA,Essonne,3,10,805,NA,NA,NA,NA,NA,NA
+FR105,NA,NA,NA,Hauts-de-Seine,3,10,806,NA,NA,NA,NA,NA,NA
+FR106,NA,NA,NA,Seine-Saint-Denis,3,10,807,NA,NA,NA,NA,NA,NA
+FR107,NA,NA,NA,Val-de-Marne,3,10,808,NA,NA,NA,NA,NA,NA
+FR108,NA,NA,NA,Val-d’Oise,3,10,809,NA,NA,NA,NA,NA,NA
+FRB,NA,Centre — Val de Loire,NA,NA,1,10,810,NA,NA,NA,NA,NA,NA
+FRB0,NA,NA,Centre — Val de Loire,NA,2,10,811,NA,NA,NA,NA,NA,NA
+FRB01,NA,NA,NA,Cher,3,10,812,NA,NA,NA,NA,NA,NA
+FRB02,NA,NA,NA,Eure-et-Loir,3,10,813,NA,NA,NA,NA,NA,NA
+FRB03,NA,NA,NA,Indre,3,10,814,NA,NA,NA,NA,NA,NA
+FRB04,NA,NA,NA,Indre-et-Loire,3,10,815,NA,NA,NA,NA,NA,NA
+FRB05,NA,NA,NA,Loir-et-Cher,3,10,816,NA,NA,NA,NA,NA,NA
+FRB06,NA,NA,NA,Loiret,3,10,817,NA,NA,NA,NA,NA,NA
+FRC,NA,Bourgogne-Franche-Comté,NA,NA,1,10,818,NA,NA,NA,NA,NA,NA
+FRC1,NA,NA,Bourgogne,NA,2,10,819,NA,NA,NA,NA,NA,NA
+FRC11,NA,NA,NA,Côte-d’Or,3,10,820,NA,NA,NA,NA,NA,NA
+FRC12,NA,NA,NA,Nièvre,3,10,821,NA,NA,NA,NA,NA,NA
+FRC13,NA,NA,NA,Saône-et-Loire,3,10,822,NA,NA,NA,NA,NA,NA
+FRC14,NA,NA,NA,Yonne,3,10,823,NA,NA,NA,NA,NA,NA
+FRC2,NA,NA,Franche-Comté,NA,2,10,824,NA,NA,NA,NA,NA,NA
+FRC21,NA,NA,NA,Doubs,3,10,825,NA,NA,NA,NA,NA,NA
+FRC22,NA,NA,NA,Jura,3,10,826,NA,NA,NA,NA,NA,NA
+FRC23,NA,NA,NA,Haute-Saône,3,10,827,NA,NA,NA,NA,NA,NA
+FRC24,NA,NA,NA,Territoire de Belfort,3,10,828,NA,NA,NA,NA,NA,NA
+FRD,NA,Normandie,NA,NA,1,10,829,NA,NA,NA,NA,NA,NA
+FRD1,NA,NA,Basse-Normandie,NA,2,10,830,NA,NA,NA,NA,NA,NA
+FRD11,NA,NA,NA,Calvados,3,10,831,NA,NA,NA,NA,NA,NA
+FRD12,NA,NA,NA,Manche,3,10,832,NA,NA,NA,NA,NA,NA
+FRD13,NA,NA,NA,Orne,3,10,833,NA,NA,NA,NA,NA,NA
+FRD2,NA,NA,Haute-Normandie,NA,2,10,834,NA,NA,NA,NA,NA,NA
+FRD21,NA,NA,NA,Eure,3,10,835,NA,NA,NA,NA,NA,NA
+FRD22,NA,NA,NA,Seine-Maritime,3,10,836,NA,NA,NA,NA,NA,NA
+FRE,NA,Hauts-de-France,NA,NA,1,10,837,NA,NA,NA,NA,NA,NA
+FRE1,NA,NA,Nord-Pas de Calais,NA,2,10,838,NA,NA,NA,NA,NA,NA
+FRE11,NA,NA,NA,Nord,3,10,839,NA,NA,NA,NA,NA,NA
+FRE12,NA,NA,NA,Pas-de-Calais,3,10,840,NA,NA,NA,NA,NA,NA
+FRE2,NA,NA,Picardie,NA,2,10,841,NA,NA,NA,NA,NA,NA
+FRE21,NA,NA,NA,Aisne,3,10,842,NA,NA,NA,NA,NA,NA
+FRE22,NA,NA,NA,Oise,3,10,843,NA,NA,NA,NA,NA,NA
+FRE23,NA,NA,NA,Somme,3,10,844,NA,NA,NA,NA,NA,NA
+FRF,NA,Grand Est,NA,NA,1,10,845,NA,NA,NA,NA,NA,NA
+FRF1,NA,NA,Alsace,NA,2,10,846,NA,NA,NA,NA,NA,NA
+FRF11,NA,NA,NA,Bas-Rhin,3,10,847,NA,NA,NA,NA,NA,NA
+FRF12,NA,NA,NA,Haut-Rhin,3,10,848,NA,NA,NA,NA,NA,NA
+FRF2,NA,NA,Champagne-Ardenne,NA,2,10,849,NA,NA,NA,NA,NA,NA
+FRF21,NA,NA,NA,Ardennes,3,10,850,NA,NA,NA,NA,NA,NA
+FRF22,NA,NA,NA,Aube,3,10,851,NA,NA,NA,NA,NA,NA
+FRF23,NA,NA,NA,Marne,3,10,852,NA,NA,NA,NA,NA,NA
+FRF24,NA,NA,NA,Haute-Marne,3,10,853,NA,NA,NA,NA,NA,NA
+FRF3,NA,NA,Lorraine,NA,2,10,854,NA,NA,NA,NA,NA,NA
+FRF31,NA,NA,NA,Meurthe-et-Moselle,3,10,855,NA,NA,NA,NA,NA,NA
+FRF32,NA,NA,NA,Meuse,3,10,856,NA,NA,NA,NA,NA,NA
+FRF33,NA,NA,NA,Moselle,3,10,857,NA,NA,NA,NA,NA,NA
+FRF34,NA,NA,NA,Vosges,3,10,858,NA,NA,NA,NA,NA,NA
+FRG,NA,Pays de la Loire,NA,NA,1,10,859,NA,NA,NA,NA,NA,NA
+FRG0,NA,NA,Pays de la Loire,NA,2,10,860,NA,NA,NA,NA,NA,NA
+FRG01,NA,NA,NA,Loire-Atlantique,3,10,861,NA,NA,NA,NA,NA,NA
+FRG02,NA,NA,NA,Maine-et-Loire,3,10,862,NA,NA,NA,NA,NA,NA
+FRG03,NA,NA,NA,Mayenne,3,10,863,NA,NA,NA,NA,NA,NA
+FRG04,NA,NA,NA,Sarthe,3,10,864,NA,NA,NA,NA,NA,NA
+FRG05,NA,NA,NA,Vendée,3,10,865,NA,NA,NA,NA,NA,NA
+FRH,NA,Bretagne,NA,NA,1,10,866,NA,NA,NA,NA,NA,NA
+FRH0,NA,NA,Bretagne,NA,2,10,867,NA,NA,NA,NA,NA,NA
+FRH01,NA,NA,NA,Côtes-d’Armor,3,10,868,NA,NA,NA,NA,NA,NA
+FRH02,NA,NA,NA,Finistère,3,10,869,NA,NA,NA,NA,NA,NA
+FRH03,NA,NA,NA,Ille-et-Vilaine,3,10,870,NA,NA,NA,NA,NA,NA
+FRH04,NA,NA,NA,Morbihan,3,10,871,NA,NA,NA,NA,NA,NA
+FRI,NA,Nouvelle-Aquitaine,NA,NA,1,10,872,NA,NA,NA,NA,NA,NA
+FRI1,NA,NA,Aquitaine,NA,2,10,873,NA,NA,NA,NA,NA,NA
+FRI11,NA,NA,NA,Dordogne,3,10,874,NA,NA,NA,NA,NA,NA
+FRI12,NA,NA,NA,Gironde,3,10,875,NA,NA,NA,NA,NA,NA
+FRI13,NA,NA,NA,Landes,3,10,876,NA,NA,NA,NA,NA,NA
+FRI14,NA,NA,NA,Lot-et-Garonne,3,10,877,NA,NA,NA,NA,NA,NA
+FRI15,NA,NA,NA,Pyrénées-Atlantiques,3,10,878,NA,NA,NA,NA,NA,NA
+FRI2,NA,NA,Limousin,NA,2,10,879,NA,NA,NA,NA,NA,NA
+FRI21,NA,NA,NA,Corrèze,3,10,880,NA,NA,NA,NA,NA,NA
+FRI22,NA,NA,NA,Creuse,3,10,881,NA,NA,NA,NA,NA,NA
+FRI23,NA,NA,NA,Haute-Vienne,3,10,882,NA,NA,NA,NA,NA,NA
+FRI3,NA,NA,Poitou-Charentes,NA,2,10,883,NA,NA,NA,NA,NA,NA
+FRI31,NA,NA,NA,Charente,3,10,884,NA,NA,NA,NA,NA,NA
+FRI32,NA,NA,NA,Charente-Maritime,3,10,885,NA,NA,NA,NA,NA,NA
+FRI33,NA,NA,NA,Deux-Sèvres,3,10,886,NA,NA,NA,NA,NA,NA
+FRI34,NA,NA,NA,Vienne,3,10,887,NA,NA,NA,NA,NA,NA
+FRJ,NA,Occitanie,NA,NA,1,10,888,NA,NA,NA,NA,NA,NA
+FRJ1,NA,NA,Languedoc-Roussillon,NA,2,10,889,NA,NA,NA,NA,NA,NA
+FRJ11,NA,NA,NA,Aude,3,10,890,NA,NA,NA,NA,NA,NA
+FRJ12,NA,NA,NA,Gard,3,10,891,NA,NA,NA,NA,NA,NA
+FRJ13,NA,NA,NA,Hérault,3,10,892,NA,NA,NA,NA,NA,NA
+FRJ14,NA,NA,NA,Lozère,3,10,893,NA,NA,NA,NA,NA,NA
+FRJ15,NA,NA,NA,Pyrénées-Orientales,3,10,894,NA,NA,NA,NA,NA,NA
+FRJ2,NA,NA,Midi-Pyrénées,NA,2,10,895,NA,NA,NA,NA,NA,NA
+FRJ21,NA,NA,NA,Ariège,3,10,896,NA,NA,NA,NA,NA,NA
+FRJ22,NA,NA,NA,Aveyron,3,10,897,NA,NA,NA,NA,NA,NA
+FRJ23,NA,NA,NA,Haute-Garonne,3,10,898,NA,NA,NA,NA,NA,NA
+FRJ24,NA,NA,NA,Gers,3,10,899,NA,NA,NA,NA,NA,NA
+FRJ25,NA,NA,NA,Lot,3,10,900,NA,NA,NA,NA,NA,NA
+FRJ26,NA,NA,NA,Hautes-Pyrénées,3,10,901,NA,NA,NA,NA,NA,NA
+FRJ27,NA,NA,NA,Tarn,3,10,902,NA,NA,NA,NA,NA,NA
+FRJ28,NA,NA,NA,Tarn-et-Garonne,3,10,903,NA,NA,NA,NA,NA,NA
+FRK,NA,Auvergne-Rhône-Alpes,NA,NA,1,10,904,NA,NA,NA,NA,NA,NA
+FRK1,NA,NA,Auvergne,NA,2,10,905,NA,NA,NA,NA,NA,NA
+FRK11,NA,NA,NA,Allier,3,10,906,NA,NA,NA,NA,NA,NA
+FRK12,NA,NA,NA,Cantal,3,10,907,NA,NA,NA,NA,NA,NA
+FRK13,NA,NA,NA,Haute-Loire,3,10,908,NA,NA,NA,NA,NA,NA
+FRK14,NA,NA,NA,Puy-de-Dôme,3,10,909,NA,NA,NA,NA,NA,NA
+FRK2,NA,NA,Rhône-Alpes,NA,2,10,910,NA,NA,NA,NA,NA,NA
+FRK21,NA,NA,NA,Ain,3,10,911,NA,NA,NA,NA,NA,NA
+FRK22,NA,NA,NA,Ardèche,3,10,912,NA,NA,NA,NA,NA,NA
+FRK23,NA,NA,NA,Drôme,3,10,913,NA,NA,NA,NA,NA,NA
+FRK24,NA,NA,NA,Isère,3,10,914,NA,NA,NA,NA,NA,NA
+FRK25,NA,NA,NA,Loire,3,10,915,NA,NA,NA,NA,NA,NA
+FRK26,NA,NA,NA,Rhône,3,10,916,NA,NA,NA,NA,NA,NA
+FRK27,NA,NA,NA,Savoie,3,10,917,NA,NA,NA,NA,NA,NA
+FRK28,NA,NA,NA,Haute-Savoie,3,10,918,NA,NA,NA,NA,NA,NA
+FRL,NA,Provence-Alpes-Côte d’Azur,NA,NA,1,10,919,NA,NA,NA,NA,NA,NA
+FRL0,NA,NA,Provence-Alpes-Côte d’Azur,NA,2,10,920,NA,NA,NA,NA,NA,NA
+FRL01,NA,NA,NA,Alpes-de-Haute-Provence,3,10,921,NA,NA,NA,NA,NA,NA
+FRL02,NA,NA,NA,Hautes-Alpes,3,10,922,NA,NA,NA,NA,NA,NA
+FRL03,NA,NA,NA,Alpes-Maritimes,3,10,923,NA,NA,NA,NA,NA,NA
+FRL04,NA,NA,NA,Bouches-du-Rhône,3,10,924,NA,NA,NA,NA,NA,NA
+FRL05,NA,NA,NA,Var,3,10,925,NA,NA,NA,NA,NA,NA
+FRL06,NA,NA,NA,Vaucluse,3,10,926,NA,NA,NA,NA,NA,NA
+FRM,NA,Corse,NA,NA,1,10,927,NA,NA,NA,NA,NA,NA
+FRM0,NA,NA,Corse,NA,2,10,928,NA,NA,NA,NA,NA,NA
+FRM01,NA,NA,NA,Corse-du-Sud,3,10,929,NA,NA,NA,NA,NA,NA
+FRM02,NA,NA,NA,Haute-Corse,3,10,930,NA,NA,NA,NA,NA,NA
+FRY,NA,RUP FR — Régions Ultrapériphériques Françaises,NA,NA,1,10,931,NA,NA,NA,NA,NA,NA
+FRY1,NA,NA,Guadeloupe,NA,2,10,932,NA,NA,NA,NA,NA,NA
+FRY10,NA,NA,NA,Guadeloupe,3,10,933,NA,NA,NA,NA,NA,NA
+FRY2,NA,NA,Martinique,NA,2,10,934,NA,NA,NA,NA,NA,NA
+FRY20,NA,NA,NA,Martinique,3,10,935,NA,NA,NA,NA,NA,NA
+FRY3,NA,NA,Guyane,NA,2,10,936,NA,NA,NA,NA,NA,NA
+FRY30,NA,NA,NA,Guyane,3,10,937,NA,NA,NA,NA,NA,NA
+FRY4,NA,NA,La Réunion,NA,2,10,938,NA,NA,NA,NA,NA,NA
+FRY40,NA,NA,NA,La Réunion,3,10,939,NA,NA,NA,NA,NA,NA
+FRY5,NA,NA,Mayotte,NA,2,10,940,NA,NA,NA,NA,NA,NA
+FRY50,NA,NA,NA,Mayotte,3,10,941,NA,NA,NA,NA,NA,NA
+FRZ,NA,Extra-Regio NUTS 1,NA,NA,1,10,942,NA,NA,NA,NA,NA,NA
+FRZZ,NA,NA,Extra-Regio NUTS 2,NA,2,10,943,NA,NA,NA,NA,NA,NA
+FRZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,10,944,NA,NA,NA,NA,NA,NA
+HR,Hrvatska,NA,NA,NA,0,11,945,NA,NA,NA,NA,NA,NA
+HR0,NA,Hrvatska,NA,NA,1,11,946,NA,NA,NA,NA,NA,NA
+HR02,NA,NA,Panonska Hrvatska,NA,2,11,947,NA,NA,NA,NA,NA,NA
+HR021,NA,NA,NA,Bjelovarsko-bilogorska županija,3,11,948,NA,NA,NA,NA,NA,NA
+HR022,NA,NA,NA,Virovitičko-podravska županija,3,11,949,NA,NA,NA,NA,NA,NA
+HR023,NA,NA,NA,Požeško-slavonska županija,3,11,950,NA,NA,NA,NA,NA,NA
+HR024,NA,NA,NA,Brodsko-posavska županija,3,11,951,NA,NA,NA,NA,NA,NA
+HR025,NA,NA,NA,Osječko-baranjska županija,3,11,952,NA,NA,NA,NA,NA,NA
+HR026,NA,NA,NA,Vukovarsko-srijemska županija,3,11,953,NA,NA,NA,NA,NA,NA
+HR027,NA,NA,NA,Karlovačka županija,3,11,954,NA,NA,NA,NA,NA,NA
+HR028,NA,NA,NA,Sisačko-moslavačka županija,3,11,955,NA,NA,NA,NA,NA,NA
+HR03,NA,NA,Jadranska Hrvatska,NA,2,11,956,NA,NA,NA,NA,NA,NA
+HR031,NA,NA,NA,Primorsko-goranska županija,3,11,957,NA,NA,NA,NA,NA,NA
+HR032,NA,NA,NA,Ličko-senjska županija,3,11,958,NA,NA,NA,NA,NA,NA
+HR033,NA,NA,NA,Zadarska županija,3,11,959,NA,NA,NA,NA,NA,NA
+HR034,NA,NA,NA,Šibensko-kninska županija,3,11,960,NA,NA,NA,NA,NA,NA
+HR035,NA,NA,NA,Splitsko-dalmatinska županija,3,11,961,NA,NA,NA,NA,NA,NA
+HR036,NA,NA,NA,Istarska županija,3,11,962,NA,NA,NA,NA,NA,NA
+HR037,NA,NA,NA,Dubrovačko-neretvanska županija,3,11,963,NA,NA,NA,NA,NA,NA
+HR05,NA,NA,Grad Zagreb,NA,2,11,964,NA,NA,NA,NA,NA,NA
+HR050,NA,NA,NA,Grad Zagreb,3,11,965,NA,NA,NA,NA,NA,NA
+HR06,NA,NA,Sjeverna Hrvatska,NA,2,11,966,NA,NA,NA,NA,NA,NA
+HR061,NA,NA,NA,Međimurska županija,3,11,967,NA,NA,NA,NA,NA,NA
+HR062,NA,NA,NA,Varaždinska županija,3,11,968,NA,NA,NA,NA,NA,NA
+HR063,NA,NA,NA,Koprivničko-križevačka županija,3,11,969,NA,NA,NA,NA,NA,NA
+HR064,NA,NA,NA,Krapinsko-zagorska županija,3,11,970,NA,NA,NA,NA,NA,NA
+HR065,NA,NA,NA,Zagrebačka županija,3,11,971,NA,NA,NA,NA,NA,NA
+HRZ,NA,Extra-Regio NUTS 1,NA,NA,1,11,972,NA,NA,NA,NA,NA,NA
+HRZZ,NA,NA,Extra-Regio NUTS 2,NA,2,11,973,NA,NA,NA,NA,NA,NA
+HRZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,11,974,NA,NA,NA,NA,NA,NA
+IT,Italia,NA,NA,NA,0,12,975,NA,NA,NA,NA,NA,NA
+ITC,NA,Nord-Ovest,NA,NA,1,12,976,NA,NA,NA,NA,NA,NA
+ITC1,NA,NA,Piemonte,NA,2,12,977,NA,NA,NA,NA,NA,NA
+ITC11,NA,NA,NA,Torino,3,12,978,NA,NA,NA,NA,NA,NA
+ITC12,NA,NA,NA,Vercelli,3,12,979,NA,NA,NA,NA,NA,NA
+ITC13,NA,NA,NA,Biella,3,12,980,NA,NA,NA,NA,NA,NA
+ITC14,NA,NA,NA,Verbano-Cusio-Ossola,3,12,981,NA,NA,NA,NA,NA,NA
+ITC15,NA,NA,NA,Novara,3,12,982,NA,NA,NA,NA,NA,NA
+ITC16,NA,NA,NA,Cuneo,3,12,983,NA,NA,NA,NA,NA,NA
+ITC17,NA,NA,NA,Asti,3,12,984,NA,NA,NA,NA,NA,NA
+ITC18,NA,NA,NA,Alessandria,3,12,985,NA,NA,NA,NA,NA,NA
+ITC2,NA,NA,Valle d’Aosta/Vallée d’Aoste,NA,2,12,986,NA,NA,NA,NA,NA,NA
+ITC20,NA,NA,NA,Valle d’Aosta/Vallée d’Aoste,3,12,987,NA,NA,NA,NA,NA,NA
+ITC3,NA,NA,Liguria,NA,2,12,988,NA,NA,NA,NA,NA,NA
+ITC31,NA,NA,NA,Imperia,3,12,989,NA,NA,NA,NA,NA,NA
+ITC32,NA,NA,NA,Savona,3,12,990,NA,NA,NA,NA,NA,NA
+ITC33,NA,NA,NA,Genova,3,12,991,NA,NA,NA,NA,NA,NA
+ITC34,NA,NA,NA,La Spezia,3,12,992,NA,NA,NA,NA,NA,NA
+ITC4,NA,NA,Lombardia,NA,2,12,993,NA,NA,NA,NA,NA,NA
+ITC41,NA,NA,NA,Varese,3,12,994,NA,NA,NA,NA,NA,NA
+ITC42,NA,NA,NA,Como,3,12,995,NA,NA,NA,NA,NA,NA
+ITC43,NA,NA,NA,Lecco,3,12,996,NA,NA,NA,NA,NA,NA
+ITC44,NA,NA,NA,Sondrio,3,12,997,NA,NA,NA,NA,NA,NA
+ITC46,NA,NA,NA,Bergamo,3,12,998,NA,NA,NA,NA,NA,NA
+ITC47,NA,NA,NA,Brescia,3,12,999,NA,NA,NA,NA,NA,NA
+ITC48,NA,NA,NA,Pavia,3,12,1000,NA,NA,NA,NA,NA,NA
+ITC49,NA,NA,NA,Lodi,3,12,1001,NA,NA,NA,NA,NA,NA
+ITC4A,NA,NA,NA,Cremona,3,12,1002,NA,NA,NA,NA,NA,NA
+ITC4B,NA,NA,NA,Mantova,3,12,1003,NA,NA,NA,NA,NA,NA
+ITC4C,NA,NA,NA,Milano,3,12,1004,NA,NA,NA,NA,NA,NA
+ITC4D,NA,NA,NA,Monza e della Brianza,3,12,1005,NA,NA,NA,NA,NA,NA
+ITF,NA,Sud,NA,NA,1,12,1006,NA,NA,NA,NA,NA,NA
+ITF1,NA,NA,Abruzzo,NA,2,12,1007,NA,NA,NA,NA,NA,NA
+ITF11,NA,NA,NA,L’Aquila,3,12,1008,NA,NA,NA,NA,NA,NA
+ITF12,NA,NA,NA,Teramo,3,12,1009,NA,NA,NA,NA,NA,NA
+ITF13,NA,NA,NA,Pescara,3,12,1010,NA,NA,NA,NA,NA,NA
+ITF14,NA,NA,NA,Chieti,3,12,1011,NA,NA,NA,NA,NA,NA
+ITF2,NA,NA,Molise,NA,2,12,1012,NA,NA,NA,NA,NA,NA
+ITF21,NA,NA,NA,Isernia,3,12,1013,NA,NA,NA,NA,NA,NA
+ITF22,NA,NA,NA,Campobasso,3,12,1014,NA,NA,NA,NA,NA,NA
+ITF3,NA,NA,Campania,NA,2,12,1015,NA,NA,NA,NA,NA,NA
+ITF31,NA,NA,NA,Caserta,3,12,1016,NA,NA,NA,NA,NA,NA
+ITF32,NA,NA,NA,Benevento,3,12,1017,NA,NA,NA,NA,NA,NA
+ITF33,NA,NA,NA,Napoli,3,12,1018,NA,NA,NA,NA,NA,NA
+ITF34,NA,NA,NA,Avellino,3,12,1019,NA,NA,NA,NA,NA,NA
+ITF35,NA,NA,NA,Salerno,3,12,1020,NA,NA,NA,NA,NA,NA
+ITF4,NA,NA,Puglia,NA,2,12,1021,NA,NA,NA,NA,NA,NA
+ITF43,NA,NA,NA,Taranto,3,12,1022,NA,NA,NA,NA,NA,NA
+ITF44,NA,NA,NA,Brindisi,3,12,1023,NA,NA,NA,NA,NA,NA
+ITF45,NA,NA,NA,Lecce,3,12,1024,NA,NA,NA,NA,NA,NA
+ITF46,NA,NA,NA,Foggia,3,12,1025,NA,NA,NA,NA,NA,NA
+ITF47,NA,NA,NA,Bari,3,12,1026,NA,NA,NA,NA,NA,NA
+ITF48,NA,NA,NA,Barletta-Andria-Trani,3,12,1027,NA,NA,NA,NA,NA,NA
+ITF5,NA,NA,Basilicata,NA,2,12,1028,NA,NA,NA,NA,NA,NA
+ITF51,NA,NA,NA,Potenza,3,12,1029,NA,NA,NA,NA,NA,NA
+ITF52,NA,NA,NA,Matera,3,12,1030,NA,NA,NA,NA,NA,NA
+ITF6,NA,NA,Calabria,NA,2,12,1031,NA,NA,NA,NA,NA,NA
+ITF61,NA,NA,NA,Cosenza,3,12,1032,NA,NA,NA,NA,NA,NA
+ITF62,NA,NA,NA,Crotone,3,12,1033,NA,NA,NA,NA,NA,NA
+ITF63,NA,NA,NA,Catanzaro,3,12,1034,NA,NA,NA,NA,NA,NA
+ITF64,NA,NA,NA,Vibo Valentia,3,12,1035,NA,NA,NA,NA,NA,NA
+ITF65,NA,NA,NA,Reggio di Calabria,3,12,1036,NA,NA,NA,NA,NA,NA
+ITG,NA,Isole,NA,NA,1,12,1037,NA,NA,NA,NA,NA,NA
+ITG1,NA,NA,Sicilia,NA,2,12,1038,NA,NA,NA,NA,NA,NA
+ITG11,NA,NA,NA,Trapani,3,12,1039,NA,NA,NA,NA,NA,NA
+ITG12,NA,NA,NA,Palermo,3,12,1040,NA,NA,NA,NA,NA,NA
+ITG13,NA,NA,NA,Messina,3,12,1041,NA,NA,NA,NA,NA,NA
+ITG14,NA,NA,NA,Agrigento,3,12,1042,NA,NA,NA,NA,NA,NA
+ITG15,NA,NA,NA,Caltanissetta,3,12,1043,NA,NA,NA,NA,NA,NA
+ITG16,NA,NA,NA,Enna,3,12,1044,NA,NA,NA,NA,NA,NA
+ITG17,NA,NA,NA,Catania,3,12,1045,NA,NA,NA,NA,NA,NA
+ITG18,NA,NA,NA,Ragusa,3,12,1046,NA,NA,NA,NA,NA,NA
+ITG19,NA,NA,NA,Siracusa,3,12,1047,NA,NA,NA,NA,NA,NA
+ITG2,NA,NA,Sardegna,NA,2,12,1048,NA,NA,NA,NA,NA,NA
+ITG2D,NA,NA,NA,Sassari,3,12,1049,NA,NA,NA,NA,NA,NA
+ITG2E,NA,NA,NA,Nuoro,3,12,1050,NA,NA,NA,NA,NA,NA
+ITG2F,NA,NA,NA,Cagliari,3,12,1051,NA,NA,NA,NA,NA,NA
+ITG2G,NA,NA,NA,Oristano,3,12,1052,NA,NA,NA,NA,NA,NA
+ITG2H,NA,NA,NA,Sud Sardegna,3,12,1053,NA,NA,NA,NA,NA,NA
+ITH,NA,Nord-Est,NA,NA,1,12,1054,NA,NA,NA,NA,NA,NA
+ITH1,NA,NA,Provincia Autonoma di Bolzano/Bozen,NA,2,12,1055,NA,NA,NA,NA,NA,NA
+ITH10,NA,NA,NA,Bolzano-Bozen,3,12,1056,NA,NA,NA,NA,NA,NA
+ITH2,NA,NA,Provincia Autonoma di Trento,NA,2,12,1057,NA,NA,NA,NA,NA,NA
+ITH20,NA,NA,NA,Trento,3,12,1058,NA,NA,NA,NA,NA,NA
+ITH3,NA,NA,Veneto,NA,2,12,1059,NA,NA,NA,NA,NA,NA
+ITH31,NA,NA,NA,Verona,3,12,1060,NA,NA,NA,NA,NA,NA
+ITH32,NA,NA,NA,Vicenza,3,12,1061,NA,NA,NA,NA,NA,NA
+ITH33,NA,NA,NA,Belluno,3,12,1062,NA,NA,NA,NA,NA,NA
+ITH34,NA,NA,NA,Treviso,3,12,1063,NA,NA,NA,NA,NA,NA
+ITH35,NA,NA,NA,Venezia,3,12,1064,NA,NA,NA,NA,NA,NA
+ITH36,NA,NA,NA,Padova,3,12,1065,NA,NA,NA,NA,NA,NA
+ITH37,NA,NA,NA,Rovigo,3,12,1066,NA,NA,NA,NA,NA,NA
+ITH4,NA,NA,Friuli-Venezia Giulia,NA,2,12,1067,NA,NA,NA,NA,NA,NA
+ITH41,NA,NA,NA,Pordenone,3,12,1068,NA,NA,NA,NA,NA,NA
+ITH42,NA,NA,NA,Udine,3,12,1069,NA,NA,NA,NA,NA,NA
+ITH43,NA,NA,NA,Gorizia,3,12,1070,NA,NA,NA,NA,NA,NA
+ITH44,NA,NA,NA,Trieste,3,12,1071,NA,NA,NA,NA,NA,NA
+ITH5,NA,NA,Emilia-Romagna,NA,2,12,1072,NA,NA,NA,NA,NA,NA
+ITH51,NA,NA,NA,Piacenza,3,12,1073,NA,NA,NA,NA,NA,NA
+ITH52,NA,NA,NA,Parma,3,12,1074,NA,NA,NA,NA,NA,NA
+ITH53,NA,NA,NA,Reggio nell’Emilia,3,12,1075,NA,NA,NA,NA,NA,NA
+ITH54,NA,NA,NA,Modena,3,12,1076,NA,NA,NA,NA,NA,NA
+ITH55,NA,NA,NA,Bologna,3,12,1077,NA,NA,NA,NA,NA,NA
+ITH56,NA,NA,NA,Ferrara,3,12,1078,NA,NA,NA,NA,NA,NA
+ITH57,NA,NA,NA,Ravenna,3,12,1079,NA,NA,NA,NA,NA,NA
+ITH58,NA,NA,NA,Forlì-Cesena,3,12,1080,NA,NA,NA,NA,NA,NA
+ITH59,NA,NA,NA,Rimini,3,12,1081,NA,NA,NA,NA,NA,NA
+ITI,NA,Centro (IT),NA,NA,1,12,1082,NA,NA,NA,NA,NA,NA
+ITI1,NA,NA,Toscana,NA,2,12,1083,NA,NA,NA,NA,NA,NA
+ITI11,NA,NA,NA,Massa-Carrara,3,12,1084,NA,NA,NA,NA,NA,NA
+ITI12,NA,NA,NA,Lucca,3,12,1085,NA,NA,NA,NA,NA,NA
+ITI13,NA,NA,NA,Pistoia,3,12,1086,NA,NA,NA,NA,NA,NA
+ITI14,NA,NA,NA,Firenze,3,12,1087,NA,NA,NA,NA,NA,NA
+ITI15,NA,NA,NA,Prato,3,12,1088,NA,NA,NA,NA,NA,NA
+ITI16,NA,NA,NA,Livorno,3,12,1089,NA,NA,NA,NA,NA,NA
+ITI17,NA,NA,NA,Pisa,3,12,1090,NA,NA,NA,NA,NA,NA
+ITI18,NA,NA,NA,Arezzo,3,12,1091,NA,NA,NA,NA,NA,NA
+ITI19,NA,NA,NA,Siena,3,12,1092,NA,NA,NA,NA,NA,NA
+ITI1A,NA,NA,NA,Grosseto,3,12,1093,NA,NA,NA,NA,NA,NA
+ITI2,NA,NA,Umbria,NA,2,12,1094,NA,NA,NA,NA,NA,NA
+ITI21,NA,NA,NA,Perugia,3,12,1095,NA,NA,NA,NA,NA,NA
+ITI22,NA,NA,NA,Terni,3,12,1096,NA,NA,NA,NA,NA,NA
+ITI3,NA,NA,Marche,NA,2,12,1097,NA,NA,NA,NA,NA,NA
+ITI31,NA,NA,NA,Pesaro e Urbino,3,12,1098,NA,NA,NA,NA,NA,NA
+ITI32,NA,NA,NA,Ancona,3,12,1099,NA,NA,NA,NA,NA,NA
+ITI33,NA,NA,NA,Macerata,3,12,1100,NA,NA,NA,NA,NA,NA
+ITI34,NA,NA,NA,Ascoli Piceno,3,12,1101,NA,NA,NA,NA,NA,NA
+ITI35,NA,NA,NA,Fermo,3,12,1102,NA,NA,NA,NA,NA,NA
+ITI4,NA,NA,Lazio,NA,2,12,1103,NA,NA,NA,NA,NA,NA
+ITI41,NA,NA,NA,Viterbo,3,12,1104,NA,NA,NA,NA,NA,NA
+ITI42,NA,NA,NA,Rieti,3,12,1105,NA,NA,NA,NA,NA,NA
+ITI43,NA,NA,NA,Roma,3,12,1106,NA,NA,NA,NA,NA,NA
+ITI44,NA,NA,NA,Latina,3,12,1107,NA,NA,NA,NA,NA,NA
+ITI45,NA,NA,NA,Frosinone,3,12,1108,NA,NA,NA,NA,NA,NA
+ITZ,NA,Extra-Regio NUTS 1,NA,NA,1,12,1109,NA,NA,NA,NA,NA,NA
+ITZZ,NA,NA,Extra-Regio NUTS 2,NA,2,12,1110,NA,NA,NA,NA,NA,NA
+ITZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,12,1111,NA,NA,NA,NA,NA,NA
+CY,Κύπρος ,NA,NA,NA,0,13,1112,NA,CY,Kýpros,NA,NA,NA
+CY0,NA,Κύπρος,NA,NA,1,13,1113,NA,CY0,Kýpros,NA,NA,NA
+CY00,NA,NA,Κύπρος,NA,2,13,1114,NA,CY00,NA,Kýpros,NA,NA
+CY000,NA,NA,NA,Κύπρος,3,13,1115,NA,CY000,NA,NA,Kýpros,NA
+CYZ,NA,Extra-Regio NUTS 1,NA,NA,1,13,1116,NA,CYZ,EXTRA-REGIO NUTS 1,NA,NA,NA
+CYZZ,NA,NA,Extra-Regio NUTS 2,NA,2,13,1117,NA,CYZZ,NA,Extra-Regio NUTS 2,NA,NA
+CYZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,13,1118,NA,CYZZZ,NA,NA,Extra-Regio NUTS 3,NA
+LV,Latvija,NA,NA,NA,0,14,1119,NA,NA,NA,NA,NA,NA
+LV0,NA,Latvija,NA,NA,1,14,1120,NA,The version in Latin characters is not official. It is included here only for the sake of comprehension.,NA,NA,NA,NA
+LV00,NA,NA,Latvija,NA,2,14,1121,NA,NA,NA,NA,NA,NA
+LV003,NA,NA,NA,Kurzeme,3,14,1122,NA,NA,NA,NA,NA,NA
+LV005,NA,NA,NA,Latgale,3,14,1123,NA,NA,NA,NA,NA,NA
+LV006,NA,NA,NA,Rīga,3,14,1124,NA,NA,NA,NA,NA,NA
+LV007,NA,NA,NA,Pierīga,3,14,1125,NA,NA,NA,NA,NA,NA
+LV008,NA,NA,NA,Vidzeme,3,14,1126,NA,NA,NA,NA,NA,NA
+LV009,NA,NA,NA,Zemgale,3,14,1127,NA,NA,NA,NA,NA,NA
+LVZ,NA,Extra-Regio NUTS 1,NA,NA,1,14,1128,NA,NA,NA,NA,NA,NA
+LVZZ,NA,NA,Extra-Regio NUTS 2,NA,2,14,1129,NA,NA,NA,NA,NA,NA
+LVZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,14,1130,NA,NA,NA,NA,NA,NA
+LT,Lietuva,NA,NA,NA,0,15,1131,NA,NA,NA,NA,NA,NA
+LT0,NA,Lietuva,NA,NA,1,15,1132,NA,NA,NA,NA,NA,NA
+LT01,NA,NA,Sostinės regionas,NA,2,15,1133,NA,NA,NA,NA,NA,NA
+LT011,NA,NA,NA,Vilniaus apskritis,3,15,1134,NA,NA,NA,NA,NA,NA
+LT02,NA,NA,Vidurio ir vakarų Lietuvos regionas,NA,2,15,1135,NA,NA,NA,NA,NA,NA
+LT021,NA,NA,NA,Alytaus apskritis,3,15,1136,NA,NA,NA,NA,NA,NA
+LT022,NA,NA,NA,Kauno apskritis,3,15,1137,NA,NA,NA,NA,NA,NA
+LT023,NA,NA,NA,Klaipėdos apskritis,3,15,1138,NA,NA,NA,NA,NA,NA
+LT024,NA,NA,NA,Marijampolės apskritis,3,15,1139,NA,NA,NA,NA,NA,NA
+LT025,NA,NA,NA,Panevėžio apskritis,3,15,1140,NA,NA,NA,NA,NA,NA
+LT026,NA,NA,NA,Šiaulių apskritis,3,15,1141,NA,NA,NA,NA,NA,NA
+LT027,NA,NA,NA,Tauragės apskritis,3,15,1142,NA,NA,NA,NA,NA,NA
+LT028,NA,NA,NA,Telšių apskritis,3,15,1143,NA,NA,NA,NA,NA,NA
+LT029,NA,NA,NA,Utenos apskritis,3,15,1144,NA,NA,NA,NA,NA,NA
+LTZ,NA,Extra-Regio NUTS 1,NA,NA,1,15,1145,NA,NA,NA,NA,NA,NA
+LTZZ,NA,NA,Extra-Regio NUTS 2,NA,2,15,1146,NA,NA,NA,NA,NA,NA
+LTZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,15,1147,NA,NA,NA,NA,NA,NA
+LU,Luxembourg,NA,NA,NA,0,16,1148,NA,NA,NA,NA,NA,NA
+LU0,NA,Luxembourg,NA,NA,1,16,1149,NA,NA,NA,NA,NA,NA
+LU00,NA,NA,Luxembourg,NA,2,16,1150,NA,NA,NA,NA,NA,NA
+LU000,NA,NA,NA,Luxembourg,3,16,1151,NA,NA,NA,NA,NA,NA
+LUZ,NA,Extra-Regio NUTS 1,NA,NA,1,16,1152,NA,NA,NA,NA,NA,NA
+LUZZ,NA,NA,Extra-Regio NUTS 2,NA,2,16,1153,NA,NA,NA,NA,NA,NA
+LUZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,16,1154,NA,NA,NA,NA,NA,NA
+HU,Magyarország,NA,NA,NA,0,17,1155,NA,NA,NA,NA,NA,NA
+HU1,NA,Közép-Magyarország,NA,NA,1,17,1156,NA,NA,NA,NA,NA,NA
+HU11,NA,NA,Budapest,NA,2,17,1157,NA,NA,NA,NA,NA,NA
+HU110,NA,NA,NA,Budapest,3,17,1158,NA,NA,NA,NA,NA,NA
+HU12,NA,NA,Pest,NA,2,17,1159,NA,NA,NA,NA,NA,NA
+HU120,NA,NA,NA,Pest,3,17,1160,NA,NA,NA,NA,NA,NA
+HU2,NA,Dunántúl,NA,NA,1,17,1161,NA,NA,NA,NA,NA,NA
+HU21,NA,NA,Közép-Dunántúl,NA,2,17,1162,NA,NA,NA,NA,NA,NA
+HU211,NA,NA,NA,Fejér,3,17,1163,NA,NA,NA,NA,NA,NA
+HU212,NA,NA,NA,Komárom-Esztergom,3,17,1164,NA,NA,NA,NA,NA,NA
+HU213,NA,NA,NA,Veszprém,3,17,1165,NA,NA,NA,NA,NA,NA
+HU22,NA,NA,Nyugat-Dunántúl,NA,2,17,1166,NA,NA,NA,NA,NA,NA
+HU221,NA,NA,NA,Győr-Moson-Sopron,3,17,1167,NA,NA,NA,NA,NA,NA
+HU222,NA,NA,NA,Vas,3,17,1168,NA,NA,NA,NA,NA,NA
+HU223,NA,NA,NA,Zala,3,17,1169,NA,NA,NA,NA,NA,NA
+HU23,NA,NA,Dél-Dunántúl,NA,2,17,1170,NA,NA,NA,NA,NA,NA
+HU231,NA,NA,NA,Baranya,3,17,1171,NA,NA,NA,NA,NA,NA
+HU232,NA,NA,NA,Somogy,3,17,1172,NA,NA,NA,NA,NA,NA
+HU233,NA,NA,NA,Tolna,3,17,1173,NA,NA,NA,NA,NA,NA
+HU3,NA,Alföld és Észak,NA,NA,1,17,1174,NA,NA,NA,NA,NA,NA
+HU31,NA,NA,Észak-Magyarország,NA,2,17,1175,NA,NA,NA,NA,NA,NA
+HU311,NA,NA,NA,Borsod-Abaúj-Zemplén,3,17,1176,NA,NA,NA,NA,NA,NA
+HU312,NA,NA,NA,Heves,3,17,1177,NA,NA,NA,NA,NA,NA
+HU313,NA,NA,NA,Nógrád,3,17,1178,NA,NA,NA,NA,NA,NA
+HU32,NA,NA,Észak-Alföld,NA,2,17,1179,NA,NA,NA,NA,NA,NA
+HU321,NA,NA,NA,Hajdú-Bihar,3,17,1180,NA,NA,NA,NA,NA,NA
+HU322,NA,NA,NA,Jász-Nagykun-Szolnok,3,17,1181,NA,NA,NA,NA,NA,NA
+HU323,NA,NA,NA,Szabolcs-Szatmár-Bereg,3,17,1182,NA,NA,NA,NA,NA,NA
+HU33,NA,NA,Dél-Alföld,NA,2,17,1183,NA,NA,NA,NA,NA,NA
+HU331,NA,NA,NA,Bács-Kiskun,3,17,1184,NA,NA,NA,NA,NA,NA
+HU332,NA,NA,NA,Békés,3,17,1185,NA,NA,NA,NA,NA,NA
+HU333,NA,NA,NA,Csongrád,3,17,1186,NA,NA,NA,NA,NA,NA
+HUZ,NA,Extra-Regio NUTS 1,NA,NA,1,17,1187,NA,NA,NA,NA,NA,NA
+HUZZ,NA,NA,Extra-Regio NUTS 2,NA,2,17,1188,NA,NA,NA,NA,NA,NA
+HUZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,17,1189,NA,NA,NA,NA,NA,NA
+MT,Malta,NA,NA,NA,0,18,1190,NA,NA,NA,NA,NA,NA
+MT0,NA,Malta,NA,NA,1,18,1191,NA,NA,NA,NA,NA,NA
+MT00,NA,NA,Malta,NA,2,18,1192,NA,NA,NA,NA,NA,NA
+MT001,NA,NA,NA,Malta,3,18,1193,NA,NA,NA,NA,NA,NA
+MT002,NA,NA,NA,Gozo and Comino/Għawdex u Kemmuna,3,18,1194,NA,NA,NA,NA,NA,NA
+MTZ,NA,Extra-Regio NUTS 1,NA,NA,1,18,1195,NA,NA,NA,NA,NA,NA
+MTZZ,NA,NA,Extra-Regio NUTS 2,NA,2,18,1196,NA,NA,NA,NA,NA,NA
+MTZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,18,1197,NA,NA,NA,NA,NA,NA
+NL,Nederland,NA,NA,NA,0,19,1198,NA,NA,NA,NA,NA,NA
+NL1,NA,Noord-Nederland,NA,NA,1,19,1199,NA,NA,NA,NA,NA,NA
+NL11,NA,NA,Groningen,NA,2,19,1200,NA,NA,NA,NA,NA,NA
+NL111,NA,NA,NA,Oost-Groningen,3,19,1201,NA,NA,NA,NA,NA,NA
+NL112,NA,NA,NA,Delfzijl en omgeving,3,19,1202,NA,NA,NA,NA,NA,NA
+NL113,NA,NA,NA,Overig Groningen,3,19,1203,NA,NA,NA,NA,NA,NA
+NL12,NA,NA,Friesland (NL),NA,2,19,1204,NA,NA,NA,NA,NA,NA
+NL124,NA,NA,NA,Noord-Friesland,3,19,1205,NA,NA,NA,NA,NA,NA
+NL125,NA,NA,NA,Zuidwest-Friesland,3,19,1206,NA,NA,NA,NA,NA,NA
+NL126,NA,NA,NA,Zuidoost-Friesland,3,19,1207,NA,NA,NA,NA,NA,NA
+NL13,NA,NA,Drenthe,NA,2,19,1208,NA,NA,NA,NA,NA,NA
+NL131,NA,NA,NA,Noord-Drenthe,3,19,1209,NA,NA,NA,NA,NA,NA
+NL132,NA,NA,NA,Zuidoost-Drenthe,3,19,1210,NA,NA,NA,NA,NA,NA
+NL133,NA,NA,NA,Zuidwest-Drenthe,3,19,1211,NA,NA,NA,NA,NA,NA
+NL2,NA,Oost-Nederland,NA,NA,1,19,1212,NA,NA,NA,NA,NA,NA
+NL21,NA,NA,Overijssel,NA,2,19,1213,NA,NA,NA,NA,NA,NA
+NL211,NA,NA,NA,Noord-Overijssel,3,19,1214,NA,NA,NA,NA,NA,NA
+NL212,NA,NA,NA,Zuidwest-Overijssel,3,19,1215,NA,NA,NA,NA,NA,NA
+NL213,NA,NA,NA,Twente,3,19,1216,NA,NA,NA,NA,NA,NA
+NL22,NA,NA,Gelderland,NA,2,19,1217,NA,NA,NA,NA,NA,NA
+NL221,NA,NA,NA,Veluwe,3,19,1218,NA,NA,NA,NA,NA,NA
+NL224,NA,NA,NA,Zuidwest-Gelderland,3,19,1219,NA,NA,NA,NA,NA,NA
+NL225,NA,NA,NA,Achterhoek,3,19,1220,NA,NA,NA,NA,NA,NA
+NL226,NA,NA,NA,Arnhem/Nijmegen,3,19,1221,NA,NA,NA,NA,NA,NA
+NL23,NA,NA,Flevoland,NA,2,19,1222,NA,NA,NA,NA,NA,NA
+NL230,NA,NA,NA,Flevoland,3,19,1223,NA,NA,NA,NA,NA,NA
+NL3,NA,West-Nederland,NA,NA,1,19,1224,NA,NA,NA,NA,NA,NA
+NL31,NA,NA,Utrecht,NA,2,19,1225,NA,NA,NA,NA,NA,NA
+NL310,NA,NA,NA,Utrecht,3,19,1226,NA,NA,NA,NA,NA,NA
+NL32,NA,NA,Noord-Holland,NA,2,19,1227,NA,NA,NA,NA,NA,NA
+NL321,NA,NA,NA,Kop van Noord-Holland,3,19,1228,NA,NA,NA,NA,NA,NA
+NL323,NA,NA,NA,IJmond,3,19,1229,NA,NA,NA,NA,NA,NA
+NL324,NA,NA,NA,Agglomeratie Haarlem,3,19,1230,NA,NA,NA,NA,NA,NA
+NL325,NA,NA,NA,Zaanstreek,3,19,1231,NA,NA,NA,NA,NA,NA
+NL327,NA,NA,NA,Het Gooi en Vechtstreek,3,19,1232,NA,NA,NA,NA,NA,NA
+NL328,NA,NA,NA,Alkmaar en omgeving,3,19,1233,NA,NA,NA,NA,NA,NA
+NL329,NA,NA,NA,Groot-Amsterdam,3,19,1234,NA,NA,NA,NA,NA,NA
+NL33,NA,NA,Zuid-Holland,NA,2,19,1235,NA,NA,NA,NA,NA,NA
+NL332,NA,NA,NA,Agglomeratie ’s-Gravenhage,3,19,1236,NA,NA,NA,NA,NA,NA
+NL333,NA,NA,NA,Delft en Westland,3,19,1237,NA,NA,NA,NA,NA,NA
+NL337,NA,NA,NA,Agglomeratie Leiden en Bollenstreek,3,19,1238,NA,NA,NA,NA,NA,NA
+NL33A,NA,NA,NA,Zuidoost-Zuid-Holland,3,19,1239,NA,NA,NA,NA,NA,NA
+NL33B,NA,NA,NA,Oost-Zuid-Holland,3,19,1240,NA,NA,NA,NA,NA,NA
+NL33C,NA,NA,NA,Groot-Rijnmond,3,19,1241,NA,NA,NA,NA,NA,NA
+NL34,NA,NA,Zeeland,NA,2,19,1242,NA,NA,NA,NA,NA,NA
+NL341,NA,NA,NA,Zeeuwsch-Vlaanderen,3,19,1243,NA,NA,NA,NA,NA,NA
+NL342,NA,NA,NA,Overig Zeeland,3,19,1244,NA,NA,NA,NA,NA,NA
+NL4,NA,Zuid-Nederland,NA,NA,1,19,1245,NA,NA,NA,NA,NA,NA
+NL41,NA,NA,Noord-Brabant,NA,2,19,1246,NA,NA,NA,NA,NA,NA
+NL411,NA,NA,NA,West-Noord-Brabant,3,19,1247,NA,NA,NA,NA,NA,NA
+NL412,NA,NA,NA,Midden-Noord-Brabant,3,19,1248,NA,NA,NA,NA,NA,NA
+NL413,NA,NA,NA,Noordoost-Noord-Brabant,3,19,1249,NA,NA,NA,NA,NA,NA
+NL414,NA,NA,NA,Zuidoost-Noord-Brabant,3,19,1250,NA,NA,NA,NA,NA,NA
+NL42,NA,NA,Limburg (NL),NA,2,19,1251,NA,NA,NA,NA,NA,NA
+NL421,NA,NA,NA,Noord-Limburg,3,19,1252,NA,NA,NA,NA,NA,NA
+NL422,NA,NA,NA,Midden-Limburg,3,19,1253,NA,NA,NA,NA,NA,NA
+NL423,NA,NA,NA,Zuid-Limburg,3,19,1254,NA,NA,NA,NA,NA,NA
+NLZ,NA,Extra-Regio NUTS 1,NA,NA,1,19,1255,NA,NA,NA,NA,NA,NA
+NLZZ,NA,NA,Extra-Regio NUTS 2,NA,2,19,1256,NA,NA,NA,NA,NA,NA
+NLZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,19,1257,NA,NA,NA,NA,NA,NA
+AT,Österreich,NA,NA,NA,0,20,1258,NA,NA,NA,NA,NA,NA
+AT1,NA,Ostösterreich,NA,NA,1,20,1259,NA,NA,NA,NA,NA,NA
+AT11,NA,NA,Burgenland,NA,2,20,1260,NA,NA,NA,NA,NA,NA
+AT111,NA,NA,NA,Mittelburgenland,3,20,1261,NA,NA,NA,NA,NA,NA
+AT112,NA,NA,NA,Nordburgenland,3,20,1262,NA,NA,NA,NA,NA,NA
+AT113,NA,NA,NA,Südburgenland,3,20,1263,NA,NA,NA,NA,NA,NA
+AT12,NA,NA,Niederösterreich,NA,2,20,1264,NA,NA,NA,NA,NA,NA
+AT121,NA,NA,NA,Mostviertel-Eisenwurzen,3,20,1265,NA,NA,NA,NA,NA,NA
+AT122,NA,NA,NA,Niederösterreich-Süd,3,20,1266,NA,NA,NA,NA,NA,NA
+AT123,NA,NA,NA,Sankt Pölten,3,20,1267,NA,NA,NA,NA,NA,NA
+AT124,NA,NA,NA,Waldviertel,3,20,1268,NA,NA,NA,NA,NA,NA
+AT125,NA,NA,NA,Weinviertel,3,20,1269,NA,NA,NA,NA,NA,NA
+AT126,NA,NA,NA,Wiener Umland/Nordteil,3,20,1270,NA,NA,NA,NA,NA,NA
+AT127,NA,NA,NA,Wiener Umland/Südteil,3,20,1271,NA,NA,NA,NA,NA,NA
+AT13,NA,NA,Wien,NA,2,20,1272,NA,NA,NA,NA,NA,NA
+AT130,NA,NA,NA,Wien,3,20,1273,NA,NA,NA,NA,NA,NA
+AT2,NA,Südösterreich,NA,NA,1,20,1274,NA,NA,NA,NA,NA,NA
+AT21,NA,NA,Kärnten,NA,2,20,1275,NA,NA,NA,NA,NA,NA
+AT211,NA,NA,NA,Klagenfurt-Villach,3,20,1276,NA,NA,NA,NA,NA,NA
+AT212,NA,NA,NA,Oberkärnten,3,20,1277,NA,NA,NA,NA,NA,NA
+AT213,NA,NA,NA,Unterkärnten,3,20,1278,NA,NA,NA,NA,NA,NA
+AT22,NA,NA,Steiermark,NA,2,20,1279,NA,NA,NA,NA,NA,NA
+AT221,NA,NA,NA,Graz,3,20,1280,NA,NA,NA,NA,NA,NA
+AT222,NA,NA,NA,Liezen,3,20,1281,NA,NA,NA,NA,NA,NA
+AT223,NA,NA,NA,Östliche Obersteiermark,3,20,1282,NA,NA,NA,NA,NA,NA
+AT224,NA,NA,NA,Oststeiermark,3,20,1283,NA,NA,NA,NA,NA,NA
+AT225,NA,NA,NA,West- und Südsteiermark,3,20,1284,NA,NA,NA,NA,NA,NA
+AT226,NA,NA,NA,Westliche Obersteiermark,3,20,1285,NA,NA,NA,NA,NA,NA
+AT3,NA,Westösterreich,NA,NA,1,20,1286,NA,NA,NA,NA,NA,NA
+AT31,NA,NA,Oberösterreich,NA,2,20,1287,NA,NA,NA,NA,NA,NA
+AT311,NA,NA,NA,Innviertel,3,20,1288,NA,NA,NA,NA,NA,NA
+AT312,NA,NA,NA,Linz-Wels,3,20,1289,NA,NA,NA,NA,NA,NA
+AT313,NA,NA,NA,Mühlviertel,3,20,1290,NA,NA,NA,NA,NA,NA
+AT314,NA,NA,NA,Steyr-Kirchdorf,3,20,1291,NA,NA,NA,NA,NA,NA
+AT315,NA,NA,NA,Traunviertel,3,20,1292,NA,NA,NA,NA,NA,NA
+AT32,NA,NA,Salzburg,NA,2,20,1293,NA,NA,NA,NA,NA,NA
+AT321,NA,NA,NA,Lungau,3,20,1294,NA,NA,NA,NA,NA,NA
+AT322,NA,NA,NA,Pinzgau-Pongau,3,20,1295,NA,NA,NA,NA,NA,NA
+AT323,NA,NA,NA,Salzburg und Umgebung,3,20,1296,NA,NA,NA,NA,NA,NA
+AT33,NA,NA,Tirol,NA,2,20,1297,NA,NA,NA,NA,NA,NA
+AT331,NA,NA,NA,Außerfern,3,20,1298,NA,NA,NA,NA,NA,NA
+AT332,NA,NA,NA,Innsbruck,3,20,1299,NA,NA,NA,NA,NA,NA
+AT333,NA,NA,NA,Osttirol,3,20,1300,NA,NA,NA,NA,NA,NA
+AT334,NA,NA,NA,Tiroler Oberland,3,20,1301,NA,NA,NA,NA,NA,NA
+AT335,NA,NA,NA,Tiroler Unterland,3,20,1302,NA,NA,NA,NA,NA,NA
+AT34,NA,NA,Vorarlberg,NA,2,20,1303,NA,NA,NA,NA,NA,NA
+AT341,NA,NA,NA,Bludenz-Bregenzer Wald,3,20,1304,NA,NA,NA,NA,NA,NA
+AT342,NA,NA,NA,Rheintal-Bodenseegebiet,3,20,1305,NA,NA,NA,NA,NA,NA
+ATZ,NA,Extra-Regio NUTS 1,NA,NA,1,20,1306,NA,NA,NA,NA,NA,NA
+ATZZ,NA,NA,Extra-Regio NUTS 2,NA,2,20,1307,NA,NA,NA,NA,NA,NA
+ATZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,20,1308,NA,NA,NA,NA,NA,NA
+PL,Polska,NA,NA,NA,0,21,1309,NA,NA,NA,NA,NA,NA
+PL2,NA,Makroregion południowy,NA,NA,1,21,1310,NA,NA,NA,NA,NA,NA
+PL21,NA,NA,Małopolskie,NA,2,21,1311,NA,NA,NA,NA,NA,NA
+PL213,NA,NA,NA,Miasto Kraków,3,21,1312,NA,NA,NA,NA,NA,NA
+PL214,NA,NA,NA,Krakowski,3,21,1313,NA,NA,NA,NA,NA,NA
+PL217,NA,NA,NA,Tarnowski,3,21,1314,NA,NA,NA,NA,NA,NA
+PL218,NA,NA,NA,Nowosądecki,3,21,1315,NA,NA,NA,NA,NA,NA
+PL219,NA,NA,NA,Nowotarski,3,21,1316,NA,NA,NA,NA,NA,NA
+PL21A,NA,NA,NA,Oświęcimski,3,21,1317,NA,NA,NA,NA,NA,NA
+PL22,NA,NA,Śląskie,NA,2,21,1318,NA,NA,NA,NA,NA,NA
+PL224,NA,NA,NA,Częstochowski,3,21,1319,NA,NA,NA,NA,NA,NA
+PL225,NA,NA,NA,Bielski,3,21,1320,NA,NA,NA,NA,NA,NA
+PL227,NA,NA,NA,Rybnicki,3,21,1321,NA,NA,NA,NA,NA,NA
+PL228,NA,NA,NA,Bytomski,3,21,1322,NA,NA,NA,NA,NA,NA
+PL229,NA,NA,NA,Gliwicki,3,21,1323,NA,NA,NA,NA,NA,NA
+PL22A,NA,NA,NA,Katowicki,3,21,1324,NA,NA,NA,NA,NA,NA
+PL22B,NA,NA,NA,Sosnowiecki,3,21,1325,NA,NA,NA,NA,NA,NA
+PL22C,NA,NA,NA,Tyski,3,21,1326,NA,NA,NA,NA,NA,NA
+PL4,NA,Makroregion północno-zachodni,NA,NA,1,21,1327,NA,NA,NA,NA,NA,NA
+PL41,NA,NA,Wielkopolskie,NA,2,21,1328,NA,NA,NA,NA,NA,NA
+PL411,NA,NA,NA,Pilski,3,21,1329,NA,NA,NA,NA,NA,NA
+PL414,NA,NA,NA,Koniński,3,21,1330,NA,NA,NA,NA,NA,NA
+PL415,NA,NA,NA,Miasto Poznań,3,21,1331,NA,NA,NA,NA,NA,NA
+PL416,NA,NA,NA,Kaliski,3,21,1332,NA,NA,NA,NA,NA,NA
+PL417,NA,NA,NA,Leszczyński,3,21,1333,NA,NA,NA,NA,NA,NA
+PL418,NA,NA,NA,Poznański,3,21,1334,NA,NA,NA,NA,NA,NA
+PL42,NA,NA,Zachodniopomorskie,NA,2,21,1335,NA,NA,NA,NA,NA,NA
+PL424,NA,NA,NA,Miasto Szczecin,3,21,1336,NA,NA,NA,NA,NA,NA
+PL426,NA,NA,NA,Koszaliński,3,21,1337,NA,NA,NA,NA,NA,NA
+PL427,NA,NA,NA,Szczecinecko-pyrzycki,3,21,1338,NA,NA,NA,NA,NA,NA
+PL428,NA,NA,NA,Szczeciński,3,21,1339,NA,NA,NA,NA,NA,NA
+PL43,NA,NA,Lubuskie,NA,2,21,1340,NA,NA,NA,NA,NA,NA
+PL431,NA,NA,NA,Gorzowski,3,21,1341,NA,NA,NA,NA,NA,NA
+PL432,NA,NA,NA,Zielonogórski,3,21,1342,NA,NA,NA,NA,NA,NA
+PL5,NA,Makroregion południowo-zachodni,NA,NA,1,21,1343,NA,NA,NA,NA,NA,NA
+PL51,NA,NA,Dolnośląskie,NA,2,21,1344,NA,NA,NA,NA,NA,NA
+PL514,NA,NA,NA,Miasto Wrocław,3,21,1345,NA,NA,NA,NA,NA,NA
+PL515,NA,NA,NA,Jeleniogórski,3,21,1346,NA,NA,NA,NA,NA,NA
+PL516,NA,NA,NA,Legnicko-głogowski,3,21,1347,NA,NA,NA,NA,NA,NA
+PL517,NA,NA,NA,Wałbrzyski,3,21,1348,NA,NA,NA,NA,NA,NA
+PL518,NA,NA,NA,Wrocławski,3,21,1349,NA,NA,NA,NA,NA,NA
+PL52,NA,NA,Opolskie,NA,2,21,1350,NA,NA,NA,NA,NA,NA
+PL523,NA,NA,NA,Nyski,3,21,1351,NA,NA,NA,NA,NA,NA
+PL524,NA,NA,NA,Opolski,3,21,1352,NA,NA,NA,NA,NA,NA
+PL6,NA,Makroregion północny,NA,NA,1,21,1353,NA,NA,NA,NA,NA,NA
+PL61,NA,NA,Kujawsko-pomorskie,NA,2,21,1354,NA,NA,NA,NA,NA,NA
+PL613,NA,NA,NA,Bydgosko-toruński,3,21,1355,NA,NA,NA,NA,NA,NA
+PL616,NA,NA,NA,Grudziądzki,3,21,1356,NA,NA,NA,NA,NA,NA
+PL617,NA,NA,NA,Inowrocławski,3,21,1357,NA,NA,NA,NA,NA,NA
+PL618,NA,NA,NA,Świecki,3,21,1358,NA,NA,NA,NA,NA,NA
+PL619,NA,NA,NA,Włocławski,3,21,1359,NA,NA,NA,NA,NA,NA
+PL62,NA,NA,Warmińsko-mazurskie,NA,2,21,1360,NA,NA,NA,NA,NA,NA
+PL621,NA,NA,NA,Elbląski,3,21,1361,NA,NA,NA,NA,NA,NA
+PL622,NA,NA,NA,Olsztyński,3,21,1362,NA,NA,NA,NA,NA,NA
+PL623,NA,NA,NA,Ełcki,3,21,1363,NA,NA,NA,NA,NA,NA
+PL63,NA,NA,Pomorskie,NA,2,21,1364,NA,NA,NA,NA,NA,NA
+PL633,NA,NA,NA,Trójmiejski,3,21,1365,NA,NA,NA,NA,NA,NA
+PL634,NA,NA,NA,Gdański,3,21,1366,NA,NA,NA,NA,NA,NA
+PL636,NA,NA,NA,Słupski,3,21,1367,NA,NA,NA,NA,NA,NA
+PL637,NA,NA,NA,Chojnicki,3,21,1368,NA,NA,NA,NA,NA,NA
+PL638,NA,NA,NA,Starogardzki,3,21,1369,NA,NA,NA,NA,NA,NA
+PL7,NA,Makroregion centralny,NA,NA,1,21,1370,NA,NA,NA,NA,NA,NA
+PL71,NA,NA,Łódzkie,NA,2,21,1371,NA,NA,NA,NA,NA,NA
+PL711,NA,NA,NA,Miasto Łódź,3,21,1372,NA,NA,NA,NA,NA,NA
+PL712,NA,NA,NA,Łódzki,3,21,1373,NA,NA,NA,NA,NA,NA
+PL713,NA,NA,NA,Piotrkowski,3,21,1374,NA,NA,NA,NA,NA,NA
+PL714,NA,NA,NA,Sieradzki,3,21,1375,NA,NA,NA,NA,NA,NA
+PL715,NA,NA,NA,Skierniewicki,3,21,1376,NA,NA,NA,NA,NA,NA
+PL72,NA,NA,Świętokrzyskie,NA,2,21,1377,NA,NA,NA,NA,NA,NA
+PL721,NA,NA,NA,Kielecki,3,21,1378,NA,NA,NA,NA,NA,NA
+PL722,NA,NA,NA,Sandomiersko-jędrzejowski,3,21,1379,NA,NA,NA,NA,NA,NA
+PL8,NA,Makroregion wschodni,NA,NA,1,21,1380,NA,NA,NA,NA,NA,NA
+PL81,NA,NA,Lubelskie,NA,2,21,1381,NA,NA,NA,NA,NA,NA
+PL811,NA,NA,NA,Bialski,3,21,1382,NA,NA,NA,NA,NA,NA
+PL812,NA,NA,NA,Chełmsko-zamojski,3,21,1383,NA,NA,NA,NA,NA,NA
+PL814,NA,NA,NA,Lubelski,3,21,1384,NA,NA,NA,NA,NA,NA
+PL815,NA,NA,NA,Puławski,3,21,1385,NA,NA,NA,NA,NA,NA
+PL82,NA,NA,Podkarpackie,NA,2,21,1386,NA,NA,NA,NA,NA,NA
+PL821,NA,NA,NA,Krośnieński,3,21,1387,NA,NA,NA,NA,NA,NA
+PL822,NA,NA,NA,Przemyski,3,21,1388,NA,NA,NA,NA,NA,NA
+PL823,NA,NA,NA,Rzeszowski,3,21,1389,NA,NA,NA,NA,NA,NA
+PL824,NA,NA,NA,Tarnobrzeski,3,21,1390,NA,NA,NA,NA,NA,NA
+PL84,NA,NA,Podlaskie,NA,2,21,1391,NA,NA,NA,NA,NA,NA
+PL841,NA,NA,NA,Białostocki,3,21,1392,NA,NA,NA,NA,NA,NA
+PL842,NA,NA,NA,Łomżyński,3,21,1393,NA,NA,NA,NA,NA,NA
+PL843,NA,NA,NA,Suwalski,3,21,1394,NA,NA,NA,NA,NA,NA
+PL9,NA,Makroregion województwo mazowieckie,NA,NA,1,21,1395,NA,NA,NA,NA,NA,NA
+PL91,NA,NA,Warszawski stołeczny,NA,2,21,1396,NA,NA,NA,NA,NA,NA
+PL911,NA,NA,NA,Miasto Warszawa,3,21,1397,NA,NA,NA,NA,NA,NA
+PL912,NA,NA,NA,Warszawski wschodni,3,21,1398,NA,NA,NA,NA,NA,NA
+PL913,NA,NA,NA,Warszawski zachodni,3,21,1399,NA,NA,NA,NA,NA,NA
+PL92,NA,NA,Mazowiecki regionalny,NA,2,21,1400,NA,NA,NA,NA,NA,NA
+PL921,NA,NA,NA,Radomski,3,21,1401,NA,NA,NA,NA,NA,NA
+PL922,NA,NA,NA,Ciechanowski,3,21,1402,NA,NA,NA,NA,NA,NA
+PL923,NA,NA,NA,Płocki,3,21,1403,NA,NA,NA,NA,NA,NA
+PL924,NA,NA,NA,Ostrołęcki,3,21,1404,NA,NA,NA,NA,NA,NA
+PL925,NA,NA,NA,Siedlecki,3,21,1405,NA,NA,NA,NA,NA,NA
+PL926,NA,NA,NA,Żyrardowski,3,21,1406,NA,NA,NA,NA,NA,NA
+PLZ,NA,Extra-Regio NUTS 1,NA,NA,1,21,1407,NA,NA,NA,NA,NA,NA
+PLZZ,NA,NA,Extra-Regio NUTS 2,NA,2,21,1408,NA,NA,NA,NA,NA,NA
+PLZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,21,1409,NA,NA,NA,NA,NA,NA
+PT,Portugal,NA,NA,NA,0,22,1410,NA,NA,NA,NA,NA,NA
+PT1,NA,Continente,NA,NA,1,22,1411,NA,NA,NA,NA,NA,NA
+PT11,NA,NA,Norte,NA,2,22,1412,NA,NA,NA,NA,NA,NA
+PT111,NA,NA,NA,Alto Minho,3,22,1413,NA,NA,NA,NA,NA,NA
+PT112,NA,NA,NA,Cávado,3,22,1414,NA,NA,NA,NA,NA,NA
+PT119,NA,NA,NA,Ave,3,22,1415,NA,NA,NA,NA,NA,NA
+PT11A,NA,NA,NA,Área Metropolitana do Porto,3,22,1416,NA,NA,NA,NA,NA,NA
+PT11B,NA,NA,NA,Alto Tâmega,3,22,1417,NA,NA,NA,NA,NA,NA
+PT11C,NA,NA,NA,Tâmega e Sousa,3,22,1418,NA,NA,NA,NA,NA,NA
+PT11D,NA,NA,NA,Douro,3,22,1419,NA,NA,NA,NA,NA,NA
+PT11E,NA,NA,NA,Terras de Trás-os-Montes,3,22,1420,NA,NA,NA,NA,NA,NA
+PT15,NA,NA,Algarve,NA,2,22,1421,NA,NA,NA,NA,NA,NA
+PT150,NA,NA,NA,Algarve,3,22,1422,NA,NA,NA,NA,NA,NA
+PT16,NA,NA,Centro (PT),NA,2,22,1423,NA,NA,NA,NA,NA,NA
+PT16B,NA,NA,NA,Oeste,3,22,1424,NA,NA,NA,NA,NA,NA
+PT16D,NA,NA,NA,Região de Aveiro,3,22,1425,NA,NA,NA,NA,NA,NA
+PT16E,NA,NA,NA,Região de Coimbra,3,22,1426,NA,NA,NA,NA,NA,NA
+PT16F,NA,NA,NA,Região de Leiria,3,22,1427,NA,NA,NA,NA,NA,NA
+PT16G,NA,NA,NA,Viseu Dão Lafões,3,22,1428,NA,NA,NA,NA,NA,NA
+PT16H,NA,NA,NA,Beira Baixa,3,22,1429,NA,NA,NA,NA,NA,NA
+PT16I,NA,NA,NA,Médio Tejo,3,22,1430,NA,NA,NA,NA,NA,NA
+PT16J,NA,NA,NA,Beiras e Serra da Estrela,3,22,1431,NA,NA,NA,NA,NA,NA
+PT17,NA,NA,Área Metropolitana de Lisboa,NA,2,22,1432,NA,NA,NA,NA,NA,NA
+PT170,NA,NA,NA,Área Metropolitana de Lisboa,3,22,1433,NA,NA,NA,NA,NA,NA
+PT18,NA,NA,Alentejo,NA,2,22,1434,NA,NA,NA,NA,NA,NA
+PT181,NA,NA,NA,Alentejo Litoral,3,22,1435,NA,NA,NA,NA,NA,NA
+PT184,NA,NA,NA,Baixo Alentejo,3,22,1436,NA,NA,NA,NA,NA,NA
+PT185,NA,NA,NA,Lezíria do Tejo,3,22,1437,NA,NA,NA,NA,NA,NA
+PT186,NA,NA,NA,Alto Alentejo,3,22,1438,NA,NA,NA,NA,NA,NA
+PT187,NA,NA,NA,Alentejo Central,3,22,1439,NA,NA,NA,NA,NA,NA
+PT2,NA,Região Autónoma dos Açores,NA,NA,1,22,1440,NA,NA,NA,NA,NA,NA
+PT20,NA,NA,Região Autónoma dos Açores,NA,2,22,1441,NA,NA,NA,NA,NA,NA
+PT200,NA,NA,NA,Região Autónoma dos Açores,3,22,1442,NA,NA,NA,NA,NA,NA
+PT3,NA,Região Autónoma da Madeira,NA,NA,1,22,1443,NA,NA,NA,NA,NA,NA
+PT30,NA,NA,Região Autónoma da Madeira,NA,2,22,1444,NA,NA,NA,NA,NA,NA
+PT300,NA,NA,NA,Região Autónoma da Madeira,3,22,1445,NA,NA,NA,NA,NA,NA
+PTZ,NA,Extra-Regio NUTS 1,NA,NA,1,22,1446,NA,NA,NA,NA,NA,NA
+PTZZ,NA,NA,Extra-Regio NUTS 2,NA,2,22,1447,NA,NA,NA,NA,NA,NA
+PTZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,22,1448,NA,NA,NA,NA,NA,NA
+RO,România,NA,NA,NA,0,23,1449,NA,NA,NA,NA,NA,NA
+RO1,NA,Macroregiunea Unu,NA,NA,1,23,1450,NA,NA,NA,NA,NA,NA
+RO11,NA,NA,Nord-Vest,NA,2,23,1451,NA,NA,NA,NA,NA,NA
+RO111,NA,NA,NA,Bihor,3,23,1452,NA,NA,NA,NA,NA,NA
+RO112,NA,NA,NA,Bistriţa-Năsăud,3,23,1453,NA,NA,NA,NA,NA,NA
+RO113,NA,NA,NA,Cluj,3,23,1454,NA,NA,NA,NA,NA,NA
+RO114,NA,NA,NA,Maramureş,3,23,1455,NA,NA,NA,NA,NA,NA
+RO115,NA,NA,NA,Satu Mare,3,23,1456,NA,NA,NA,NA,NA,NA
+RO116,NA,NA,NA,Sălaj,3,23,1457,NA,NA,NA,NA,NA,NA
+RO12,NA,NA,Centru,NA,2,23,1458,NA,NA,NA,NA,NA,NA
+RO121,NA,NA,NA,Alba,3,23,1459,NA,NA,NA,NA,NA,NA
+RO122,NA,NA,NA,Braşov,3,23,1460,NA,NA,NA,NA,NA,NA
+RO123,NA,NA,NA,Covasna,3,23,1461,NA,NA,NA,NA,NA,NA
+RO124,NA,NA,NA,Harghita,3,23,1462,NA,NA,NA,NA,NA,NA
+RO125,NA,NA,NA,Mureş,3,23,1463,NA,NA,NA,NA,NA,NA
+RO126,NA,NA,NA,Sibiu,3,23,1464,NA,NA,NA,NA,NA,NA
+RO2,NA,Macroregiunea Doi,NA,NA,1,23,1465,NA,NA,NA,NA,NA,NA
+RO21,NA,NA,Nord-Est,NA,2,23,1466,NA,NA,NA,NA,NA,NA
+RO211,NA,NA,NA,Bacău,3,23,1467,NA,NA,NA,NA,NA,NA
+RO212,NA,NA,NA,Botoşani,3,23,1468,NA,NA,NA,NA,NA,NA
+RO213,NA,NA,NA,Iaşi,3,23,1469,NA,NA,NA,NA,NA,NA
+RO214,NA,NA,NA,Neamţ,3,23,1470,NA,NA,NA,NA,NA,NA
+RO215,NA,NA,NA,Suceava,3,23,1471,NA,NA,NA,NA,NA,NA
+RO216,NA,NA,NA,Vaslui,3,23,1472,NA,NA,NA,NA,NA,NA
+RO22,NA,NA,Sud-Est,NA,2,23,1473,NA,NA,NA,NA,NA,NA
+RO221,NA,NA,NA,Brăila,3,23,1474,NA,NA,NA,NA,NA,NA
+RO222,NA,NA,NA,Buzău,3,23,1475,NA,NA,NA,NA,NA,NA
+RO223,NA,NA,NA,Constanţa,3,23,1476,NA,NA,NA,NA,NA,NA
+RO224,NA,NA,NA,Galaţi,3,23,1477,NA,NA,NA,NA,NA,NA
+RO225,NA,NA,NA,Tulcea,3,23,1478,NA,NA,NA,NA,NA,NA
+RO226,NA,NA,NA,Vrancea,3,23,1479,NA,NA,NA,NA,NA,NA
+RO3,NA,Macroregiunea Trei,NA,NA,1,23,1480,NA,NA,NA,NA,NA,NA
+RO31,NA,NA,Sud-Muntenia,NA,2,23,1481,NA,NA,NA,NA,NA,NA
+RO311,NA,NA,NA,Argeş,3,23,1482,NA,NA,NA,NA,NA,NA
+RO312,NA,NA,NA,Călăraşi,3,23,1483,NA,NA,NA,NA,NA,NA
+RO313,NA,NA,NA,Dâmboviţa,3,23,1484,NA,NA,NA,NA,NA,NA
+RO314,NA,NA,NA,Giurgiu,3,23,1485,NA,NA,NA,NA,NA,NA
+RO315,NA,NA,NA,Ialomiţa,3,23,1486,NA,NA,NA,NA,NA,NA
+RO316,NA,NA,NA,Prahova,3,23,1487,NA,NA,NA,NA,NA,NA
+RO317,NA,NA,NA,Teleorman,3,23,1488,NA,NA,NA,NA,NA,NA
+RO32,NA,NA,Bucureşti-Ilfov,NA,2,23,1489,NA,NA,NA,NA,NA,NA
+RO321,NA,NA,NA,Bucureşti,3,23,1490,NA,NA,NA,NA,NA,NA
+RO322,NA,NA,NA,Ilfov,3,23,1491,NA,NA,NA,NA,NA,NA
+RO4,NA,Macroregiunea Patru,NA,NA,1,23,1492,NA,NA,NA,NA,NA,NA
+RO41,NA,NA,Sud-Vest Oltenia,NA,2,23,1493,NA,NA,NA,NA,NA,NA
+RO411,NA,NA,NA,Dolj,3,23,1494,NA,NA,NA,NA,NA,NA
+RO412,NA,NA,NA,Gorj,3,23,1495,NA,NA,NA,NA,NA,NA
+RO413,NA,NA,NA,Mehedinţi,3,23,1496,NA,NA,NA,NA,NA,NA
+RO414,NA,NA,NA,Olt,3,23,1497,NA,NA,NA,NA,NA,NA
+RO415,NA,NA,NA,Vâlcea,3,23,1498,NA,NA,NA,NA,NA,NA
+RO42,NA,NA,Vest,NA,2,23,1499,NA,NA,NA,NA,NA,NA
+RO421,NA,NA,NA,Arad,3,23,1500,NA,NA,NA,NA,NA,NA
+RO422,NA,NA,NA,Caraş-Severin,3,23,1501,NA,NA,NA,NA,NA,NA
+RO423,NA,NA,NA,Hunedoara,3,23,1502,NA,NA,NA,NA,NA,NA
+RO424,NA,NA,NA,Timiş,3,23,1503,NA,NA,NA,NA,NA,NA
+ROZ,NA,Extra-Regio NUTS 1,NA,NA,1,23,1504,NA,NA,NA,NA,NA,NA
+ROZZ,NA,NA,Extra-Regio NUTS 2,NA,2,23,1505,NA,NA,NA,NA,NA,NA
+ROZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,23,1506,NA,NA,NA,NA,NA,NA
+SI,Slovenija,NA,NA,NA,0,24,1507,NA,NA,NA,NA,NA,NA
+SI0,NA,Slovenija,NA,NA,1,24,1508,NA,NA,NA,NA,NA,NA
+SI03,NA,NA,Vzhodna Slovenija,NA,2,24,1509,NA,NA,NA,NA,NA,NA
+SI031,NA,NA,NA,Pomurska,3,24,1510,NA,NA,NA,NA,NA,NA
+SI032,NA,NA,NA,Podravska,3,24,1511,NA,NA,NA,NA,NA,NA
+SI033,NA,NA,NA,Koroška,3,24,1512,NA,NA,NA,NA,NA,NA
+SI034,NA,NA,NA,Savinjska,3,24,1513,NA,NA,NA,NA,NA,NA
+SI035,NA,NA,NA,Zasavska,3,24,1514,NA,NA,NA,NA,NA,NA
+SI036,NA,NA,NA,Posavska,3,24,1515,NA,NA,NA,NA,NA,NA
+SI037,NA,NA,NA,Jugovzhodna Slovenija,3,24,1516,NA,NA,NA,NA,NA,NA
+SI038,NA,NA,NA,Primorsko-notranjska,3,24,1517,NA,NA,NA,NA,NA,NA
+SI04,NA,NA,Zahodna Slovenija,NA,2,24,1518,NA,NA,NA,NA,NA,NA
+SI041,NA,NA,NA,Osrednjeslovenska,3,24,1519,NA,NA,NA,NA,NA,NA
+SI042,NA,NA,NA,Gorenjska,3,24,1520,NA,NA,NA,NA,NA,NA
+SI043,NA,NA,NA,Goriška,3,24,1521,NA,NA,NA,NA,NA,NA
+SI044,NA,NA,NA,Obalno-kraška,3,24,1522,NA,NA,NA,NA,NA,NA
+SIZ,NA,Extra-Regio NUTS 1,NA,NA,1,24,1523,NA,NA,NA,NA,NA,NA
+SIZZ,NA,NA,Extra-Regio NUTS 2,NA,2,24,1524,NA,NA,NA,NA,NA,NA
+SIZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,24,1525,NA,NA,NA,NA,NA,NA
+SK,Slovensko,NA,NA,NA,0,25,1526,NA,NA,NA,NA,NA,NA
+SK0,NA,Slovensko,NA,NA,1,25,1527,NA,NA,NA,NA,NA,NA
+SK01,NA,NA,Bratislavský kraj,NA,2,25,1528,NA,NA,NA,NA,NA,NA
+SK010,NA,NA,NA,Bratislavský kraj,3,25,1529,NA,NA,NA,NA,NA,NA
+SK02,NA,NA,Západné Slovensko,NA,2,25,1530,NA,NA,NA,NA,NA,NA
+SK021,NA,NA,NA,Trnavský kraj,3,25,1531,NA,NA,NA,NA,NA,NA
+SK022,NA,NA,NA,Trenčiansky kraj,3,25,1532,NA,NA,NA,NA,NA,NA
+SK023,NA,NA,NA,Nitriansky kraj,3,25,1533,NA,NA,NA,NA,NA,NA
+SK03,NA,NA,Stredné Slovensko,NA,2,25,1534,NA,NA,NA,NA,NA,NA
+SK031,NA,NA,NA,Žilinský kraj,3,25,1535,NA,NA,NA,NA,NA,NA
+SK032,NA,NA,NA,Banskobystrický kraj,3,25,1536,NA,NA,NA,NA,NA,NA
+SK04,NA,NA,Východné Slovensko,NA,2,25,1537,NA,NA,NA,NA,NA,NA
+SK041,NA,NA,NA,Prešovský kraj,3,25,1538,NA,NA,NA,NA,NA,NA
+SK042,NA,NA,NA,Košický kraj,3,25,1539,NA,NA,NA,NA,NA,NA
+SKZ,NA,Extra-Regio NUTS 1,NA,NA,1,25,1540,NA,NA,NA,NA,NA,NA
+SKZZ,NA,NA,Extra-Regio NUTS 2,NA,2,25,1541,NA,NA,NA,NA,NA,NA
+SKZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,25,1542,NA,NA,NA,NA,NA,NA
+FI,Suomi/Finland,NA,NA,NA,0,26,1543,NA,NA,NA,NA,NA,NA
+FI1,NA,Manner-Suomi,NA,NA,1,26,1544,NA,NA,NA,NA,NA,NA
+FI19,NA,NA,Länsi-Suomi,NA,2,26,1545,NA,NA,NA,NA,NA,NA
+FI193,NA,NA,NA,Keski-Suomi,3,26,1546,NA,NA,NA,NA,NA,NA
+FI194,NA,NA,NA,Etelä-Pohjanmaa,3,26,1547,NA,NA,NA,NA,NA,NA
+FI195,NA,NA,NA,Pohjanmaa,3,26,1548,NA,NA,NA,NA,NA,NA
+FI196,NA,NA,NA,Satakunta,3,26,1549,NA,NA,NA,NA,NA,NA
+FI197,NA,NA,NA,Pirkanmaa,3,26,1550,NA,NA,NA,NA,NA,NA
+FI1B,NA,NA,Helsinki-Uusimaa,NA,2,26,1551,NA,NA,NA,NA,NA,NA
+FI1B1,NA,NA,NA,Helsinki-Uusimaa,3,26,1552,NA,NA,NA,NA,NA,NA
+FI1C,NA,NA,Etelä-Suomi,NA,2,26,1553,NA,NA,NA,NA,NA,NA
+FI1C1,NA,NA,NA,Varsinais-Suomi,3,26,1554,NA,NA,NA,NA,NA,NA
+FI1C2,NA,NA,NA,Kanta-Häme,3,26,1555,NA,NA,NA,NA,NA,NA
+FI1C3,NA,NA,NA,Päijät-Häme,3,26,1556,NA,NA,NA,NA,NA,NA
+FI1C4,NA,NA,NA,Kymenlaakso,3,26,1557,NA,NA,NA,NA,NA,NA
+FI1C5,NA,NA,NA,Etelä-Karjala,3,26,1558,NA,NA,NA,NA,NA,NA
+FI1D,NA,NA,Pohjois- ja Itä-Suomi,NA,2,26,1559,NA,NA,NA,NA,NA,NA
+FI1D1,NA,NA,NA,Etelä-Savo,3,26,1560,NA,NA,NA,NA,NA,NA
+FI1D2,NA,NA,NA,Pohjois-Savo,3,26,1561,NA,NA,NA,NA,NA,NA
+FI1D3,NA,NA,NA,Pohjois-Karjala,3,26,1562,NA,NA,NA,NA,NA,NA
+FI1D5,NA,NA,NA,Keski-Pohjanmaa,3,26,1563,NA,NA,NA,NA,NA,NA
+FI1D7,NA,NA,NA,Lappi,3,26,1564,NA,NA,NA,NA,NA,NA
+FI1D8,NA,NA,NA,Kainuu,3,26,1565,NA,NA,NA,NA,NA,NA
+FI1D9,NA,NA,NA,Pohjois-Pohjanmaa,3,26,1566,NA,NA,NA,NA,NA,NA
+FI2,NA,Åland,NA,NA,1,26,1567,NA,NA,NA,NA,NA,NA
+FI20,NA,NA,Åland,NA,2,26,1568,NA,NA,NA,NA,NA,NA
+FI200,NA,NA,NA,Åland,3,26,1569,NA,NA,NA,NA,NA,NA
+FIZ,NA,Extra-Regio NUTS 1,NA,NA,1,26,1570,NA,NA,NA,NA,NA,NA
+FIZZ,NA,NA,Extra-Regio NUTS 2,NA,2,26,1571,NA,NA,NA,NA,NA,NA
+FIZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,26,1572,NA,NA,NA,NA,NA,NA
+SE,Sverige,NA,NA,NA,0,27,1573,NA,NA,NA,NA,NA,NA
+SE1,NA,Östra Sverige,NA,NA,1,27,1574,NA,NA,NA,NA,NA,NA
+SE11,NA,NA,Stockholm,NA,2,27,1575,NA,NA,NA,NA,NA,NA
+SE110,NA,NA,NA,Stockholms län,3,27,1576,NA,NA,NA,NA,NA,NA
+SE12,NA,NA,Östra Mellansverige,NA,2,27,1577,NA,NA,NA,NA,NA,NA
+SE121,NA,NA,NA,Uppsala län,3,27,1578,NA,NA,NA,NA,NA,NA
+SE122,NA,NA,NA,Södermanlands län,3,27,1579,NA,NA,NA,NA,NA,NA
+SE123,NA,NA,NA,Östergötlands län,3,27,1580,NA,NA,NA,NA,NA,NA
+SE124,NA,NA,NA,Örebro län,3,27,1581,NA,NA,NA,NA,NA,NA
+SE125,NA,NA,NA,Västmanlands län,3,27,1582,NA,NA,NA,NA,NA,NA
+SE2,NA,Södra Sverige,NA,NA,1,27,1583,NA,NA,NA,NA,NA,NA
+SE21,NA,NA,Småland med öarna,NA,2,27,1584,NA,NA,NA,NA,NA,NA
+SE211,NA,NA,NA,Jönköpings län,3,27,1585,NA,NA,NA,NA,NA,NA
+SE212,NA,NA,NA,Kronobergs län,3,27,1586,NA,NA,NA,NA,NA,NA
+SE213,NA,NA,NA,Kalmar län,3,27,1587,NA,NA,NA,NA,NA,NA
+SE214,NA,NA,NA,Gotlands län,3,27,1588,NA,NA,NA,NA,NA,NA
+SE22,NA,NA,Sydsverige,NA,2,27,1589,NA,NA,NA,NA,NA,NA
+SE221,NA,NA,NA,Blekinge län,3,27,1590,NA,NA,NA,NA,NA,NA
+SE224,NA,NA,NA,Skåne län,3,27,1591,NA,NA,NA,NA,NA,NA
+SE23,NA,NA,Västsverige,NA,2,27,1592,NA,NA,NA,NA,NA,NA
+SE231,NA,NA,NA,Hallands län,3,27,1593,NA,NA,NA,NA,NA,NA
+SE232,NA,NA,NA,Västra Götalands län,3,27,1594,NA,NA,NA,NA,NA,NA
+SE3,NA,Norra Sverige,NA,NA,1,27,1595,NA,NA,NA,NA,NA,NA
+SE31,NA,NA,Norra Mellansverige,NA,2,27,1596,NA,NA,NA,NA,NA,NA
+SE311,NA,NA,NA,Värmlands län,3,27,1597,NA,NA,NA,NA,NA,NA
+SE312,NA,NA,NA,Dalarnas län,3,27,1598,NA,NA,NA,NA,NA,NA
+SE313,NA,NA,NA,Gävleborgs län,3,27,1599,NA,NA,NA,NA,NA,NA
+SE32,NA,NA,Mellersta Norrland,NA,2,27,1600,NA,NA,NA,NA,NA,NA
+SE321,NA,NA,NA,Västernorrlands län,3,27,1601,NA,NA,NA,NA,NA,NA
+SE322,NA,NA,NA,Jämtlands län,3,27,1602,NA,NA,NA,NA,NA,NA
+SE33,NA,NA,Övre Norrland,NA,2,27,1603,NA,NA,NA,NA,NA,NA
+SE331,NA,NA,NA,Västerbottens län,3,27,1604,NA,NA,NA,NA,NA,NA
+SE332,NA,NA,NA,Norrbottens län,3,27,1605,NA,NA,NA,NA,NA,NA
+SEZ,NA,Extra-Regio NUTS 1,NA,NA,1,27,1606,NA,NA,NA,NA,NA,NA
+SEZZ,NA,NA,Extra-Regio NUTS 2,NA,2,27,1607,NA,NA,NA,NA,NA,NA
+SEZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,27,1608,NA,NA,NA,NA,NA,NA
+UK,United Kingdom,NA,NA,NA,0,28,1609,NA,NA,NA,NA,NA,NA
+UKC,NA,North East (England),NA,NA,1,28,1610,NA,NA,NA,NA,NA,NA
+UKC1,NA,NA,Tees Valley and Durham,NA,2,28,1611,NA,NA,NA,NA,NA,NA
+UKC11,NA,NA,NA,Hartlepool and Stockton-on-Tees,3,28,1612,NA,NA,NA,NA,NA,NA
+UKC12,NA,NA,NA,South Teesside,3,28,1613,NA,NA,NA,NA,NA,NA
+UKC13,NA,NA,NA,Darlington,3,28,1614,NA,NA,NA,NA,NA,NA
+UKC14,NA,NA,NA,Durham CC,3,28,1615,NA,NA,NA,NA,NA,NA
+UKC2,NA,NA,Northumberland and Tyne and Wear,NA,2,28,1616,NA,NA,NA,NA,NA,NA
+UKC21,NA,NA,NA,Northumberland,3,28,1617,NA,NA,NA,NA,NA,NA
+UKC22,NA,NA,NA,Tyneside,3,28,1618,NA,NA,NA,NA,NA,NA
+UKC23,NA,NA,NA,Sunderland,3,28,1619,NA,NA,NA,NA,NA,NA
+UKD,NA,North West (England),NA,NA,1,28,1620,NA,NA,NA,NA,NA,NA
+UKD1,NA,NA,Cumbria,NA,2,28,1621,NA,NA,NA,NA,NA,NA
+UKD11,NA,NA,NA,West Cumbria,3,28,1622,NA,NA,NA,NA,NA,NA
+UKD12,NA,NA,NA,East Cumbria,3,28,1623,NA,NA,NA,NA,NA,NA
+UKD3,NA,NA,Greater Manchester,NA,2,28,1624,NA,NA,NA,NA,NA,NA
+UKD33,NA,NA,NA,Manchester,3,28,1625,NA,NA,NA,NA,NA,NA
+UKD34,NA,NA,NA,Greater Manchester South West,3,28,1626,NA,NA,NA,NA,NA,NA
+UKD35,NA,NA,NA,Greater Manchester South East,3,28,1627,NA,NA,NA,NA,NA,NA
+UKD36,NA,NA,NA,Greater Manchester North West,3,28,1628,NA,NA,NA,NA,NA,NA
+UKD37,NA,NA,NA,Greater Manchester North East,3,28,1629,NA,NA,NA,NA,NA,NA
+UKD4,NA,NA,Lancashire,NA,2,28,1630,NA,NA,NA,NA,NA,NA
+UKD41,NA,NA,NA,Blackburn with Darwen,3,28,1631,NA,NA,NA,NA,NA,NA
+UKD42,NA,NA,NA,Blackpool,3,28,1632,NA,NA,NA,NA,NA,NA
+UKD44,NA,NA,NA,Lancaster and Wyre,3,28,1633,NA,NA,NA,NA,NA,NA
+UKD45,NA,NA,NA,Mid Lancashire,3,28,1634,NA,NA,NA,NA,NA,NA
+UKD46,NA,NA,NA,East Lancashire,3,28,1635,NA,NA,NA,NA,NA,NA
+UKD47,NA,NA,NA,Chorley and West Lancashire,3,28,1636,NA,NA,NA,NA,NA,NA
+UKD6,NA,NA,Cheshire,NA,2,28,1637,NA,NA,NA,NA,NA,NA
+UKD61,NA,NA,NA,Warrington,3,28,1638,NA,NA,NA,NA,NA,NA
+UKD62,NA,NA,NA,Cheshire East,3,28,1639,NA,NA,NA,NA,NA,NA
+UKD63,NA,NA,NA,Cheshire West and Chester,3,28,1640,NA,NA,NA,NA,NA,NA
+UKD7,NA,NA,Merseyside,NA,2,28,1641,NA,NA,NA,NA,NA,NA
+UKD71,NA,NA,NA,East Merseyside,3,28,1642,NA,NA,NA,NA,NA,NA
+UKD72,NA,NA,NA,Liverpool,3,28,1643,NA,NA,NA,NA,NA,NA
+UKD73,NA,NA,NA,Sefton,3,28,1644,NA,NA,NA,NA,NA,NA
+UKD74,NA,NA,NA,Wirral,3,28,1645,NA,NA,NA,NA,NA,NA
+UKE,NA,Yorkshire and the Humber,NA,NA,1,28,1646,NA,NA,NA,NA,NA,NA
+UKE1,NA,NA,East Yorkshire and Northern Lincolnshire,NA,2,28,1647,NA,NA,NA,NA,NA,NA
+UKE11,NA,NA,NA,"Kingston upon Hull, City of",3,28,1648,NA,NA,NA,NA,NA,NA
+UKE12,NA,NA,NA,East Riding of Yorkshire,3,28,1649,NA,NA,NA,NA,NA,NA
+UKE13,NA,NA,NA,North and North East Lincolnshire,3,28,1650,NA,NA,NA,NA,NA,NA
+UKE2,NA,NA,North Yorkshire,NA,2,28,1651,NA,NA,NA,NA,NA,NA
+UKE21,NA,NA,NA,York,3,28,1652,NA,NA,NA,NA,NA,NA
+UKE22,NA,NA,NA,North Yorkshire CC,3,28,1653,NA,NA,NA,NA,NA,NA
+UKE3,NA,NA,South Yorkshire,NA,2,28,1654,NA,NA,NA,NA,NA,NA
+UKE31,NA,NA,NA,"Barnsley, Doncaster and Rotherham",3,28,1655,NA,NA,NA,NA,NA,NA
+UKE32,NA,NA,NA,Sheffield,3,28,1656,NA,NA,NA,NA,NA,NA
+UKE4,NA,NA,West Yorkshire,NA,2,28,1657,NA,NA,NA,NA,NA,NA
+UKE41,NA,NA,NA,Bradford,3,28,1658,NA,NA,NA,NA,NA,NA
+UKE42,NA,NA,NA,Leeds,3,28,1659,NA,NA,NA,NA,NA,NA
+UKE44,NA,NA,NA,Calderdale and Kirklees,3,28,1660,NA,NA,NA,NA,NA,NA
+UKE45,NA,NA,NA,Wakefield,3,28,1661,NA,NA,NA,NA,NA,NA
+UKF,NA,East Midlands (England),NA,NA,1,28,1662,NA,NA,NA,NA,NA,NA
+UKF1,NA,NA,Derbyshire and Nottinghamshire,NA,2,28,1663,NA,NA,NA,NA,NA,NA
+UKF11,NA,NA,NA,Derby,3,28,1664,NA,NA,NA,NA,NA,NA
+UKF12,NA,NA,NA,East Derbyshire,3,28,1665,NA,NA,NA,NA,NA,NA
+UKF13,NA,NA,NA,South and West Derbyshire,3,28,1666,NA,NA,NA,NA,NA,NA
+UKF14,NA,NA,NA,Nottingham,3,28,1667,NA,NA,NA,NA,NA,NA
+UKF15,NA,NA,NA,North Nottinghamshire,3,28,1668,NA,NA,NA,NA,NA,NA
+UKF16,NA,NA,NA,South Nottinghamshire,3,28,1669,NA,NA,NA,NA,NA,NA
+UKF2,NA,NA,"Leicestershire, Rutland and Northamptonshire",NA,2,28,1670,NA,NA,NA,NA,NA,NA
+UKF21,NA,NA,NA,Leicester,3,28,1671,NA,NA,NA,NA,NA,NA
+UKF22,NA,NA,NA,Leicestershire CC and Rutland,3,28,1672,NA,NA,NA,NA,NA,NA
+UKF24,NA,NA,NA,West Northamptonshire,3,28,1673,NA,NA,NA,NA,NA,NA
+UKF25,NA,NA,NA,North Northamptonshire,3,28,1674,NA,NA,NA,NA,NA,NA
+UKF3,NA,NA,Lincolnshire,NA,2,28,1675,NA,NA,NA,NA,NA,NA
+UKF30,NA,NA,NA,Lincolnshire,3,28,1676,NA,NA,NA,NA,NA,NA
+UKG,NA,West Midlands (England),NA,NA,1,28,1677,NA,NA,NA,NA,NA,NA
+UKG1,NA,NA,"Herefordshire, Worcestershire and Warwickshire",NA,2,28,1678,NA,NA,NA,NA,NA,NA
+UKG11,NA,NA,NA,"Herefordshire, County of",3,28,1679,NA,NA,NA,NA,NA,NA
+UKG12,NA,NA,NA,Worcestershire,3,28,1680,NA,NA,NA,NA,NA,NA
+UKG13,NA,NA,NA,Warwickshire,3,28,1681,NA,NA,NA,NA,NA,NA
+UKG2,NA,NA,Shropshire and Staffordshire,NA,2,28,1682,NA,NA,NA,NA,NA,NA
+UKG21,NA,NA,NA,Telford and Wrekin,3,28,1683,NA,NA,NA,NA,NA,NA
+UKG22,NA,NA,NA,Shropshire CC,3,28,1684,NA,NA,NA,NA,NA,NA
+UKG23,NA,NA,NA,Stoke-on-Trent,3,28,1685,NA,NA,NA,NA,NA,NA
+UKG24,NA,NA,NA,Staffordshire CC,3,28,1686,NA,NA,NA,NA,NA,NA
+UKG3,NA,NA,West Midlands,NA,2,28,1687,NA,NA,NA,NA,NA,NA
+UKG31,NA,NA,NA,Birmingham,3,28,1688,NA,NA,NA,NA,NA,NA
+UKG32,NA,NA,NA,Solihull,3,28,1689,NA,NA,NA,NA,NA,NA
+UKG33,NA,NA,NA,Coventry,3,28,1690,NA,NA,NA,NA,NA,NA
+UKG36,NA,NA,NA,Dudley,3,28,1691,NA,NA,NA,NA,NA,NA
+UKG37,NA,NA,NA,Sandwell,3,28,1692,NA,NA,NA,NA,NA,NA
+UKG38,NA,NA,NA,Walsall,3,28,1693,NA,NA,NA,NA,NA,NA
+UKG39,NA,NA,NA,Wolverhampton,3,28,1694,NA,NA,NA,NA,NA,NA
+UKH,NA,East of England,NA,NA,1,28,1695,NA,NA,NA,NA,NA,NA
+UKH1,NA,NA,East Anglia,NA,2,28,1696,NA,NA,NA,NA,NA,NA
+UKH11,NA,NA,NA,Peterborough,3,28,1697,NA,NA,NA,NA,NA,NA
+UKH12,NA,NA,NA,Cambridgeshire CC,3,28,1698,NA,NA,NA,NA,NA,NA
+UKH14,NA,NA,NA,Suffolk,3,28,1699,NA,NA,NA,NA,NA,NA
+UKH15,NA,NA,NA,Norwich and East Norfolk,3,28,1700,NA,NA,NA,NA,NA,NA
+UKH16,NA,NA,NA,North and West Norfolk,3,28,1701,NA,NA,NA,NA,NA,NA
+UKH17,NA,NA,NA,Breckland and South Norfolk,3,28,1702,NA,NA,NA,NA,NA,NA
+UKH2,NA,NA,Bedfordshire and Hertfordshire,NA,2,28,1703,NA,NA,NA,NA,NA,NA
+UKH21,NA,NA,NA,Luton,3,28,1704,NA,NA,NA,NA,NA,NA
+UKH23,NA,NA,NA,Hertfordshire,3,28,1705,NA,NA,NA,NA,NA,NA
+UKH24,NA,NA,NA,Bedford,3,28,1706,NA,NA,NA,NA,NA,NA
+UKH25,NA,NA,NA,Central Bedfordshire,3,28,1707,NA,NA,NA,NA,NA,NA
+UKH3,NA,NA,Essex,NA,2,28,1708,NA,NA,NA,NA,NA,NA
+UKH31,NA,NA,NA,Southend-on-Sea,3,28,1709,NA,NA,NA,NA,NA,NA
+UKH32,NA,NA,NA,Thurrock,3,28,1710,NA,NA,NA,NA,NA,NA
+UKH34,NA,NA,NA,Essex Haven Gateway,3,28,1711,NA,NA,NA,NA,NA,NA
+UKH35,NA,NA,NA,West Essex,3,28,1712,NA,NA,NA,NA,NA,NA
+UKH36,NA,NA,NA,Heart of Essex,3,28,1713,NA,NA,NA,NA,NA,NA
+UKH37,NA,NA,NA,Essex Thames Gateway,3,28,1714,NA,NA,NA,NA,NA,NA
+UKI,NA,London,NA,NA,1,28,1715,NA,NA,NA,NA,NA,NA
+UKI3,NA,NA,Inner London — West,NA,2,28,1716,NA,NA,NA,NA,NA,NA
+UKI31,NA,NA,NA,Camden and City of London,3,28,1717,NA,NA,NA,NA,NA,NA
+UKI32,NA,NA,NA,Westminster,3,28,1718,NA,NA,NA,NA,NA,NA
+UKI33,NA,NA,NA,Kensington & Chelsea and Hammersmith & Fulham,3,28,1719,NA,NA,NA,NA,NA,NA
+UKI34,NA,NA,NA,Wandsworth,3,28,1720,NA,NA,NA,NA,NA,NA
+UKI4,NA,NA,Inner London — East,NA,2,28,1721,NA,NA,NA,NA,NA,NA
+UKI41,NA,NA,NA,Hackney and Newham,3,28,1722,NA,NA,NA,NA,NA,NA
+UKI42,NA,NA,NA,Tower Hamlets,3,28,1723,NA,NA,NA,NA,NA,NA
+UKI43,NA,NA,NA,Haringey and Islington,3,28,1724,NA,NA,NA,NA,NA,NA
+UKI44,NA,NA,NA,Lewisham and Southwark,3,28,1725,NA,NA,NA,NA,NA,NA
+UKI45,NA,NA,NA,Lambeth,3,28,1726,NA,NA,NA,NA,NA,NA
+UKI5,NA,NA,Outer London — East and North East,NA,2,28,1727,NA,NA,NA,NA,NA,NA
+UKI51,NA,NA,NA,Bexley and Greenwich,3,28,1728,NA,NA,NA,NA,NA,NA
+UKI52,NA,NA,NA,Barking & Dagenham and Havering,3,28,1729,NA,NA,NA,NA,NA,NA
+UKI53,NA,NA,NA,Redbridge and Waltham Forest,3,28,1730,NA,NA,NA,NA,NA,NA
+UKI54,NA,NA,NA,Enfield,3,28,1731,NA,NA,NA,NA,NA,NA
+UKI6,NA,NA,Outer London — South,NA,2,28,1732,NA,NA,NA,NA,NA,NA
+UKI61,NA,NA,NA,Bromley,3,28,1733,NA,NA,NA,NA,NA,NA
+UKI62,NA,NA,NA,Croydon,3,28,1734,NA,NA,NA,NA,NA,NA
+UKI63,NA,NA,NA,"Merton, Kingston upon Thames and Sutton",3,28,1735,NA,NA,NA,NA,NA,NA
+UKI7,NA,NA,Outer London — West and North West,NA,2,28,1736,NA,NA,NA,NA,NA,NA
+UKI71,NA,NA,NA,Barnet,3,28,1737,NA,NA,NA,NA,NA,NA
+UKI72,NA,NA,NA,Brent,3,28,1738,NA,NA,NA,NA,NA,NA
+UKI73,NA,NA,NA,Ealing,3,28,1739,NA,NA,NA,NA,NA,NA
+UKI74,NA,NA,NA,Harrow and Hillingdon,3,28,1740,NA,NA,NA,NA,NA,NA
+UKI75,NA,NA,NA,Hounslow and Richmond upon Thames,3,28,1741,NA,NA,NA,NA,NA,NA
+UKJ,NA,South East (England),NA,NA,1,28,1742,NA,NA,NA,NA,NA,NA
+UKJ1,NA,NA,"Berkshire, Buckinghamshire and Oxfordshire",NA,2,28,1743,NA,NA,NA,NA,NA,NA
+UKJ11,NA,NA,NA,Berkshire,3,28,1744,NA,NA,NA,NA,NA,NA
+UKJ12,NA,NA,NA,Milton Keynes,3,28,1745,NA,NA,NA,NA,NA,NA
+UKJ13,NA,NA,NA,Buckinghamshire CC,3,28,1746,NA,NA,NA,NA,NA,NA
+UKJ14,NA,NA,NA,Oxfordshire,3,28,1747,NA,NA,NA,NA,NA,NA
+UKJ2,NA,NA,"Surrey, East and West Sussex",NA,2,28,1748,NA,NA,NA,NA,NA,NA
+UKJ21,NA,NA,NA,Brighton and Hove,3,28,1749,NA,NA,NA,NA,NA,NA
+UKJ22,NA,NA,NA,East Sussex CC,3,28,1750,NA,NA,NA,NA,NA,NA
+UKJ25,NA,NA,NA,West Surrey,3,28,1751,NA,NA,NA,NA,NA,NA
+UKJ26,NA,NA,NA,East Surrey,3,28,1752,NA,NA,NA,NA,NA,NA
+UKJ27,NA,NA,NA,West Sussex (South West),3,28,1753,NA,NA,NA,NA,NA,NA
+UKJ28,NA,NA,NA,West Sussex (North East),3,28,1754,NA,NA,NA,NA,NA,NA
+UKJ3,NA,NA,Hampshire and Isle of Wight,NA,2,28,1755,NA,NA,NA,NA,NA,NA
+UKJ31,NA,NA,NA,Portsmouth,3,28,1756,NA,NA,NA,NA,NA,NA
+UKJ32,NA,NA,NA,Southampton,3,28,1757,NA,NA,NA,NA,NA,NA
+UKJ34,NA,NA,NA,Isle of Wight,3,28,1758,NA,NA,NA,NA,NA,NA
+UKJ35,NA,NA,NA,South Hampshire,3,28,1759,NA,NA,NA,NA,NA,NA
+UKJ36,NA,NA,NA,Central Hampshire,3,28,1760,NA,NA,NA,NA,NA,NA
+UKJ37,NA,NA,NA,North Hampshire,3,28,1761,NA,NA,NA,NA,NA,NA
+UKJ4,NA,NA,Kent,NA,2,28,1762,NA,NA,NA,NA,NA,NA
+UKJ41,NA,NA,NA,Medway,3,28,1763,NA,NA,NA,NA,NA,NA
+UKJ43,NA,NA,NA,Kent Thames Gateway,3,28,1764,NA,NA,NA,NA,NA,NA
+UKJ44,NA,NA,NA,East Kent,3,28,1765,NA,NA,NA,NA,NA,NA
+UKJ45,NA,NA,NA,Mid Kent,3,28,1766,NA,NA,NA,NA,NA,NA
+UKJ46,NA,NA,NA,West Kent,3,28,1767,NA,NA,NA,NA,NA,NA
+UKK,NA,South West (England),NA,NA,1,28,1768,NA,NA,NA,NA,NA,NA
+UKK1,NA,NA,"Gloucestershire, Wiltshire and Bristol/Bath area",NA,2,28,1769,NA,NA,NA,NA,NA,NA
+UKK11,NA,NA,NA,"Bristol, City of",3,28,1770,NA,NA,NA,NA,NA,NA
+UKK12,NA,NA,NA,"Bath and North East Somerset, North Somerset and South Gloucestershire",3,28,1771,NA,NA,NA,NA,NA,NA
+UKK13,NA,NA,NA,Gloucestershire,3,28,1772,NA,NA,NA,NA,NA,NA
+UKK14,NA,NA,NA,Swindon,3,28,1773,NA,NA,NA,NA,NA,NA
+UKK15,NA,NA,NA,Wiltshire CC,3,28,1774,NA,NA,NA,NA,NA,NA
+UKK2,NA,NA,Dorset and Somerset,NA,2,28,1775,NA,NA,NA,NA,NA,NA
+UKK23,NA,NA,NA,Somerset,3,28,1776,NA,NA,NA,NA,NA,NA
+UKK24,NA,NA,NA,"Bournemouth, Christchurch and Poole",3,28,1777,NA,NA,NA,NA,NA,NA
+UKK25,NA,NA,NA,Dorset,3,28,1778,NA,NA,NA,NA,NA,NA
+UKK3,NA,NA,Cornwall and Isles of Scilly,NA,2,28,1779,NA,NA,NA,NA,NA,NA
+UKK30,NA,NA,NA,Cornwall and Isles of Scilly,3,28,1780,NA,NA,NA,NA,NA,NA
+UKK4,NA,NA,Devon,NA,2,28,1781,NA,NA,NA,NA,NA,NA
+UKK41,NA,NA,NA,Plymouth,3,28,1782,NA,NA,NA,NA,NA,NA
+UKK42,NA,NA,NA,Torbay,3,28,1783,NA,NA,NA,NA,NA,NA
+UKK43,NA,NA,NA,Devon CC,3,28,1784,NA,NA,NA,NA,NA,NA
+UKL,NA,Wales,NA,NA,1,28,1785,NA,NA,NA,NA,NA,NA
+UKL1,NA,NA,West Wales and The Valleys,NA,2,28,1786,NA,NA,NA,NA,NA,NA
+UKL11,NA,NA,NA,Isle of Anglesey,3,28,1787,NA,NA,NA,NA,NA,NA
+UKL12,NA,NA,NA,Gwynedd,3,28,1788,NA,NA,NA,NA,NA,NA
+UKL13,NA,NA,NA,Conwy and Denbighshire,3,28,1789,NA,NA,NA,NA,NA,NA
+UKL14,NA,NA,NA,South West Wales,3,28,1790,NA,NA,NA,NA,NA,NA
+UKL15,NA,NA,NA,Central Valleys,3,28,1791,NA,NA,NA,NA,NA,NA
+UKL16,NA,NA,NA,Gwent Valleys,3,28,1792,NA,NA,NA,NA,NA,NA
+UKL17,NA,NA,NA,Bridgend and Neath Port Talbot,3,28,1793,NA,NA,NA,NA,NA,NA
+UKL18,NA,NA,NA,Swansea,3,28,1794,NA,NA,NA,NA,NA,NA
+UKL2,NA,NA,East Wales,NA,2,28,1795,NA,NA,NA,NA,NA,NA
+UKL21,NA,NA,NA,Monmouthshire and Newport,3,28,1796,NA,NA,NA,NA,NA,NA
+UKL22,NA,NA,NA,Cardiff and Vale of Glamorgan,3,28,1797,NA,NA,NA,NA,NA,NA
+UKL23,NA,NA,NA,Flintshire and Wrexham,3,28,1798,NA,NA,NA,NA,NA,NA
+UKL24,NA,NA,NA,Powys,3,28,1799,NA,NA,NA,NA,NA,NA
+UKM,NA,Scotland,NA,NA,1,28,1800,NA,NA,NA,NA,NA,NA
+UKM5,NA,NA,North Eastern Scotland,NA,2,28,1801,NA,NA,NA,NA,NA,NA
+UKM50,NA,NA,NA,Aberdeen City and Aberdeenshire,3,28,1802,NA,NA,NA,NA,NA,NA
+UKM6,NA,NA,Highlands and Islands,NA,2,28,1803,NA,NA,NA,NA,NA,NA
+UKM61,NA,NA,NA,Caithness & Sutherland and Ross & Cromarty,3,28,1804,NA,NA,NA,NA,NA,NA
+UKM62,NA,NA,NA,"Inverness & Nairn and Moray, Badenoch & Strathspey",3,28,1805,NA,NA,NA,NA,NA,NA
+UKM63,NA,NA,NA,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",3,28,1806,NA,NA,NA,NA,NA,NA
+UKM64,NA,NA,NA,Na h-Eileanan Siar (Western Isles),3,28,1807,NA,NA,NA,NA,NA,NA
+UKM65,NA,NA,NA,Orkney Islands,3,28,1808,NA,NA,NA,NA,NA,NA
+UKM66,NA,NA,NA,Shetland Islands,3,28,1809,NA,NA,NA,NA,NA,NA
+UKM7,NA,NA,Eastern Scotland,NA,2,28,1810,NA,NA,NA,NA,NA,NA
+UKM71,NA,NA,NA,Angus and Dundee City,3,28,1811,NA,NA,NA,NA,NA,NA
+UKM72,NA,NA,NA,Clackmannanshire and Fife,3,28,1812,NA,NA,NA,NA,NA,NA
+UKM73,NA,NA,NA,East Lothian and Midlothian,3,28,1813,NA,NA,NA,NA,NA,NA
+UKM75,NA,NA,NA,"Edinburgh, City of",3,28,1814,NA,NA,NA,NA,NA,NA
+UKM76,NA,NA,NA,Falkirk,3,28,1815,NA,NA,NA,NA,NA,NA
+UKM77,NA,NA,NA,Perth & Kinross and Stirling,3,28,1816,NA,NA,NA,NA,NA,NA
+UKM78,NA,NA,NA,West Lothian,3,28,1817,NA,NA,NA,NA,NA,NA
+UKM8,NA,NA,West Central Scotland,NA,2,28,1818,NA,NA,NA,NA,NA,NA
+UKM81,NA,NA,NA,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",3,28,1819,NA,NA,NA,NA,NA,NA
+UKM82,NA,NA,NA,Glasgow City,3,28,1820,NA,NA,NA,NA,NA,NA
+UKM83,NA,NA,NA,"Inverclyde, East Renfrewshire and Renfrewshire",3,28,1821,NA,NA,NA,NA,NA,NA
+UKM84,NA,NA,NA,North Lanarkshire,3,28,1822,NA,NA,NA,NA,NA,NA
+UKM9,NA,NA,Southern Scotland,NA,2,28,1823,NA,NA,NA,NA,NA,NA
+UKM91,NA,NA,NA,Scottish Borders,3,28,1824,NA,NA,NA,NA,NA,NA
+UKM92,NA,NA,NA,Dumfries & Galloway,3,28,1825,NA,NA,NA,NA,NA,NA
+UKM93,NA,NA,NA,East Ayrshire and North Ayrshire mainland,3,28,1826,NA,NA,NA,NA,NA,NA
+UKM94,NA,NA,NA,South Ayrshire,3,28,1827,NA,NA,NA,NA,NA,NA
+UKM95,NA,NA,NA,South Lanarkshire,3,28,1828,NA,NA,NA,NA,NA,NA
+UKN,NA,Northern Ireland,NA,NA,1,28,1829,NA,NA,NA,NA,NA,NA
+UKN0,NA,NA,Northern Ireland,NA,2,28,1830,NA,NA,NA,NA,NA,NA
+UKN06,NA,NA,NA,Belfast,3,28,1831,NA,NA,NA,NA,NA,NA
+UKN07,NA,NA,NA,"Armagh City, Banbridge and Craigavon",3,28,1832,NA,NA,NA,NA,NA,NA
+UKN08,NA,NA,NA,"Newry, Mourne and Down",3,28,1833,NA,NA,NA,NA,NA,NA
+UKN09,NA,NA,NA,Ards and North Down,3,28,1834,NA,NA,NA,NA,NA,NA
+UKN0A,NA,NA,NA,Derry City and Strabane,3,28,1835,NA,NA,NA,NA,NA,NA
+UKN0B,NA,NA,NA,Mid Ulster,3,28,1836,NA,NA,NA,NA,NA,NA
+UKN0C,NA,NA,NA,Causeway Coast and Glens,3,28,1837,NA,NA,NA,NA,NA,NA
+UKN0D,NA,NA,NA,Antrim and Newtownabbey,3,28,1838,NA,NA,NA,NA,NA,NA
+UKN0E,NA,NA,NA,Lisburn and Castlereagh,3,28,1839,NA,NA,NA,NA,NA,NA
+UKN0F,NA,NA,NA,Mid and East Antrim,3,28,1840,NA,NA,NA,NA,NA,NA
+UKN0G,NA,NA,NA,Fermanagh and Omagh,3,28,1841,NA,NA,NA,NA,NA,NA
+UKZ,NA,Extra-Regio NUTS 1,NA,NA,1,28,1842,NA,NA,NA,NA,NA,NA
+UKZZ,NA,NA,Extra-Regio NUTS 2,NA,2,28,1843,NA,NA,NA,NA,NA,NA
+UKZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,28,1844,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Statistical regions (EFTA countries, candidate countries, potential candidates, other partners (Eastern Partnership etc.):",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+IS,Ísland,NA,NA,NA,0,29,1845,NA,NA,NA,NA,NA,NA
+IS0,NA,Ísland,NA,NA,1,29,1846,NA,NA,NA,NA,NA,NA
+IS00,NA,NA,Ísland,NA,2,29,1847,NA,NA,NA,NA,NA,NA
+IS001,NA,NA,NA,Höfuðborgarsvæði,3,29,1848,NA,NA,NA,NA,NA,NA
+IS002,NA,NA,NA,Landsbyggð,3,29,1849,NA,NA,NA,NA,NA,NA
+ISZ,NA,Extra-Regio NUTS 1,NA,NA,1,29,1850,NA,NA,NA,NA,NA,NA
+ISZZ,NA,NA,Extra-Regio NUTS 2,NA,2,29,1851,NA,NA,NA,NA,NA,NA
+ISZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,29,1852,NA,NA,NA,NA,NA,NA
+LI,Liechtenstein,NA,NA,NA,0,30,1853,NA,NA,NA,NA,NA,NA
+LI0,NA,Liechtenstein,NA,NA,1,30,1854,NA,NA,NA,NA,NA,NA
+LI00,NA,NA,Liechtenstein,NA,2,30,1855,NA,NA,NA,NA,NA,NA
+LI000,NA,NA,NA,Liechtenstein,3,30,1856,NA,NA,NA,NA,NA,NA
+LIZ,NA,Extra-Regio NUTS 1,NA,NA,1,30,1857,NA,NA,NA,NA,NA,NA
+LIZZ,NA,NA,Extra-Regio NUTS 2,NA,2,30,1858,NA,NA,NA,NA,NA,NA
+LIZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,30,1859,NA,NA,NA,NA,NA,NA
+NO,Norge,NA,NA,NA,0,31,1860,NA,NA,NA,NA,NA,NA
+NO0,NA,Norge,NA,NA,1,31,1861,NA,NA,NA,NA,NA,NA
+NO02,NA,NA,Innlandet,NA,2,31,1862,NA,NA,NA,NA,NA,NA
+NO020,NA,NA,NA,Innlandet,3,31,1863,NA,NA,NA,NA,NA,NA
+NO06,NA,NA,Trøndelag,NA,2,31,1864,NA,NA,NA,NA,NA,NA
+NO060,NA,NA,NA,Trøndelag,3,31,1865,NA,NA,NA,NA,NA,NA
+NO07,NA,NA,Nord-Norge,NA,2,31,1866,NA,NA,NA,NA,NA,NA
+NO071,NA,NA,NA,Nordland,3,31,1867,NA,NA,NA,NA,NA,NA
+NO074,NA,NA,NA,Troms og Finnmark,3,31,1868,NA,NA,NA,NA,NA,NA
+NO08,NA,NA,Oslo og Viken,NA,2,31,1869,NA,NA,NA,NA,NA,NA
+NO081,NA,NA,NA,Oslo,3,31,1870,NA,NA,NA,NA,NA,NA
+NO082,NA,NA,NA,Viken,3,31,1871,NA,NA,NA,NA,NA,NA
+NO09,NA,NA,Agder og Sør-Østlandet,NA,2,31,1872,NA,NA,NA,NA,NA,NA
+NO091,NA,NA,NA,Vestfold og Telemark,3,31,1873,NA,NA,NA,NA,NA,NA
+NO092,NA,NA,NA,Agder,3,31,1874,NA,NA,NA,NA,NA,NA
+NO0A,NA,NA,Vestlandet,NA,2,31,1875,NA,NA,NA,NA,NA,NA
+NO0A1,NA,NA,NA,Rogaland,3,31,1876,NA,NA,NA,NA,NA,NA
+NO0A2,NA,NA,NA,Vestland,3,31,1877,NA,NA,NA,NA,NA,NA
+NO0A3,NA,NA,NA,Møre og Romsdal,3,31,1878,NA,NA,NA,NA,NA,NA
+NO0B,NA,NA,Svalbard og Jan Mayen,NA,2,31,1879,NA,NA,NA,NA,NA,NA
+NO0B1,NA,NA,NA,Jan Mayen,3,31,1880,NA,NA,NA,NA,NA,NA
+NO0B2,NA,NA,NA,Svalbard,3,31,1881,NA,NA,NA,NA,NA,NA
+NOZ,NA,Extra-Regio NUTS 1,NA,NA,1,31,1882,NA,NA,NA,NA,NA,NA
+NOZZ,NA,NA,Extra-Regio NUTS 2,NA,2,31,1883,NA,NA,NA,NA,NA,NA
+NOZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,31,1884,NA,NA,NA,NA,NA,NA
+CH,Schweiz/Suisse/Svizzera,NA,NA,NA,0,32,1885,NA,NA,NA,NA,NA,NA
+CH0,NA,Schweiz/Suisse/Svizzera,NA,NA,1,32,1886,NA,NA,NA,NA,NA,NA
+CH01,NA,NA,Région lémanique,NA,2,32,1887,NA,NA,NA,NA,NA,NA
+CH011,NA,NA,NA,Vaud,3,32,1888,NA,NA,NA,NA,NA,NA
+CH012,NA,NA,NA,Valais / Wallis,3,32,1889,NA,NA,NA,NA,NA,NA
+CH013,NA,NA,NA,Genève,3,32,1890,NA,NA,NA,NA,NA,NA
+CH02,NA,NA,Espace Mittelland,NA,2,32,1891,NA,NA,NA,NA,NA,NA
+CH021,NA,NA,NA,Bern / Berne,3,32,1892,NA,NA,NA,NA,NA,NA
+CH022,NA,NA,NA,Fribourg / Freiburg,3,32,1893,NA,NA,NA,NA,NA,NA
+CH023,NA,NA,NA,Solothurn,3,32,1894,NA,NA,NA,NA,NA,NA
+CH024,NA,NA,NA,Neuchâtel,3,32,1895,NA,NA,NA,NA,NA,NA
+CH025,NA,NA,NA,Jura,3,32,1896,NA,NA,NA,NA,NA,NA
+CH03,NA,NA,Nordwestschweiz,NA,2,32,1897,NA,NA,NA,NA,NA,NA
+CH031,NA,NA,NA,Basel-Stadt,3,32,1898,NA,NA,NA,NA,NA,NA
+CH032,NA,NA,NA,Basel-Landschaft,3,32,1899,NA,NA,NA,NA,NA,NA
+CH033,NA,NA,NA,Aargau,3,32,1900,NA,NA,NA,NA,NA,NA
+CH04,NA,NA,Zürich,NA,2,32,1901,NA,NA,NA,NA,NA,NA
+CH040,NA,NA,NA,Zürich,3,32,1902,NA,NA,NA,NA,NA,NA
+CH05,NA,NA,Ostschweiz,NA,2,32,1903,NA,NA,NA,NA,NA,NA
+CH051,NA,NA,NA,Glarus,3,32,1904,NA,NA,NA,NA,NA,NA
+CH052,NA,NA,NA,Schaffhausen,3,32,1905,NA,NA,NA,NA,NA,NA
+CH053,NA,NA,NA,Appenzell Ausserrhoden,3,32,1906,NA,NA,NA,NA,NA,NA
+CH054,NA,NA,NA,Appenzell Innerrhoden,3,32,1907,NA,NA,NA,NA,NA,NA
+CH055,NA,NA,NA,St. Gallen,3,32,1908,NA,NA,NA,NA,NA,NA
+CH056,NA,NA,NA,Graubünden / Grigioni / Grischun,3,32,1909,NA,NA,NA,NA,NA,NA
+CH057,NA,NA,NA,Thurgau,3,32,1910,NA,NA,NA,NA,NA,NA
+CH06,NA,NA,Zentralschweiz,NA,2,32,1911,NA,NA,NA,NA,NA,NA
+CH061,NA,NA,NA,Luzern,3,32,1912,NA,NA,NA,NA,NA,NA
+CH062,NA,NA,NA,Uri,3,32,1913,NA,NA,NA,NA,NA,NA
+CH063,NA,NA,NA,Schwyz,3,32,1914,NA,NA,NA,NA,NA,NA
+CH064,NA,NA,NA,Obwalden,3,32,1915,NA,NA,NA,NA,NA,NA
+CH065,NA,NA,NA,Nidwalden,3,32,1916,NA,NA,NA,NA,NA,NA
+CH066,NA,NA,NA,Zug,3,32,1917,NA,NA,NA,NA,NA,NA
+CH07,NA,NA,Ticino,NA,2,32,1918,NA,NA,NA,NA,NA,NA
+CH070,NA,NA,NA,Ticino,3,32,1919,NA,NA,NA,NA,NA,NA
+CHZ,NA,Extra-Regio NUTS 1,NA,NA,1,32,1920,NA,NA,NA,NA,NA,NA
+CHZZ,NA,NA,Extra-Regio NUTS 2,NA,2,32,1921,NA,NA,NA,NA,NA,NA
+CHZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,32,1922,NA,NA,NA,NA,NA,NA
+ME,Црна Гора,NA,NA,NA,0,33,1923,NA,ME,Crna Gora,NA,NA,NA
+ME0,NA,Црна Гора,NA,NA,1,33,1924,NA,ME0,Crna Gora,NA,NA,NA
+ME00,NA,NA,Црна Гора,NA,2,33,1925,NA,ME00,NA,Crna Gora,NA,NA
+ME000,NA,NA,NA,Црна Гора,3,33,1926,NA,ME000,NA,NA,Crna Gora,NA
+MEZ,NA,Extra-Regio NUTS 1,NA,NA,1,33,1927,NA,MEZ,Extra-Regio NUTS 1,NA,NA,NA
+MEZZ,NA,NA,Extra-Regio NUTS 2,NA,2,33,1928,NA,MEZZ,NA,Extra-Regio NUTS 2,NA,NA
+MEZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,33,1929,NA,MEZZZ,NA,NA,Extra-Regio NUTS 3,NA
+MK,Северна Македонија,NA,NA,NA,0,34,1930,NA,MK,Severna Makedonija,NA,NA,NA
+MK0,NA,Северна Македонија,NA,NA,1,34,1931,NA,MK0,NA,Severna Makedonija,NA,NA
+MK00,NA,NA,Северна Македонија,NA,2,34,1932,NA,MK00,NA,NA,Severna Makedonija,NA
+MK001,NA,NA,NA,Вардарски,3,34,1933,NA,MK001,NA,NA,NA,NA
+MK002,NA,NA,NA,Источен,3,34,1934,NA,MK002,NA,NA,NA,NA
+MK003,NA,NA,NA,Југозападен,3,34,1935,NA,MK003,NA,NA,NA,NA
+MK004,NA,NA,NA,Југоисточен,3,34,1936,NA,MK004,NA,NA,NA,NA
+MK005,NA,NA,NA,Пелагониски,3,34,1937,NA,MK005,NA,NA,NA,NA
+MK006,NA,NA,NA,Полошки,3,34,1938,NA,MK006,NA,NA,NA,NA
+MK007,NA,NA,NA,Североисточен,3,34,1939,NA,MK007,NA,NA,NA,NA
+MK008,NA,NA,NA,Скопски,3,34,1940,NA,MK008,NA,NA,NA,NA
+MKZ,NA,Extra-Regio NUTS 1,NA,NA,1,34,1941,NA,MKZ,NA,Extra-Regio NUTS 1,NA,NA
+MKZZ,NA,NA,Extra-Regio NUTS 2,NA,2,34,1942,NA,MKZZ,NA,NA,Extra-Regio NUTS 2,NA
+MKZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,34,1943,NA,MKZZZ,NA,NA,NA,NA
+AL,Shqipëria,NA,NA,NA,0,35,1944,NA,NA,NA,NA,NA,NA
+AL0,NA,Shqipëria,NA,NA,1,35,1945,NA,The versions in Latin characters is not official. It is included here only for the sake of comprehension.,NA,NA,NA,NA
+AL01,NA,NA,Veri,NA,2,35,1946,NA,NA,NA,NA,NA,NA
+AL011,NA,NA,NA,Dibër,3,35,1947,NA,NA,NA,NA,NA,NA
+AL012,NA,NA,NA,Durrës,3,35,1948,NA,NA,NA,NA,NA,NA
+AL013,NA,NA,NA,Kukës,3,35,1949,NA,NA,NA,NA,NA,NA
+AL014,NA,NA,NA,Lezhë,3,35,1950,NA,NA,NA,NA,NA,NA
+AL015,NA,NA,NA,Shkodër,3,35,1951,NA,NA,NA,NA,NA,NA
+AL02,NA,NA,Qender,NA,2,35,1952,NA,NA,NA,NA,NA,NA
+AL021,NA,NA,NA,Elbasan,3,35,1953,NA,NA,NA,NA,NA,NA
+AL022,NA,NA,NA,Tiranë,3,35,1954,NA,NA,NA,NA,NA,NA
+AL03,NA,NA,Jug,NA,2,35,1955,NA,NA,NA,NA,NA,NA
+AL031,NA,NA,NA,Berat,3,35,1956,NA,NA,NA,NA,NA,NA
+AL032,NA,NA,NA,Fier,3,35,1957,NA,NA,NA,NA,NA,NA
+AL033,NA,NA,NA,Gjirokastër,3,35,1958,NA,NA,NA,NA,NA,NA
+AL034,NA,NA,NA,Korcë,3,35,1959,NA,NA,NA,NA,NA,NA
+AL035,NA,NA,NA,Vlorë,3,35,1960,NA,NA,NA,NA,NA,NA
+ALZ,NA,Extra-Regio NUTS 1,NA,NA,1,35,1961,NA,NA,NA,NA,NA,NA
+ALZZ,NA,NA,Extra-Regio NUTS 2,NA,2,35,1962,NA,NA,NA,NA,NA,NA
+ALZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,35,1963,NA,NA,NA,NA,NA,NA
+RS,Srbija/Сpбија,NA,NA,NA,0,36,1964,NA,RS,Serbia,NA,NA,NA
+RS1,NA,Србија - север,NA,NA,1,36,1965,NA,RS1,Serbia - sever,NA,NA,NA
+RS11,NA,NA,Београдски регион,NA,2,36,1966,NA,RS11,NA,City of Belgrade,NA,NA
+RS110,NA,NA,NA,Београдска област,3,36,1967,NA,RS110,NA,NA,City of Belgrade,NA
+RS12,NA,NA,Регион Војводине,NA,2,36,1968,NA,RS12,NA,Autonomous Province of Vojvodina,NA,NA
+RS121,NA,NA,NA,Западнобачка област,3,36,1969,NA,RS121,NA,NA,Zapadnobačka oblast,NA
+RS122,NA,NA,NA,Јужнобанатска област,3,36,1970,NA,RS122,NA,NA,Južnobanatska oblast,NA
+RS123,NA,NA,NA,Јужнобачка област,3,36,1971,NA,RS123,NA,NA,Južnobačka oblast,NA
+RS124,NA,NA,NA,Севернобанатска област,3,36,1972,NA,RS124,NA,NA,Severnobanatska oblast,NA
+RS125,NA,NA,NA,Севернобачка област,3,36,1973,NA,RS125,NA,NA,Severnobačka oblast,NA
+RS126,NA,NA,NA,Средњобанатска област,3,36,1974,NA,RS126,NA,NA,Srednjobanatska oblast,NA
+RS127,NA,NA,NA,Сремска област,3,36,1975,NA,RS127,NA,NA,Sremska oblast,NA
+RS2,NA,Србија - југ,NA,NA,1,36,1976,NA,RS2,Serbia - jug,NA,NA,NA
+RS21,NA,NA,Регион Шумадије и Западне Србије,NA,2,36,1977,NA,RS21,NA,Region Šumadije i Zapadne Srbije,NA,NA
+RS211,NA,NA,NA,Златиборска област,3,36,1978,NA,RS211,NA,NA,Zlatiborska oblast,NA
+RS212,NA,NA,NA,Колубарска област,3,36,1979,NA,RS212,NA,NA,Kolubarska oblast,NA
+RS213,NA,NA,NA,Мачванска област,3,36,1980,NA,RS213,NA,NA,Mačvanska oblast,NA
+RS214,NA,NA,NA,Моравичка област,3,36,1981,NA,RS214,NA,NA,Moravička oblast,NA
+RS215,NA,NA,NA,Поморавска област,3,36,1982,NA,RS215,NA,NA,Pomoravska oblast,NA
+RS216,NA,NA,NA,Расинска област,3,36,1983,NA,RS216,NA,NA,Rasinska oblast,NA
+RS217,NA,NA,NA,Рашка област,3,36,1984,NA,RS217,NA,NA,Raška oblast,NA
+RS218,NA,NA,NA,Шумадијска област,3,36,1985,NA,RS218,NA,NA,Šumadijska oblast,NA
+RS22,NA,NA,Регион Јужне и Источне Србије,NA,2,36,1986,NA,RS22,NA,Region Južne i Istočne Srbije,NA,NA
+RS221,NA,NA,NA,Борска област,3,36,1987,NA,RS221,NA,NA,Borska oblast,NA
+RS222,NA,NA,NA,Браничевска област,3,36,1988,NA,RS222,NA,NA,Braničevska oblast,NA
+RS223,NA,NA,NA,Зајечарска област,3,36,1989,NA,RS223,NA,NA,Zaječarska oblast,NA
+RS224,NA,NA,NA,Јабланичка област,3,36,1990,NA,RS224,NA,NA,Jablanička oblast,NA
+RS225,NA,NA,NA,Нишавска област,3,36,1991,NA,RS225,NA,NA,Nišavska oblast,NA
+RS226,NA,NA,NA,Пиротска област,3,36,1992,NA,RS226,NA,NA,Pirotska oblast,NA
+RS227,NA,NA,NA,Подунавска област,3,36,1993,NA,RS227,NA,NA,Podunavska oblast,NA
+RS228,NA,NA,NA,Пчињска област,3,36,1994,NA,RS228,NA,NA,Pčinjska oblast,NA
+RS229,NA,NA,NA,Топличка област,3,36,1995,NA,RS229,NA,NA,Toplička oblast,NA
+RSZ,NA,Extra-Regio NUTS 1,NA,NA,1,36,1996,NA,RSZ,Extra-Regio NUTS 1,NA,NA,NA
+RSZZ,NA,NA,Extra-Regio NUTS 2,NA,2,36,1997,NA,RSZZ,NA,Extra-Regio NUTS 2,NA,NA
+RSZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,36,1998,NA,RSZZZ,NA,NA,Extra-Regio NUTS 3,NA
+TR,Türkiye,NA,NA,NA,0,37,1999,NA,NA,NA,NA,NA,NA
+TR1,NA,İstanbul,NA,NA,1,37,2000,NA,The version in Latin characters is not official. It is included here only for the sake of comprehension.,NA,NA,NA,NA
+TR10,NA,NA,İstanbul,NA,2,37,2001,NA,NA,NA,NA,NA,NA
+TR100,NA,NA,NA,İstanbul,3,37,2002,NA,NA,NA,NA,NA,NA
+TR2,NA,Batı Marmara,NA,NA,1,37,2003,NA,NA,NA,NA,NA,NA
+TR21,NA,NA,"Tekirdağ, Edirne, Kırklareli",NA,2,37,2004,NA,NA,NA,NA,NA,NA
+TR211,NA,NA,NA,Tekirdağ,3,37,2005,NA,NA,NA,NA,NA,NA
+TR212,NA,NA,NA,Edirne,3,37,2006,NA,NA,NA,NA,NA,NA
+TR213,NA,NA,NA,Kırklareli,3,37,2007,NA,NA,NA,NA,NA,NA
+TR22,NA,NA,"Balıkesir, Çanakkale",NA,2,37,2008,NA,NA,NA,NA,NA,NA
+TR221,NA,NA,NA,Balıkesir,3,37,2009,NA,NA,NA,NA,NA,NA
+TR222,NA,NA,NA,Çanakkale,3,37,2010,NA,NA,NA,NA,NA,NA
+TR3,NA,Ege,NA,NA,1,37,2011,NA,NA,NA,NA,NA,NA
+TR31,NA,NA,İzmir,NA,2,37,2012,NA,NA,NA,NA,NA,NA
+TR310,NA,NA,NA,İzmir,3,37,2013,NA,NA,NA,NA,NA,NA
+TR32,NA,NA,"Aydın, Denizli, Muğla",NA,2,37,2014,NA,NA,NA,NA,NA,NA
+TR321,NA,NA,NA,Aydın,3,37,2015,NA,NA,NA,NA,NA,NA
+TR322,NA,NA,NA,Denizli,3,37,2016,NA,NA,NA,NA,NA,NA
+TR323,NA,NA,NA,Muğla,3,37,2017,NA,NA,NA,NA,NA,NA
+TR33,NA,NA,"Manisa, Afyonkarahisar, Kütahya, Uşak",NA,2,37,2018,NA,NA,NA,NA,NA,NA
+TR331,NA,NA,NA,Manisa,3,37,2019,NA,NA,NA,NA,NA,NA
+TR332,NA,NA,NA,Afyonkarahisar,3,37,2020,NA,NA,NA,NA,NA,NA
+TR333,NA,NA,NA,Kütahya,3,37,2021,NA,NA,NA,NA,NA,NA
+TR334,NA,NA,NA,Uşak,3,37,2022,NA,NA,NA,NA,NA,NA
+TR4,NA,Doğu Marmara,NA,NA,1,37,2023,NA,NA,NA,NA,NA,NA
+TR41,NA,NA,"Bursa, Eskişehir, Bilecik",NA,2,37,2024,NA,NA,NA,NA,NA,NA
+TR411,NA,NA,NA,Bursa,3,37,2025,NA,NA,NA,NA,NA,NA
+TR412,NA,NA,NA,Eskişehir,3,37,2026,NA,NA,NA,NA,NA,NA
+TR413,NA,NA,NA,Bilecik,3,37,2027,NA,NA,NA,NA,NA,NA
+TR42,NA,NA,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",NA,2,37,2028,NA,NA,NA,NA,NA,NA
+TR421,NA,NA,NA,Kocaeli,3,37,2029,NA,NA,NA,NA,NA,NA
+TR422,NA,NA,NA,Sakarya,3,37,2030,NA,NA,NA,NA,NA,NA
+TR423,NA,NA,NA,Düzce,3,37,2031,NA,NA,NA,NA,NA,NA
+TR424,NA,NA,NA,Bolu,3,37,2032,NA,NA,NA,NA,NA,NA
+TR425,NA,NA,NA,Yalova,3,37,2033,NA,NA,NA,NA,NA,NA
+TR5,NA,Batı Anadolu,NA,NA,1,37,2034,NA,NA,NA,NA,NA,NA
+TR51,NA,NA,Ankara,NA,2,37,2035,NA,NA,NA,NA,NA,NA
+TR510,NA,NA,NA,Ankara,3,37,2036,NA,NA,NA,NA,NA,NA
+TR52,NA,NA,"Konya, Karaman",NA,2,37,2037,NA,NA,NA,NA,NA,NA
+TR521,NA,NA,NA,Konya,3,37,2038,NA,NA,NA,NA,NA,NA
+TR522,NA,NA,NA,Karaman,3,37,2039,NA,NA,NA,NA,NA,NA
+TR6,NA,Akdeniz,NA,NA,1,37,2040,NA,NA,NA,NA,NA,NA
+TR61,NA,NA,"Antalya, Isparta, Burdur",NA,2,37,2041,NA,NA,NA,NA,NA,NA
+TR611,NA,NA,NA,Antalya,3,37,2042,NA,NA,NA,NA,NA,NA
+TR612,NA,NA,NA,Isparta,3,37,2043,NA,NA,NA,NA,NA,NA
+TR613,NA,NA,NA,Burdur,3,37,2044,NA,NA,NA,NA,NA,NA
+TR62,NA,NA,"Adana, Mersin",NA,2,37,2045,NA,NA,NA,NA,NA,NA
+TR621,NA,NA,NA,Adana,3,37,2046,NA,NA,NA,NA,NA,NA
+TR622,NA,NA,NA,Mersin,3,37,2047,NA,NA,NA,NA,NA,NA
+TR63,NA,NA,"Hatay, Kahramanmaraş, Osmaniye",NA,2,37,2048,NA,NA,NA,NA,NA,NA
+TR631,NA,NA,NA,Hatay,3,37,2049,NA,NA,NA,NA,NA,NA
+TR632,NA,NA,NA,Kahramanmaraş,3,37,2050,NA,NA,NA,NA,NA,NA
+TR633,NA,NA,NA,Osmaniye,3,37,2051,NA,NA,NA,NA,NA,NA
+TR7,NA,Orta Anadolu,NA,NA,1,37,2052,NA,NA,NA,NA,NA,NA
+TR71,NA,NA,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",NA,2,37,2053,NA,NA,NA,NA,NA,NA
+TR711,NA,NA,NA,Kırıkkale,3,37,2054,NA,NA,NA,NA,NA,NA
+TR712,NA,NA,NA,Aksaray,3,37,2055,NA,NA,NA,NA,NA,NA
+TR713,NA,NA,NA,Niğde,3,37,2056,NA,NA,NA,NA,NA,NA
+TR714,NA,NA,NA,Nevşehir,3,37,2057,NA,NA,NA,NA,NA,NA
+TR715,NA,NA,NA,Kırşehir,3,37,2058,NA,NA,NA,NA,NA,NA
+TR72,NA,NA,"Kayseri, Sivas, Yozgat",NA,2,37,2059,NA,NA,NA,NA,NA,NA
+TR721,NA,NA,NA,Kayseri,3,37,2060,NA,NA,NA,NA,NA,NA
+TR722,NA,NA,NA,Sivas,3,37,2061,NA,NA,NA,NA,NA,NA
+TR723,NA,NA,NA,Yozgat,3,37,2062,NA,NA,NA,NA,NA,NA
+TR8,NA,Batı Karadeniz,NA,NA,1,37,2063,NA,NA,NA,NA,NA,NA
+TR81,NA,NA,"Zonguldak, Karabük, Bartın",NA,2,37,2064,NA,NA,NA,NA,NA,NA
+TR811,NA,NA,NA,Zonguldak,3,37,2065,NA,NA,NA,NA,NA,NA
+TR812,NA,NA,NA,Karabük,3,37,2066,NA,NA,NA,NA,NA,NA
+TR813,NA,NA,NA,Bartın,3,37,2067,NA,NA,NA,NA,NA,NA
+TR82,NA,NA,"Kastamonu, Çankırı, Sinop",NA,2,37,2068,NA,NA,NA,NA,NA,NA
+TR821,NA,NA,NA,Kastamonu,3,37,2069,NA,NA,NA,NA,NA,NA
+TR822,NA,NA,NA,Çankırı,3,37,2070,NA,NA,NA,NA,NA,NA
+TR823,NA,NA,NA,Sinop,3,37,2071,NA,NA,NA,NA,NA,NA
+TR83,NA,NA,"Samsun, Tokat, Çorum, Amasya",NA,2,37,2072,NA,NA,NA,NA,NA,NA
+TR831,NA,NA,NA,Samsun,3,37,2073,NA,NA,NA,NA,NA,NA
+TR832,NA,NA,NA,Tokat,3,37,2074,NA,NA,NA,NA,NA,NA
+TR833,NA,NA,NA,Çorum,3,37,2075,NA,NA,NA,NA,NA,NA
+TR834,NA,NA,NA,Amasya,3,37,2076,NA,NA,NA,NA,NA,NA
+TR9,NA,Doğu Karadeniz,NA,NA,1,37,2077,NA,NA,NA,NA,NA,NA
+TR90,NA,NA,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",NA,2,37,2078,NA,NA,NA,NA,NA,NA
+TR901,NA,NA,NA,Trabzon,3,37,2079,NA,NA,NA,NA,NA,NA
+TR902,NA,NA,NA,Ordu,3,37,2080,NA,NA,NA,NA,NA,NA
+TR903,NA,NA,NA,Giresun,3,37,2081,NA,NA,NA,NA,NA,NA
+TR904,NA,NA,NA,Rize,3,37,2082,NA,NA,NA,NA,NA,NA
+TR905,NA,NA,NA,Artvin,3,37,2083,NA,NA,NA,NA,NA,NA
+TR906,NA,NA,NA,Gümüşhane,3,37,2084,NA,NA,NA,NA,NA,NA
+TRA,NA,Kuzeydoğu Anadolu,NA,NA,1,37,2085,NA,NA,NA,NA,NA,NA
+TRA1,NA,NA,"Erzurum, Erzincan, Bayburt",NA,2,37,2086,NA,NA,NA,NA,NA,NA
+TRA11,NA,NA,NA,Erzurum,3,37,2087,NA,NA,NA,NA,NA,NA
+TRA12,NA,NA,NA,Erzincan,3,37,2088,NA,NA,NA,NA,NA,NA
+TRA13,NA,NA,NA,Bayburt,3,37,2089,NA,NA,NA,NA,NA,NA
+TRA2,NA,NA,"Ağrı, Kars, Iğdır, Ardahan",NA,2,37,2090,NA,NA,NA,NA,NA,NA
+TRA21,NA,NA,NA,Ağrı,3,37,2091,NA,NA,NA,NA,NA,NA
+TRA22,NA,NA,NA,Kars,3,37,2092,NA,NA,NA,NA,NA,NA
+TRA23,NA,NA,NA,Iğdır,3,37,2093,NA,NA,NA,NA,NA,NA
+TRA24,NA,NA,NA,Ardahan,3,37,2094,NA,NA,NA,NA,NA,NA
+TRB,NA,Ortadoğu Anadolu,NA,NA,1,37,2095,NA,NA,NA,NA,NA,NA
+TRB1,NA,NA,"Malatya, Elazığ, Bingöl, Tunceli",NA,2,37,2096,NA,NA,NA,NA,NA,NA
+TRB11,NA,NA,NA,Malatya,3,37,2097,NA,NA,NA,NA,NA,NA
+TRB12,NA,NA,NA,Elazığ,3,37,2098,NA,NA,NA,NA,NA,NA
+TRB13,NA,NA,NA,Bingöl,3,37,2099,NA,NA,NA,NA,NA,NA
+TRB14,NA,NA,NA,Tunceli,3,37,2100,NA,NA,NA,NA,NA,NA
+TRB2,NA,NA,"Van, Muş, Bitlis, Hakkari",NA,2,37,2101,NA,NA,NA,NA,NA,NA
+TRB21,NA,NA,NA,Van,3,37,2102,NA,NA,NA,NA,NA,NA
+TRB22,NA,NA,NA,Muş,3,37,2103,NA,NA,NA,NA,NA,NA
+TRB23,NA,NA,NA,Bitlis,3,37,2104,NA,NA,NA,NA,NA,NA
+TRB24,NA,NA,NA,Hakkari,3,37,2105,NA,NA,NA,NA,NA,NA
+TRC,NA,Güneydoğu Anadolu,NA,NA,1,37,2106,NA,NA,NA,NA,NA,NA
+TRC1,NA,NA,"Gaziantep, Adıyaman, Kilis",NA,2,37,2107,NA,NA,NA,NA,NA,NA
+TRC11,NA,NA,NA,Gaziantep,3,37,2108,NA,NA,NA,NA,NA,NA
+TRC12,NA,NA,NA,Adıyaman,3,37,2109,NA,NA,NA,NA,NA,NA
+TRC13,NA,NA,NA,Kilis,3,37,2110,NA,NA,NA,NA,NA,NA
+TRC2,NA,NA,"Şanlıurfa, Diyarbakır",NA,2,37,2111,NA,NA,NA,NA,NA,NA
+TRC21,NA,NA,NA,Şanlıurfa,3,37,2112,NA,NA,NA,NA,NA,NA
+TRC22,NA,NA,NA,Diyarbakır,3,37,2113,NA,NA,NA,NA,NA,NA
+TRC3,NA,NA,"Mardin, Batman, Şırnak, Siirt",NA,2,37,2114,NA,NA,NA,NA,NA,NA
+TRC31,NA,NA,NA,Mardin,3,37,2115,NA,NA,NA,NA,NA,NA
+TRC32,NA,NA,NA,Batman,3,37,2116,NA,NA,NA,NA,NA,NA
+TRC33,NA,NA,NA,Şırnak,3,37,2117,NA,NA,NA,NA,NA,NA
+TRC34,NA,NA,NA,Siirt,3,37,2118,NA,NA,NA,NA,NA,NA
+TRZ,NA,Extra-Regio NUTS 1,NA,NA,1,37,2119,NA,NA,NA,NA,NA,NA
+TRZZ,NA,NA,Extra-Regio NUTS 2,NA,2,37,2120,NA,NA,NA,NA,NA,NA
+TRZZZ,NA,NA,NA,Extra-Regio NUTS 3,3,37,2121,NA,NA,NA,NA,NA,NA

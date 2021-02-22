@@ -1,4 +1,4 @@
-Code 2021,Country,NUTS level 1,NUTS level 2,NUTS level 3,NUTS level,Country order,Region order
+code2021,Country,NUTS1,NUTS2,NUTS3,NUTS_level,country_order,region_order
 BE,Belgique/België,NA,NA,NA,0,1,1
 BE1,NA,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,NA,NA,1,1,2
 BE10,NA,NA,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,NA,2,1,3

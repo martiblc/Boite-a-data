@@ -17,12 +17,10 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### Petits articles pratiques et autres
 
 ## Packages
-
 ### API
 - [TidyWikidataR](https://github.com/EDJNet/tidywikidatar/) -> Wikidata
 - [CatastRo](https://ropenspain.github.io/CatastRo/articles/CatastRo.html) -> catastro España
 - [osmdata](https://github.com/ropensci/osmdata?utm_source=pocket_mylist)-> API OSM
-
 ### Autres
 - [countrycode](https://vincentarelbundock.github.io/countrycode/) -> package R pour convertir noms de pays selon différentes normes ISO, formats, appellations... 
 

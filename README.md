@@ -2,7 +2,8 @@
 
 Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratiques, packages R à découvrir, outils divers et jeux de données.
 
-## Scripts pratiques
+## [Scripts pratiques](https://github.com/martiblc/Boite-magique-R/blob/main/scripts_pratiques.R)
+
 
 ## Manuels et tutoriels
 

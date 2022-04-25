@@ -9,7 +9,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 
 ### Gros manuels
 - [R for Data Science](https://r4ds.had.co.nz/)
-- 
+- [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
 
 ### Tutos longs
 - [How-to: Make your first interactive map in R](https://www.helenmakesmaps.com/post/how-to-make-your-first-interactive-map-in-r-gis?utm_source=pocket_mylist)

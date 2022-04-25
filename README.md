@@ -26,3 +26,6 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [countrycode](https://vincentarelbundock.github.io/countrycode/) -> package R pour convertir noms de pays selon différentes normes ISO, formats, appellations... 
 
 ## Jeux de données
+### Géo
+- [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
+- [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)

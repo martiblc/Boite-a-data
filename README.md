@@ -30,7 +30,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [Overpass API User's Manual](https://dev.overpass-api.de/overpass-doc/en/)
 - [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 
-## 🔠 Jeux de données
+## 🔣 Jeux de données
 ### 🌍 Géo
 - [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
 - [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)

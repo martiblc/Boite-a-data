@@ -41,3 +41,5 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### 📈 Viz
 - [The R Graph Gallery](https://r-graph-gallery.com/index.html) -> galerie viz et code correspondant
 - [From data to viz](https://www.data-to-viz.com/) | [Data viz catalogue](https://datavizcatalogue.com/) | [Dataviz project](https://datavizproject.com/) -> guides pour bien choisir sa viz
+- Le guide du Financial Times
+![guide viz FT](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/poster.png?raw=true)

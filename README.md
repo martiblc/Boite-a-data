@@ -31,6 +31,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R&app=desktop) -> série vidéos par journaliste FT
 
+
 ## 🔣 Jeux de données
 ### 🌍 Géo
 - [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
@@ -41,7 +42,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### 💀 Regex
 - [RegEx101](https://regex101.com/) | [RegExR](https://regexr.com/) -> aide et tutos construction RegEx
 ### 📈 Viz
-- [RAWGraphs(https://app.rawgraphs.io/) -> web app test rapide différentes viz
+- [RAWGraphs](https://app.rawgraphs.io/) -> web app test rapide différentes viz
 - [The R Graph Gallery](https://r-graph-gallery.com/index.html) -> galerie viz et code correspondant
 - [From data to viz](https://www.data-to-viz.com/) | [Data viz catalogue](https://datavizcatalogue.com/) | [Dataviz project](https://datavizproject.com/) -> guides pour bien choisir sa viz
 - Le guide du Financial Times

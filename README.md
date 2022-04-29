@@ -41,6 +41,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### 💀 Regex
 - [RegEx101](https://regex101.com/) | [RegExR](https://regexr.com/) -> aide et tutos construction RegEx
 ### 📈 Viz
+- [RAWGraphs(https://app.rawgraphs.io/) -> web app test rapide différentes viz
 - [The R Graph Gallery](https://r-graph-gallery.com/index.html) -> galerie viz et code correspondant
 - [From data to viz](https://www.data-to-viz.com/) | [Data viz catalogue](https://datavizcatalogue.com/) | [Dataviz project](https://datavizproject.com/) -> guides pour bien choisir sa viz
 - Le guide du Financial Times

@@ -1,4 +1,4 @@
-# Boîte magique R
+# Boîte à data
 
 Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratiques, packages R à découvrir, outils divers et jeux de données.
 
@@ -29,6 +29,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### Articles pratiques et autres
 - [Overpass API User's Manual](https://dev.overpass-api.de/overpass-doc/en/)
 - [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
+- [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R&app=desktop) -> série vidéos par journaliste FT
 
 ## 🔣 Jeux de données
 ### 🌍 Géo

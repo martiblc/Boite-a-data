@@ -34,6 +34,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 
 ## 🔣 Jeux de données
 ### 🌍 Géo
+- [Codes et noms régions, départements, communes de France](https://github.com/martiblc/Boite-a-data/blob/main/donnees/comm_reg_dept_2022.csv)
 - [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
 - [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)
 

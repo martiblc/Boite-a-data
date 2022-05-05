@@ -16,12 +16,18 @@
 
 ## Nettoyage
 
--   Eliminer les doublons sur toute la ligne ou basé sur une colonne
+-   Éliminer les doublons sur toute la ligne ou basé sur une colonne
 
 <!-- -->
 
     distinct()
     distinct(COLONNE_A_TRIER, .keep_all = TRUE)
+
+-   Retirer tous les accents, cédilles…
+
+<!-- -->
+
+    mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
 
 ## Wrangling
 

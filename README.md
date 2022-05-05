@@ -27,6 +27,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [Functions and functional programming](https://wilkelab.org/SDS375/slides/functional-programming.html#1) -> pour mieux comprendre les boucles et fonctions
 
 ### Articles pratiques et autres
+- [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Overpass API User's Manual](https://dev.overpass-api.de/overpass-doc/en/)
 - [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R&app=desktop) -> série vidéos par journaliste FT

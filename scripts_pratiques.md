@@ -52,6 +52,13 @@
     #Moyenne glissante sur 7 jours
     slider::slide_dbl(n_dose1, sum, .before=6, .complete=TRUE)/7
 
+-   Sauvegarder résultat fonction dans environnement global R (à
+    utiliser dans fonction par exemple)
+
+<!-- -->
+
+    assign(x = nom_objet, value = objet, envir = .GlobalEnv)
+
 ## RegEx
 
 Utiliser str\_detect avec filter - str\_detect(df,“^F”)) -&gt; commence

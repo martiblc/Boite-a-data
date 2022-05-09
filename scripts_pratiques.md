@@ -1,6 +1,6 @@
 # Scripts pratiques
 
-## Import
+## 📂 Import
 
 -   [Importer fichier excel et joindre toutes les feuilles avec un
     identifiant](https://dominicroye.github.io/en/2019/import-excel-sheets-with-r/)
@@ -14,7 +14,7 @@
       set_names() %>%
       map_df(read_excel, path = lien, .id = "nomfuturecolonneidentifiant")
 
-## Nettoyage
+## 🧹 Nettoyage
 
 -   Éliminer les doublons sur toute la ligne ou basé sur une colonne
 
@@ -29,7 +29,7 @@
 
     mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
 
-## Wrangling
+## 🛠 Wrangling
 
 -   Filtrer valeurs qui contiennent caractères XYZ
 

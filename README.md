@@ -11,6 +11,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [CatastRo](https://ropenspain.github.io/CatastRo/articles/CatastRo.html) -> catastro España
 - [osmdata](https://github.com/ropensci/osmdata?utm_source=pocket_mylist)-> API OSM
 - [tidygeocoder](https://jessecambon.github.io/tidygeocoder/)
+- [BanR](https://github.com/joelgombin/banR) -> Base adresse nationale
 ### Autres
 - [countrycode](https://vincentarelbundock.github.io/countrycode/) -> package R pour convertir noms de pays selon différentes normes ISO, formats, appellations... 
 
@@ -31,6 +32,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [Overpass API User's Manual](https://dev.overpass-api.de/overpass-doc/en/)
 - [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R&app=desktop) -> série vidéos par journaliste FT
+- [frrrenchies](https://github.com/frrrenchies/frrrenchies) -> répertoire ressources R en français (packages tricolores, tutos...)
 
 
 ## 🔣 Jeux de données

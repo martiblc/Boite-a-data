@@ -26,6 +26,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### Tutos longs
 - [How-to: Make your first interactive map in R](https://www.helenmakesmaps.com/post/how-to-make-your-first-interactive-map-in-r-gis?utm_source=pocket_mylist)
 - [Functions and functional programming](https://wilkelab.org/SDS375/slides/functional-programming.html#1) -> pour mieux comprendre les boucles et fonctions
+- [Machine-Learning pour débutants](https://github.com/microsoft/ML-For-Beginners)
 
 ### Articles pratiques et autres
 - [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)

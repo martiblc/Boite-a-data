@@ -59,6 +59,14 @@
 
     assign(x = nom_objet, value = objet, envir = .GlobalEnv)
 
+-   Appliquer même fonction sur tout un rang de colonnes (utilisable avec group_by)
+
+<!-- -->
+
+  df %>%
+  group_by(colonne_groupe)%>%
+  summarise(across(1e_col_choisie:derniere_col_choisie, mean))
+
 ## RegEx
 
 Utiliser str\_detect avec filter - str\_detect(df,“^F”)) -&gt; commence

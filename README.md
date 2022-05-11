@@ -31,7 +31,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 ### Articles pratiques et autres
 - [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Overpass API User's Manual](https://dev.overpass-api.de/overpass-doc/en/)
-- [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html)[How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R&app=desktop) -> série vidéos par journaliste FT
 - [frrrenchies](https://github.com/frrrenchies/frrrenchies) -> répertoire ressources R en français (packages tricolores, tutos...)
 

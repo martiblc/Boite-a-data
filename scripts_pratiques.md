@@ -63,9 +63,9 @@
 
 <!-- -->
 
-  df %>%
-  group_by(colonne_groupe)%>%
-  summarise(across(1e_col_choisie:derniere_col_choisie, mean))
+    df %>%
+    group_by(colonne_groupe)%>%
+    summarise(across(1e_col_choisie:derniere_col_choisie, mean))
 
 ## RegEx
 

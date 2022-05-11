@@ -1,6 +1,6 @@
 library(tidyverse)
 
-setwd("C:/Users/mblancho/OneDrive - Groupe Figaro/Donnees")
+setwd("...")
 
 # Donnees INSEE : https://www.insee.fr/fr/information/6051727
 

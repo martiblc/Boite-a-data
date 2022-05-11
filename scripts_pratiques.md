@@ -61,11 +61,15 @@
 
 -   Appliquer même fonction sur tout un rang de colonnes (utilisable avec group_by)
 
+
 <!-- -->
 
     df %>%
     group_by(colonne_groupe)%>%
     summarise(across(1e_col_choisie:derniere_col_choisie, mean))
+    
+    #utiliser tilde avec fonction pour changer ses arguments
+    across(1e_col_choisie:derniere_col_choisie, ~ mean(.x, na.rm = TRUE))
 
 ## RegEx
 

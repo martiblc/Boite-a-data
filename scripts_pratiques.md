@@ -76,9 +76,9 @@
 
 <!-- -->
 
-  df %>%
-  rowwise() %>%
-  mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
+    df %>%
+    rowwise() %>%
+    mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
 
 ## RegEx
 

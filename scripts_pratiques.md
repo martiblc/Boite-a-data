@@ -70,6 +70,15 @@
     
     #utiliser tilde avec fonction pour changer ses arguments
     across(1e_col_choisie:derniere_col_choisie, ~ mean(.x, na.rm = TRUE))
+    
+-   Appliquer une fonction ou calcul en largeur (sur la ligne / rowwise)
+
+
+<!-- -->
+
+  df %>%
+  rowwise() %>%
+  mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
 
 ## RegEx
 

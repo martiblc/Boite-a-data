@@ -18,7 +18,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 
 ## 📕 Manuels et tutoriels
 ### Gros manuels
-- [R for Data Science](https://r4ds.had.co.nz/)
+- [**R for Data Science**](https://r4ds.had.co.nz/)
 - [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
 - [R Graphics Cookbook](https://r-graphics.org/)

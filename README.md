@@ -42,6 +42,9 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
 - [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)
 
+### 💶 Eco
+- [Revenus, pauvreté et niveau de vie par commune](https://github.com/martiblc/Boite-a-data/blob/main/donnees/eco/Revenus_pauvrete_niveauvie_19_Comm.csv), provenant d'un [fichier par Iris](https://github.com/martiblc/Boite-a-data/blob/main/donnees/eco/Revenus_pauvrete_niveauvie_19_Iris.csv)
+
 
 ## 🔨 Outils pratiques
 ### 💀 Regex

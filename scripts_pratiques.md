@@ -79,6 +79,20 @@
     df %>%
     rowwise() %>%
     mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
+    
+-   Normaliser/standardiser une série afin d'obtenir une note pour chaque valeur respectant les écarts
+
+
+<!-- -->
+
+    note_max_meilleur <- function(x) {
+    (x - min(x)) / (max(x) - min(x))
+    }
+
+    note_min_meilleur <- function(x) {
+    (x - max(x)) / (min(x) - max(x))
+    }
+    
 
 ## RegEx
 

@@ -52,30 +52,10 @@
     note_min_meilleur <- function(x) {
     (x - max(x)) / (min(x) - max(x))
     }
-    
--   Filtrer valeurs qui contiennent caractères XYZ
-
-<!-- -->
-
-    filter(grepl("CARACTERESXYZ", colonne_a_filtrer))
-
--   Changer valeurs d’une variable avec recode
-
-<!-- -->
-
-    mutate(variable=recode(variable, 
-                             `valeur_origine1`="valeur_finale1",
-                             `valeur_origine2`="valeur_finale2"))
-
-
--   Sauvegarder résultat fonction dans environnement global R (à
-    utiliser dans fonction par exemple)
-
-<!-- -->
-
-    assign(x = nom_objet, value = objet, envir = .GlobalEnv)
-
--   Appliquer même fonction sur tout un rang de colonnes (utilisable avec group_by)
+ 
+ ### Travail en largeur
+ 
+ -   Appliquer même fonction sur tout un rang de colonnes (utilisable avec group_by)
 
 
 <!-- -->
@@ -96,6 +76,31 @@
     rowwise() %>%
     mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
     
+### Fonctions maison
+
+-   Sauvegarder résultat fonction dans environnement global R (à
+    utiliser dans fonction par exemple)
+
+<!-- -->
+
+    assign(x = nom_objet, value = objet, envir = .GlobalEnv)
+    
+### Divers
+ 
+-   Filtrer valeurs qui contiennent caractères XYZ
+
+<!-- -->
+
+    filter(grepl("CARACTERESXYZ", colonne_a_filtrer))
+
+-   Changer valeurs d’une variable avec recode
+
+<!-- -->
+
+    mutate(variable=recode(variable, 
+                             `valeur_origine1`="valeur_finale1",
+                             `valeur_origine2`="valeur_finale2"))
+
 
 
 ## RegEx

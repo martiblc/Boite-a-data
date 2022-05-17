@@ -4,6 +4,8 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 
 ## [Scripts pratiques](https://github.com/martiblc/Boite-magique-R/blob/main/scripts_pratiques.md)
 
+Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet : (import)[https://github.com/martiblc/Boite-a-data/blob/main/scripts_pratiques.md#-import], (nettoyage)[https://github.com/martiblc/Boite-a-data/blob/main/scripts_pratiques.md#-nettoyage], (wrangling)[https://github.com/martiblc/Boite-a-data/blob/main/scripts_pratiques.md#-wrangling], (viz)[https://github.com/martiblc/Boite-a-data/blob/main/scripts_pratiques.md#viz], (regex)[https://github.com/martiblc/Boite-a-data/blob/main/scripts_pratiques.md#regex] et (autres)[https://github.com/martiblc/Boite-a-data/blob/main/scripts_pratiques.md#divers-1].
+
 
 ## 📦 Packages
 ### API

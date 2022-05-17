@@ -43,7 +43,7 @@ Répertoire personnel de manuels et tutoriels de code, bouts de scripts pratique
 - [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)
 
 ### 🏭 Pollution
-- [Population métropole Lyon surexposée au bruit routier (par commune)](https://github.com/martiblc/Boite-a-data/blob/main/donnees/pollution/pop_surex_bruit_routier.csv)
+- [Population métropole Lyon surexposée au bruit routier (par commune)](https://github.com/martiblc/Boite-a-data/blob/main/donnees/pollution/pop_surex_bruit_routier.csv) via [ça](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/bruit/20211220_planbruit-2021-2024.pdf)
 
 
 

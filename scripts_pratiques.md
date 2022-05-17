@@ -31,6 +31,28 @@
 
 ## 🛠 Wrangling
 
+### Calculs
+
+-   Calcul glissant (moyenne, somme,…)
+
+<!-- -->
+
+    #Moyenne glissante sur 7 jours
+    slider::slide_dbl(n_dose1, sum, .before=6, .complete=TRUE)/7
+
+-   Normaliser/standardiser une série afin d'obtenir une note pour chaque valeur respectant les écarts
+
+
+<!-- -->
+
+    note_max_meilleur <- function(x) {
+    (x - min(x)) / (max(x) - min(x))
+    }
+
+    note_min_meilleur <- function(x) {
+    (x - max(x)) / (min(x) - max(x))
+    }
+    
 -   Filtrer valeurs qui contiennent caractères XYZ
 
 <!-- -->
@@ -45,12 +67,6 @@
                              `valeur_origine1`="valeur_finale1",
                              `valeur_origine2`="valeur_finale2"))
 
--   Calcul glissant (moyenne, somme,…)
-
-<!-- -->
-
-    #Moyenne glissante sur 7 jours
-    slider::slide_dbl(n_dose1, sum, .before=6, .complete=TRUE)/7
 
 -   Sauvegarder résultat fonction dans environnement global R (à
     utiliser dans fonction par exemple)
@@ -80,19 +96,7 @@
     rowwise() %>%
     mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
     
--   Normaliser/standardiser une série afin d'obtenir une note pour chaque valeur respectant les écarts
 
-
-<!-- -->
-
-    note_max_meilleur <- function(x) {
-    (x - min(x)) / (max(x) - min(x))
-    }
-
-    note_min_meilleur <- function(x) {
-    (x - max(x)) / (min(x) - max(x))
-    }
-    
 
 ## RegEx
 

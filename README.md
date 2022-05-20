@@ -24,6 +24,7 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 - [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
 - [R Graphics Cookbook](https://r-graphics.org/)
+- [Javascript for R](https://book.javascript-for-r.com/)
 
 ### Tutos longs
 - [How-to: Make your first interactive map in R](https://www.helenmakesmaps.com/post/how-to-make-your-first-interactive-map-in-r-gis?utm_source=pocket_mylist)

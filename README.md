@@ -48,6 +48,9 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 ### 🏭 Pollution
 - [Population métropole Lyon surexposée au bruit routier (par commune)](https://github.com/martiblc/Boite-a-data/blob/main/donnees/pollution/pop_surex_bruit_routier.csv) via [ça](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/bruit/20211220_planbruit-2021-2024.pdf)
 
+### 💊 Santé
+- [Healthcare access quality index](https://github.com/martiblc/Boite-a-data/blob/main/donnees/sante/HAQIndex_90-16.csv) - [source étude Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30994-2/fulltext#tables) 
+
 
 
 ## 🔨 Outils pratiques

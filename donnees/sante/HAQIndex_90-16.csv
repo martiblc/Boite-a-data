@@ -1,0 +1,196 @@
+Country;HAQ Index 1990;HAQ Index 2000;HAQ Index 2016
+China;42,6;53,3;77,9
+North Korea;49,6;47,6;53,4
+Taiwan (Province of China);60,6;71,8;85,4
+American Samoa;47,6;55,9;59,5
+Federated States of Micronesia;27,9;32,2;41,6
+Fiji;41;43,3;47,9
+Guam;61,9;71,3;68,7
+Kiribati;20,3;23;26,5
+Marshall Islands;33,1;34,5;43
+Northern Mariana Islands;61,5;71,9;73,7
+Papua New Guinea;22,9;28,5;31,8
+Samoa;37,4;43,6;47,6
+Solomon Islands;26,7;31,4;32,4
+Tonga;38,4;42,8;49,6
+Vanuatu;28,2;28,7;32,4
+Cambodia;20,3;23;39,4
+Indonesia;28,9;33;44,5
+Laos;18;21,8;36,6
+Malaysia;44,2;54,2;68,1
+Maldives;37,6;52,7;70,4
+Mauritius;53,9;61,9;68,7
+Myanmar;19,9;23,1;41,6
+Philippines;39;42,7;51,2
+Seychelles;45,9;57,3;65,6
+Sri Lanka;47,4;54,4;70,6
+Thailand;44,4;54,7;69,5
+Timor–Leste;22,2;27,3;43,4
+Vietnam;36,6;44,7;60,3
+Armenia;55,7;58,9;70,7
+Azerbaijan;49,6;51,9;65,6
+Georgia;61,2;63,4;67,1
+Kazakhstan;55,5;54,1;69,1
+Kyrgyzstan;50,9;52,6;60,6
+Mongolia;36,6;38,7;53,4
+Tajikistan;41,3;42,6;51,7
+Turkmenistan;45,4;49,1;61,6
+Uzbekistan;50,3;52,8;62,9
+Albania;54,8;63,6;75,4
+Bosnia and Herzegovina;52,3;61,3;72,2
+Bulgaria;65,1;68;77,2
+Croatia;73,9;78,1;86,9
+Czech Republic;72,2;81,4;89
+Hungary;66,4;74,5;82,1
+Macedonia;59,3;65,3;75,1
+Montenegro;69,1;70,3;81
+Poland;61;70,8;82,4
+Romania;59,1;66,8;78,3
+Serbia;64,7;66,9;77,2
+Slovakia;67,8;73,6;83,3
+Slovenia;74,1;79,5;90,8
+Belarus;64,8;66,1;79
+Estonia;68,2;71,6;85,9
+Latvia;67,3;69,6;80,7
+Lithuania;69,3;72,1;80,5
+Moldova;56,6;58,1;67,4
+Russia;63,1;62,5;75,1
+Ukraine;64,9;64;74,6
+Australia;83,9;90,4;95,9
+New Zealand;80,2;87;92,4
+Brunei;62,9;70;76,4
+Japan;80,9;86,9;94,1
+Singapore;69,2;79,7;90,6
+South Korea;59,5;74,4;90,3
+Canada;83,2;89,3;93,8
+Greenland;54;59,2;67,5
+USA;80,7;86,8;88,7
+Argentina;53,8;61,7;68,1
+Chile;56,5;67;77,9
+Uruguay;57,9;64,7;71
+Andorra;84,7;92,8;94,7
+Austria;80,9;87,4;93,9
+Belgium;80,7;86,1;92,9
+Cyprus;68,3;78;90,3
+Denmark;81,1;85;92,1
+Finland;81;87,7;95,9
+France;77,6;84,1;91,7
+Germany;78,9;86,1;92
+Greece;79,5;85,3;90,4
+Iceland;87;92,8;97,1
+Ireland;76,3;83,9;94,6
+Israel;71,2;77,9;84,8
+Italy;81,5;88,8;94,9
+Luxembourg;81,4;90,3;96
+Malta;75;81,1;89,9
+Netherlands;84,1;88,6;96,1
+Norway;84;90,6;96,6
+Portugal;67,1;76,2;85,7
+Spain;76,2;84,1;91,9
+Sweden;85,2;92,4;95,5
+Switzerland;86,8;91,6;95,6
+UK;78;83,9;90,5
+Bolivia;26,2;36,5;48,8
+Ecuador;37,8;51,1;62,2
+Peru;38,6;51;64,3
+Antigua and Barbuda;57;62,8;69,8
+Barbados;59,3;67,3;70,8
+Belize;46,6;48,6;55,7
+Bermuda;63,1;73,5;83,1
+Cuba;63,7;67,3;75,5
+Dominica;52,4;58,9;61,9
+Dominican Republic;38,4;52,5;61,2
+Grenada;47,2;53,2;58,5
+Guyana;38,4;43,2;49,8
+Haiti;16,7;23,2;32,1
+Jamaica;51,1;56,4;62
+Puerto Rico;67,1;74,6;82,7
+Saint Lucia;48,9;56,8;63,3
+Saint Vincent and the Grenadines;49,6;53;57,4
+Suriname;41,9;45,6;54,5
+The Bahamas;56,1;63,4;66,4
+Trinidad and Tobago;51,2;55,7;64,3
+Virgin Islands;57,2;65,7;74
+Colombia;48,5;57,6;68,5
+Costa Rica;60,7;64,7;73,7
+El Salvador;38,1;52,1;63,2
+Guatemala;30,4;42;51,5
+Honduras;28,1;38,1;46,5
+Mexico;45,5;59;66,3
+Nicaragua;43,1;49,8;61,2
+Panama;52,1;60,8;68,3
+Venezuela;51,3;60;67,8
+Brazil;46,5;55,3;63,8
+Paraguay;43,1;49,8;56,7
+Afghanistan;15,8;14,9;25,9
+Algeria;42,8;50,6;63,1
+Bahrain;49,9;59,4;72
+Egypt;34,2;45,9;58
+Iran;49,3;61;71,8
+Iraq;42,4;43,4;51,1
+Jordan;50;58,3;70,2
+Kuwait;66,8;70,8;80,7
+Lebanon;53,1;67,2;85,6
+Libya;50,9;57,9;71,1
+Morocco;37,5;44,6;57,6
+Oman;52,5;63,4;76,2
+Palestine;48,1;54,1;57,4
+Qatar;57,7;64,6;81,7
+Saudi Arabia;49,9;56,6;77,1
+Sudan;28,6;33,7;45,8
+Syria;45,5;56,7;67,2
+Tunisia;47,6;59;69,4
+Turkey;42,5;53,9;74,4
+United Arab Emirates;49,8;60,2;70,3
+Yemen;25,2;31,4;43,3
+Bangladesh;17,8;27,5;47,6
+Bhutan;20;29,6;47,3
+India;24,7;28;41,2
+Nepal;21;26,5;40
+Pakistan;26,8;27,4;37,6
+Angola;18,4;20,6;33,4
+Central African Republic;15,8;16,1;18,6
+Congo (Brazzaville);21;21,9;34,1
+Democratic Republic of the Congo;21,7;22,1;29,6
+Equatorial Guinea;13,9;25,7;49,3
+Gabon;27,7;28,6;40,4
+Burundi;14,3;17,7;27,4
+Comoros;19,4;23,4;33
+Djibouti;23,1;24,3;35
+Eritrea;12,2;20,7;27,6
+Ethiopia;10,6;14;28,1
+Kenya;32,4;32,3;39,5
+Madagascar;20,6;23,8;29,6
+Malawi;19;21,5;32,2
+Mozambique;13,8;21,1;30
+Rwanda;16,7;18,6;36
+Somalia;12,8;13,5;19
+South Sudan;22;23,6;26,8
+Tanzania;21,9;24,7;33,9
+Uganda;19,3;23,7;31,4
+Zambia;21,9;17,2;29
+Botswana;36,5;39,7;51,5
+Lesotho;30,3;29,2;32
+Namibia;27,5;32,2;44,6
+South Africa;40,1;40,9;49,7
+Swaziland;32;34,4;40,5
+Zimbabwe;37,3;31,4;31,2
+Benin;19,7;22,7;30,8
+Burkina Faso;16,4;21,9;30,1
+Cameroon;23,4;23,8;31,9
+Cape Verde;38,1;41,4;54,8
+Chad;18,3;18,2;25,4
+Côte d'Ivoire;19,9;20,7;27,3
+Ghana;25,6;29,6;39,3
+Guinea;17,1;20,1;26,4
+Guinea–Bissau;12,8;15,7;23,4
+Liberia;20,5;23,2;32,2
+Mali;16,7;23,7;34,9
+Mauritania;24;29,7;40,6
+Niger;15,6;19,1;28,4
+Nigeria;27,5;29,8;41,9
+São Tomé and Principe;25,9;30;39,3
+Senegal;22,4;24,5;31,1
+Sierra Leone;20,8;22,1;31
+The Gambia;27,4;29,9;35,7
+Togo;21,7;23;32

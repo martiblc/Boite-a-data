@@ -45,6 +45,9 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 - [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
 - [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)
 
+### 👨‍👨‍👧‍👦 Démographie
+- [Nacionalidad por barrios de Barcelona](https://github.com/martiblc/Boite-a-data/blob/main/donnees/demographie/bcn_barris_nacionalidad.csv)
+
 ### 🏭 Pollution
 - [Population métropole Lyon surexposée au bruit routier (par commune)](https://github.com/martiblc/Boite-a-data/blob/main/donnees/pollution/pop_surex_bruit_routier.csv) via [ça](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/bruit/20211220_planbruit-2021-2024.pdf)
 

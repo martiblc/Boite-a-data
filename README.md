@@ -37,6 +37,7 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) et [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R&app=desktop) -> série vidéos par journaliste FT
 - [frrrenchies](https://github.com/frrrenchies/frrrenchies) -> répertoire ressources R en français (packages tricolores, tutos...)
+- [The Seven Key Things You Need To Know About dplyr 1.0.0](https://towardsdatascience.com/what-you-need-to-know-about-the-new-dplyr-1-0-0-7eaaaf6d78ac)
 
 
 ## 🔣 Jeux de données

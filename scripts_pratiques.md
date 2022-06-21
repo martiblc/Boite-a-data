@@ -10,7 +10,7 @@
     lien <- ("C:/Users/user/Documents/0_PRO/Data et scripts/NOMDUFICHIER.xlsx")
 
     df <- lien %>%
-      excel_sheets()%>%
+      excel_sheets() %>%
       set_names() %>%
       map_df(read_excel, path = lien, .id = "nomfuturecolonneidentifiant")
 
@@ -27,7 +27,7 @@
 
 <!-- -->
 
-    mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
+    mutate(colonne = iconv(colonne, from = "UTF-8", to = "ASCII//TRANSLIT"))
 
 ## 🛠 Wrangling
 
@@ -38,7 +38,7 @@
 <!-- -->
 
     #Moyenne glissante sur 7 jours
-    slider::slide_dbl(n_dose1, sum, .before=6, .complete=TRUE)/7
+    slider::slide_dbl(n_dose1, sum, .before = 6, .complete = TRUE) / 7
 
 -   Normaliser/standardiser une série afin d'obtenir une note pour chaque valeur respectant les écarts
 
@@ -74,7 +74,7 @@
 
     df %>%
     rowwise() %>%
-    mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie))/4)
+    mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie)) / 4)
     
 ### Fonctions maison
 
@@ -97,17 +97,18 @@
 
 <!-- -->
 
-    mutate(variable=recode(variable, 
-                             `valeur_origine1`="valeur_finale1",
-                             `valeur_origine2`="valeur_finale2"))
+    mutate(variable = recode(variable, 
+                             `valeur_origine1` = "valeur_finale1",
+                             `valeur_origine2` = "valeur_finale2"))
 
 -   Changer valeurs dans plusieurs variables
 
 <!-- -->
 
-    mutate_at(c("var1","Var2", 
-              funs(recode(., valeur1 = "val_1.1",
-                             valeur2 = "val_2.1")   
+    mutate_at(c("var1","Var2"), 
+              list(~ recode(., valeur1 = "val_1.1",
+                             valeur2 = "val_2.1",
+                             .default = NaN))) 
     
 
 ## RegEx
@@ -129,7 +130,7 @@ Utiliser aussi if\_any, ends\_with et starts\_with
 
 <!-- -->
 
-    ggsave(filename = "NOMDUFICHIER.png", width=18, height = 13, units = "cm",type="cairo-png")
+    ggsave(filename = "NOMDUFICHIER.png", width=18, height = 13, units = "cm", type = "cairo-png")
 
 -   Utiliser subset pour filtrer
 

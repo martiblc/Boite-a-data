@@ -42,7 +42,7 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 
 ## 🔣 Jeux de données
 ### 🌍 Géo
-- [Codes et noms régions, départements, communes de France](https://github.com/martiblc/Boite-a-data/blob/main/donnees/comm_reg_dept_2022.csv)
+- [Codes et noms régions, départements, communes de France](https://github.com/martiblc/Boite-a-data/blob/main/donnees/geo/comm_reg_dept_2022.csv)
 - [Codes NUTS 2021](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/NUTS2021.csv)
 - [Codes pays et continents](https://github.com/martiblc/Boite-magique-R/blob/main/donnees/codepayscontinents.csv)
 

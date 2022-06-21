@@ -101,7 +101,14 @@
                              `valeur_origine1`="valeur_finale1",
                              `valeur_origine2`="valeur_finale2"))
 
+-   Changer valeurs dans plusieurs variables
 
+<!-- -->
+
+    mutate_at(c("var1","Var2", 
+              funs(recode(., valeur1 = "val_1.1",
+                             valeur2 = "val_2.1")   
+    
 
 ## RegEx
 

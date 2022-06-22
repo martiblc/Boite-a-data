@@ -10,7 +10,7 @@
     lien <- ("C:/Users/user/Documents/0_PRO/Data et scripts/NOMDUFICHIER.xlsx")
 
     df <- lien %>%
-      excel_sheets() %>%
+      excel_sheets()%>%
       set_names() %>%
       map_df(read_excel, path = lien, .id = "nomfuturecolonneidentifiant")
 
@@ -27,7 +27,7 @@
 
 <!-- -->
 
-    mutate(colonne = iconv(colonne, from = "UTF-8", to = "ASCII//TRANSLIT"))
+    mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
 
 ## 🛠 Wrangling
 
@@ -37,11 +37,11 @@
 
 <!-- -->
 
-    #Moyenne glissante sur 7 jours
-    slider::slide_dbl(n_dose1, sum, .before = 6, .complete = TRUE) / 7
+    # Moyenne glissante sur 7 jours
+    slider::slide_dbl(n_dose1, sum, .before=6, .complete = TRUE) / 7
 
--   Normaliser/standardiser une série afin d'obtenir une note pour chaque valeur respectant les écarts
-
+-   Normaliser/standardiser une série afin d’obtenir une note pour
+    chaque valeur respectant les écarts
 
 <!-- -->
 
@@ -52,30 +52,28 @@
     note_min_meilleur <- function(x) {
     (x - max(x)) / (min(x) - max(x))
     }
- 
- ### Travail en largeur
- 
- -   Appliquer même fonction sur tout un rang de colonnes (utilisable avec group_by)
 
+### Travail en largeur
+
+-   Appliquer même fonction sur tout un rang de colonnes (utilisable
+    avec group\_by)
 
 <!-- -->
 
-    df %>%
-    group_by(colonne_groupe)%>%
-    summarise(across(1e_col_choisie:derniere_col_choisie, mean))
-    
-    #utiliser tilde avec fonction pour changer ses arguments
-    across(1e_col_choisie:derniere_col_choisie, ~ mean(.x, na.rm = TRUE))
-    
+    df %>% group_by(colonne_groupe) %>%
+      summarise(across(1e_col_choisie:derniere_col_choisie, mean))
+
+    # Utiliser tilde avec fonction pour changer ses arguments
+      summarise(across(1e_col_choisie:derniere_col_choisie, ~ mean(.x, na.rm = TRUE)))
+
 -   Appliquer une fonction ou calcul en largeur (sur la ligne / rowwise)
 
-
 <!-- -->
 
     df %>%
-    rowwise() %>%
-    mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie)) / 4)
-    
+      rowwise() %>%
+      mutate(nouvelle_col = sum(c_across(1e_col_choisie:derniere_col_choisie)) / 4)
+
 ### Fonctions maison
 
 -   Sauvegarder résultat fonction dans environnement global R (à
@@ -84,14 +82,31 @@
 <!-- -->
 
     assign(x = nom_objet, value = objet, envir = .GlobalEnv)
-    
-### Divers
- 
+
+### Filtrer
+
 -   Filtrer valeurs qui contiennent caractères XYZ
 
 <!-- -->
 
     filter(grepl("CARACTERESXYZ", colonne_a_filtrer))
+
+-   [Filtrer dans plusieurs
+    variables](https://dplyr.tidyverse.org/reference/filter_all.html#arguments)
+    -   if\_any() si la condition doit être remplie dans une seule des
+        variables au moins
+    -   if\_all() si elle doit l’être dans toutes les variables
+
+Les deux se basent sur une fonction pour filter. Il faut donc
+l’introduire avec le tilde. Le .x avant un opérateur permet de le
+considérer comme une fonction (sinon ça marche pas).
+
+    filter(if_any(everything(), ~ .x == "Poor" ))
+
+    # everything() pour sélectionner toutes les variables
+    # across() pour sélectionner une plage
+
+    filter(across(quality2018:quality2021, ~ !is.na(.x)))
 
 -   Changer valeurs d’une variable avec recode
 
@@ -109,7 +124,6 @@
               list(~ recode(., valeur1 = "val_1.1",
                              valeur2 = "val_2.1",
                              .default = NaN))) 
-    
 
 ## RegEx
 
@@ -130,7 +144,7 @@ Utiliser aussi if\_any, ends\_with et starts\_with
 
 <!-- -->
 
-    ggsave(filename = "NOMDUFICHIER.png", width=18, height = 13, units = "cm", type = "cairo-png")
+    ggsave(filename = "NOMDUFICHIER.png", width=18, height = 13, units = "cm",type="cairo-png")
 
 -   Utiliser subset pour filtrer
 

@@ -98,8 +98,9 @@
     -   if\_all() si elle doit l’être dans toutes les variables
 
 Les deux se basent sur une fonction pour filter. Il faut donc
-l’introduire avec le tilde. Le .x avant un opérateur permet de le
-considérer comme une fonction (sinon ça marche pas).
+l’introduire avec le tilde. Le .x avant un opérateur est nécessaire pour
+lui introduire chacune des variables que va itérer le everything() ou
+across().
 
     filter(if_any(everything(), ~ .x == "Poor" ))
 

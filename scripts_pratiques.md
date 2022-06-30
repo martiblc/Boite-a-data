@@ -20,14 +20,37 @@
 
 <!-- -->
 
-    distinct()
-    distinct(COLONNE_A_TRIER, .keep_all = TRUE)
+    # Exclure les doublons
+    df %>% distinct(col1, col2, col3, .keep_all = T)
+
+    # Garder que les doublons
+    df %>% group_by(col1, col2, col3) %>% filter(n() > 1)
+
+    # Filtrer les doublons
+    df %>% group_by(col1, col2, col3) %>% filter(n() == 1)
+
+    # Méthode de base pour exclure les doublons
+    df[!duplicated(df[1:3]), ]
+    df[!duplicated(df[c("col1", "col2"), ]), ]
 
 -   Retirer tous les accents, cédilles…
 
 <!-- -->
 
     mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
+
+-   Utiliser mutate\_at pour appliquer facilement fonction et remplacer
+    valeurs
+
+<!-- -->
+
+    # Exemple 1
+    df %>% mutate_at("var1", ~str_replace_all(., " ", "<br>"))
+
+    # Exemple 2
+    df %>% mutate_at("var2", ~replace(., is.nan(.), 0))
+
+-   E
 
 ## 🛠 Wrangling
 
@@ -64,6 +87,7 @@
       summarise(across(1e_col_choisie:derniere_col_choisie, mean))
 
     # Utiliser tilde avec fonction pour changer ses arguments
+    df %>% group_by(colonne_groupe) %>%
       summarise(across(1e_col_choisie:derniere_col_choisie, ~ mean(.x, na.rm = TRUE)))
 
 -   Appliquer une fonction ou calcul en largeur (sur la ligne / rowwise)
@@ -109,22 +133,43 @@ across().
 
     filter(across(quality2018:quality2021, ~ !is.na(.x)))
 
--   Changer valeurs d’une variable avec recode
+### Divers
+
+-   Changer valeurs d’une ou plusieurs variables avec recode
 
 <!-- -->
 
-    mutate(variable = recode(variable, 
-                             `valeur_origine1` = "valeur_finale1",
-                             `valeur_origine2` = "valeur_finale2"))
+    # Changer valeurs d'une variable
+    mutate(col1 = recode(col1, 
+                             `valeur1` = "val_1.1",
+                             `valeur2` = "val_2.1"))
 
--   Changer valeurs dans plusieurs variables
-
-<!-- -->
-
-    mutate_at(c("var1","Var2"), 
+    # Changer valeurs dans plusieurs variables 
+    mutate_at(c("col1","col2"), 
               list(~ recode(., valeur1 = "val_1.1",
                              valeur2 = "val_2.1",
                              .default = NaN))) 
+
+-   Changer valeurs d’une variable avec une ou plusieurs conditions avec
+    case\_when
+
+<!-- -->
+
+    # Utilisation classique avec case_when
+    df %>% 
+      mutate_at("col1",funs(
+        case_when(col1 == 1 ~ "alt1",
+                  col1 == 2 ~ "alt2",
+                  T ~ "alt3")))
+
+
+    # Utilisation case_when avec between (rang numérique)
+    df %>% 
+      mutate(col1 = case_when(
+          between(var2, 1, 5) ~ "A",
+          between(var2, 6, 10) ~ "B",
+          T ~ col1)
+          )
 
 ## RegEx
 

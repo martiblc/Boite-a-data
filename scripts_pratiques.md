@@ -50,8 +50,6 @@
     # Exemple 2
     df %>% mutate_at("var2", ~replace(., is.nan(.), 0))
 
--   E
-
 ## 🛠 Wrangling
 
 ### Calculs
@@ -170,6 +168,12 @@ across().
           between(var2, 6, 10) ~ "B",
           T ~ col1)
           )
+
+-   Copier dataframe dans le presse-papier
+
+<!-- -->
+
+    clipr::write_clip(data)  
 
 ## RegEx
 

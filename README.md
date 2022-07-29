@@ -30,6 +30,7 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 - [How-to: Make your first interactive map in R](https://www.helenmakesmaps.com/post/how-to-make-your-first-interactive-map-in-r-gis?utm_source=pocket_mylist)
 - [Functions and functional programming](https://wilkelab.org/SDS375/slides/functional-programming.html#1) -> pour mieux comprendre les boucles et fonctions
 - [Machine-Learning pour débutants](https://github.com/microsoft/ML-For-Beginners)
+- [How to Crack Open NetCDF Files in R and Extract Data as Time Series](https://towardsdatascience.com/how-to-crack-open-netcdf-files-in-r-and-extract-data-as-time-series-24107b70dcd)
 
 ### Articles pratiques et autres
 - [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)

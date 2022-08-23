@@ -48,6 +48,13 @@ df[!duplicated(df[c("col1", "col2"), ]), ]
 mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
 ```
 
+-   Retirer tous les espaces
+
+```{r}
+mutate(across(where(is.character), str_remove_all, " "))
+```
+
+
 -   Utiliser mutate_at pour appliquer facilement fonction et remplacer valeurs
 
 ```{r}
@@ -58,11 +65,6 @@ df %>% mutate_at("var1", ~str_replace_all(., " ", "<br>"))
 df %>% mutate_at("var2", ~replace(., is.nan(.), 0))
 ```
 
--   E
-
-```{r}
-
-```
 
 ## 🛠 Wrangling
 
@@ -175,6 +177,14 @@ df %>%
       T ~ col1)
       )
 ```
+
+- Copier dataframe dans le presse-papier
+
+```{r}
+clipr::write_clip(data)  
+```
+
+
 
 ## RegEx
 

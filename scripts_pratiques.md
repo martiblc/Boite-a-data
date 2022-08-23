@@ -39,6 +39,12 @@
 
     mutate(colonne = iconv(colonne, from="UTF-8",to="ASCII//TRANSLIT"))
 
+-   Retirer tous les espaces
+
+<!-- -->
+
+    mutate(across(where(is.character), str_remove_all, " "))
+
 -   Utiliser mutate\_at pour appliquer facilement fonction et remplacer
     valeurs
 
@@ -178,7 +184,7 @@ across().
 ## RegEx
 
 Utiliser str\_detect avec filter - str\_detect(df,“^F”)) -&gt; commence
-par F - “F$” -&gt; finit par F - “\\d” -&gt; contient des chiffres - !
+par F - “F$” -&gt; finit par F - “\d” -&gt; contient des chiffres - !
 -&gt; placé devant str\_detect comme argument “SAUF”
 
 Utiliser aussi if\_any, ends\_with et starts\_with

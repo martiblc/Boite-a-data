@@ -56,6 +56,9 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 ### 💊 Santé
 - [Healthcare access quality index](https://github.com/martiblc/Boite-a-data/blob/main/donnees/sante/HAQIndex_90-16.csv) - [source étude Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30994-2/fulltext#tables) 
 
+### 🚂 Transports
+- [Temps trajet de train minimum ville -> Paris](https://github.com/martiblc/Boite-a-data/blob/main/donnees/transports/tps_min_train_paris.csv) (source : SNCF à partir url base https://www.sncf-connect.com/train/trajet/VILLE/paris)
+
 
 
 ## 🔨 Outils pratiques

@@ -16,6 +16,7 @@ Bouts de code souvent utilisés ou trop régulièrement cherchés sur internet :
 - [BanR](https://github.com/joelgombin/banR) -> Base adresse nationale
 ### Espagne
 - [Climaemet](https://github.com/rOpenSpain/climaemet/tree/788cd2161e4dfe2c194ce3000a93962f256cabac) -> données météo AEMET (historique et prévisions)
+- [Packages rOpenSpain](https://ropenspain.es/paquetes/) -> série de paquets pour open data espagnol (Catastro, geocoding, BOE...)
 ### Autres
 - [countrycode](https://vincentarelbundock.github.io/countrycode/) -> package R pour convertir noms de pays selon différentes normes ISO, formats, appellations... 
 

@@ -16,6 +16,12 @@
 
 ## 🧹 Nettoyage
 
+-   Nettoyer automatiquement les titres
+
+<!-- -->
+
+    df %>% janitor::clean_names()
+
 -   Éliminer les doublons sur toute la ligne ou basé sur une colonne
 
 <!-- -->
